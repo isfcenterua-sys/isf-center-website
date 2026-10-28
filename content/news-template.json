@@ -1,0 +1,8 @@
+{
+  "slug": "replace-with-confirmed-story-slug",
+  "published": false,
+  "date": "YYYY-MM-DD",
+  "title": {"uk": "", "en": ""},
+  "summary": {"uk": "", "en": ""},
+  "paragraphs": {"uk": [], "en": []}
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "garden-pond",
+    "category": "nature",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Ставок, місток і дерева на території",
+      "en": "A pond, footbridge and trees in the grounds"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "chapel-path",
+    "category": "spiritual",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Кам’яна ніша з релігійною скульптурою серед зелені",
+      "en": "A stone niche with a religious statue among trees"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "garden-courtyard",
+    "category": "grounds",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Доріжка між будівлями, хвойні дерева та осінній сад",
+      "en": "A path between buildings with conifers and an autumn garden"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "bedroom",
+    "category": "interior",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Кімната з ліжками, дерев’яними дверима та іконами",
+      "en": "A room with beds, wooden doors and icons"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "bedroom-secondary",
+    "category": "interior",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Кімната з двома ліжками, шафою та столиком",
+      "en": "A room with two beds, a wardrobe and a small table"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "garden-animals",
+    "category": "nature",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Кози біля огорожі під осінніми деревами",
+      "en": "Goats beside a fence under autumn trees"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "community-chapel",
+    "category": "community",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Спільне фото громади перед іконостасом",
+      "en": "A community group photograph in front of the iconostasis"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "community-outdoors",
+    "category": "community",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Троє людей із громади біля дерев’яних дверей будівлі",
+      "en": "Three people from the community beside the wooden doors of a building"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "community-table",
+    "category": "community",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Люди з громади за довгим дерев’яним столом",
+      "en": "People from the community at a long wooden table"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "community-kitchen",
+    "category": "interior",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Четверо людей із громади у кухонному приміщенні",
+      "en": "Four people from the community in a kitchen"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "garden-work",
+    "category": "nature",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Двоє людей у городі біля рослин і відра",
+      "en": "Two people in a vegetable garden beside plants and a bucket"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "bishop-vitalii",
+    "category": "portraits",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Єпископ Віталій Ананченко на портретному фото",
+      "en": "Bishop Vitalii Ananchenko in a portrait photograph"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": "vitalii"
+  },
+  {
+    "id": "archimandrite-mykola",
+    "category": "portraits",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Отець Микола Ананченко, архимандрит, на портретному фото",
+      "en": "Fr Mykola Ananchenko, Archimandrite, in a portrait photograph"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": "mykola"
+  },
+  {
+    "id": "mother-mariia",
+    "category": "portraits",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Матушка Марія на портретному фото",
+      "en": "Mother Mariia in a portrait photograph"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": "mariia"
+  },
+  {
+    "id": "portrait-person-01",
+    "category": "portraits",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Портрет жінки в чорному головному уборі біля світлої стіни",
+      "en": "A portrait of a woman wearing a black head covering beside a light wall"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": "person-01"
+  },
+  {
+    "id": "portrait-person-02",
+    "category": "portraits",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Портрет жінки в синьому вбранні та світлій хустці в саду",
+      "en": "A portrait of a woman in blue clothing and a light headscarf in a garden"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": "person-02"
+  },
+  {
+    "id": "portrait-person-03",
+    "category": "portraits",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Жінка в темній хустці тримає чорно-білого кота у дворі",
+      "en": "A woman in a dark headscarf holding a black and white cat in a courtyard"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": "person-03"
+  },
+  {
+    "id": "portrait-person-04",
+    "category": "portraits",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Жінка в картатій сорочці біля огорожі з козами",
+      "en": "A woman in a checked shirt beside a fence with goats"
+    },
+    "caption": {
+      "uk": "",
+      "en": ""
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": "person-04"
+  }
+]

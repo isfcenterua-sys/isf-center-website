@@ -1,0 +1,14 @@
+{
+  "url": "https://isf-center-website.pages.dev",
+  "brand": "ISF",
+  "defaultLanguage": "uk",
+  "languages": ["uk", "en"],
+  "legalName": "Релігійна організація «Православна релігійна громада Апостольської традиції “Вишукування загиблих”»",
+  "registrationDate": "2005-05-20",
+  "registrationCode": "33760792",
+  "locality": {"uk": "Кибляри, Закарпаття, Україна", "en": "Kybliary, Zakarpattia, Ukraine"},
+  "contact": {"email": null, "phone": null, "visitingAddress": null, "socialLinks": []},
+  "mission": null,
+  "leadership": [],
+  "projects": []
+}
