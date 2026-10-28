@@ -38,3 +38,5 @@ The supplied certificate PNG is published unchanged with owner permission and a 
 Team/activity carousels support arrows, keyboard, horizontal scrolling, touch and reduced motion. Native dialogs support closing and focus restoration. Contact links and a copy-number fallback appear on both contact pages and all footers. Telegram phone links depend on discovery settings; Viber requires a compatible installed app.
 
 Fonts are local with OFL licences. No analytics, trackers, external font requests or heavy client frameworks.
+
+The Google `.html` verification URL has an explicit static 200 proxy rule to an identical plain-text build asset. This prevents Cloudflare Pages from redirecting it to an extensionless URL. The required root HTML file is still retained in every build; no Function or application architecture change is needed.

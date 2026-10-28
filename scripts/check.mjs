@@ -77,4 +77,7 @@ for(const lang of ['uk','en']){
  assert.ok(!icon.includes('isf-mother-of-god')||icon.includes('icon-original'),'Brand image must not replace documentary icon');
 }
 assert.equal(fs.readFileSync(path.join(root,'public/google696019cf5de45d47.html'),'utf8'),fs.readFileSync(path.join(out,'google696019cf5de45d47.html'),'utf8'));
+assert.equal(fs.readFileSync(path.join(out,'assets/google-verification.txt'),'utf8'),fs.readFileSync(path.join(out,'google696019cf5de45d47.html'),'utf8'));
+assert.ok(fs.readFileSync(path.join(out,'_redirects'),'utf8').includes('/google696019cf5de45d47.html /assets/google-verification.txt 200'));
+
 console.log(JSON.stringify({result:'PASS',htmlPages:pages,internalReferences:links,approvedPhotos:photos.filter(p=>p.publish).length,files:files.length},null,2));
