@@ -1,10 +1,10 @@
-# ISF website · Українська / English
+# ISF · Українська / English
 
-Independent static website based on the supplied NAU reference. ISF is deliberately not expanded. Ukrainian is the default language; every page has a matching English URL.
+Independent static website. International name: **In Search of the Fallen**. The approved English formal name is a translation of the Ukrainian registered name, not a separate legal entity.
 
 ## Build and preview
 
-Node.js 20 or newer is sufficient. No npm installation or external service is required.
+Node.js 20 or newer; no runtime dependencies.
 
 ```text
 node scripts/build.mjs
@@ -12,42 +12,29 @@ node scripts/check.mjs
 node scripts/serve.mjs
 ```
 
-Open `http://127.0.0.1:4173/uk/` or `/en/`. Stop the server with Ctrl+C.
+Preview: http://127.0.0.1:4173/uk/ and /en/. Stop with Ctrl+C.
 
-## Cloudflare Pages
+## Publication
 
-- Repository: `isfcenterua-sys/isf-center-website`
-- Production branch: `main`
-- Framework preset: None
-- Build command: `node scripts/build.mjs`
-- Build output directory: `dist`
-- Root directory: repository root
-- Deployment configuration: `wrangler.toml`
+- GitHub: isfcenterua-sys/isf-center-website, branch main.
+- Cloudflare build command: node scripts/build.mjs; output: dist; config: wrangler.toml.
+- The generated dist is also committed for compatibility with the existing deployment.
+- Every build recreates dist, copies assets and public, bundles local styles and generates 13 matching pages per language, sitemap, robots and custom 404.
+- public/google696019cf5de45d47.html is copied to the root of dist on every build. Keep this source for Google Search Console verification.
+- The NAU source, repository and hosting must not be modified.
 
-The verified, generated `dist` directory is also committed, so the first deployment works with an existing blank build command. The Wrangler file declares `dist` as the published directory. The recommended build command above regenerates it automatically; alternatively run the build locally before every push and commit the updated `dist`. No change to the NAU Cloudflare configuration is involved.
+## Content and evidence
 
-The generated `dist` folder is the only publication directory. Private reports, legal document photographs, RAW originals and source registers must remain outside the repository and `dist`. The project does not use the Sites hosting service and does not modify the NAU project.
+content/site.json holds approved names/contacts; translations.json holds bilingual interface copy; editorial.json holds approved mission/values, documentary history and daily life. people.json contains exactly three confirmed team members. stories.json contains nine undated activity topics, with distinct descriptions, spiritual meaning and details. news.json is reserved for verified dated bilingual announcements. With no dated items, the page offers useful community information without inventing events.
 
-## Edit content
+photos.json contains 36 approved unique public photographs. The hero uses original 810_9821.NEF; the icon history page uses original 810_9745.NEF. No generative retouching is applied to documentary photographs. Full frames, faces, backgrounds and proportions remain intact. Full-resolution camera JPEGs embedded in NEFs are oriented, mildly brightened only when dark (gamma 0.97), resized and encoded as WebP with metadata removed. Main/card/thumbnail maximum dimensions are 1920/960/640, with an additional 800px hero source. Earlier 1600px URLs remain compatible. Originals remain untouched.
 
-- `content/site.json`: confirmed organisation facts and public contact fields. Keep unknown fields empty.
-- `content/translations.json`: complete Ukrainian and English interface and page copy.
-- `content/photos.json`: public photograph metadata, descriptive alt text and optional approved captions. Public copies are in `assets/photos/`.
-- `content/people.json`: the three identities and titles supplied by the owner. Other portraits use neutral filenames and no invented names.
-- `content/news.json`: append verified bilingual news records following `content/news-template.json`. Set `published` to `true` only when both languages, date and content are ready. Each record generates both a listing and an individual article URL.
-- `assets/style.css`: responsive layout, colour palette and typography.
-- `assets/app.js`: mobile navigation, gallery filters and accessible photo viewer.
+The small transparent brand mark is separately extracted from owner-supplied artwork; it never replaces the documentary icon. Alternative supplied logos do not silently supersede the owner's selected mark.
 
-All page text is rendered as static HTML, including titles, descriptions, canonical and alternate-language links. The language link preserves the current page or article. Root `/` redirects to `/uk/`. No visitor analytics, cookies, external fonts, embedded maps or contact form are configured.
+The supplied certificate PNG is published unchanged with owner permission and a provenance hash in public-documents.json. Private registers, source paths, questions and unapproved icon traditions remain outside this repository. Historical documents do not establish current leadership, jurisdiction, service hours or visiting arrangements.
 
-## Photographs and captions
+## Interaction and access
 
-The owner completed the source selection on 28 October 2026. All 130 remaining photographs were visually reviewed. Eighteen photographs were selected, including one individual image for each of seven distinct people. Three people were identified by the owner through source filenames; four retain neutral `portrait-person-*` names. Shared photographs represent the community, as confirmed by the owner.
+Team/activity carousels support arrows, keyboard, horizontal scrolling, touch and reduced motion. Native dialogs support closing and focus restoration. Contact links and a copy-number fallback appear on both contact pages and all footers. Telegram phone links depend on discovery settings; Viber requires a compatible installed app.
 
-For the public copies, the full-resolution in-camera JPEG embedded in each NEF is used to retain the photographer's exposure and colours. Copies are oriented, lightly adjusted (contrast ×1.02, colour ×1.01), resized and encoded as WebP at quality 84 with EXIF removed. Individual portrait card images use a 3:4 crop; enlarged 1600px images retain the full composition. Originals, source paths, SHA-256 hashes, individual person groups and pending captions remain in the private source register outside this repository.
-
-Each approved photograph requires stable `id`, `category`, dimensions, `alt.uk`, `alt.en`, `publicationStatus: "approved"` and `publish: true`. A photograph with pending publication status is excluded from generated pages. Final captions are optional and must remain blank pending the owner's approval. Alt text describes visible content and is separate from a caption.
-
-## Reference reuse
-
-Retains the NAU static architecture, green/cream/sage palette, local fonts, editorial image/text layouts, mobile navigation principles, reduced-motion support and native dialog approach. Uses independent code and content; no NAU photographs, emblem, organisation contacts, claims or news are reused. Local fonts retain their accompanying OFL licence files.
+Fonts are local with OFL licences. No analytics, trackers, external font requests or heavy client frameworks.

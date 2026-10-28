@@ -1,0 +1,337 @@
+{
+  "missionStatus": "confirmed",
+  "uk": {
+    "missionTitle": "Наша місія",
+    "missionLead": "Берегти простір молитви та спільного життя, у якому віра втілюється у щоденній праці, взаємній увазі й відповідальності одне за одного.",
+    "missionParagraphs": [
+      "Ми прагнемо поєднувати духовне життя з простими справами кожного дня: молитвою, турботою про спільний дім, працею та живим спілкуванням. Для нас спільнота починається з готовності бути поруч і брати участь у тому, що робимо разом.",
+      "Наша місія — підтримувати спільне життя, у якому є місце для тиші й розмови, особистого молитовного звернення та спільної відповідальності. Ці орієнтири визначають, як ми прагнемо будувати повсякденність обителі."
+    ],
+    "valuesTitle": "Наші цінності",
+    "valuesIntro": "Орієнтири, якими ми прагнемо керуватися в молитві, праці та взаєминах.",
+    "values": [
+      {
+        "title": "Молитва",
+        "text": "Зберігати зверненість до Бога серед щоденних справ. Давати місце особистій і спільній молитві, зокрема вечірньому Розарію."
+      },
+      {
+        "title": "Увага до людини",
+        "text": "Слухати одне одного, поважати особисту гідність і не зводити людину до її труднощів. Плекати спокійне й доброзичливе спілкування."
+      },
+      {
+        "title": "Спільна відповідальність",
+        "text": "Брати участь у повсякденних обов’язках і турботі про спільний дім. Помічати потреби поруч і дбайливо ставитися до того, що довірене громаді."
+      },
+      {
+        "title": "Простота і взаємна підтримка",
+        "text": "Бачити цінність у звичайних справах, спільній праці й часі разом. Підтримувати одне одного уважністю, присутністю та посильною участю."
+      }
+    ],
+    "pendingMission": "Формулювання місії та цінностей готується до погодження громадою.",
+    "dayTitle": "Один день в обителі",
+    "dayIntro": "Молитва, щоденна праця, спілкування та вечірній Розарій утворюють ритм спільного життя. Це розповідь про його складові, без фіксованого розкладу.",
+    "dayStages": [
+      {
+        "title": "Молитва серед повсякденності",
+        "text": "Духовне життя має місце поруч зі звичайними справами. Особиста та спільна молитва дають змогу зосередитися, побути в тиші й звернутися до Бога.",
+        "photo": "community-chapel"
+      },
+      {
+        "title": "Турбота про спільний дім",
+        "text": "Повсякденні обов’язки пов’язують людей спільною відповідальністю: справами у внутрішніх приміщеннях, на кухні та на території. На фотографіях громади можна побачити кухонний простір, доглянуті доріжки й роботу біля рослин.",
+        "photo": "social-kitchen-team"
+      },
+      {
+        "title": "Спільна праця",
+        "text": "Сад, город і територія потребують уваги. Декоративні рослини також є одним із результатів праці громади. Ці справи входять у повсякденну турботу про місце, у якому живе обитель.",
+        "photo": "garden-work"
+      },
+      {
+        "title": "Гостинність і гаряча їжа",
+        "text": "Поряд зі спільним побутом є служіння подорожнім і відвідувачам: соціальна кухня та місце гарячої їжі. Це одна з форм турботи про людей, які звертаються до обителі. Умови й можливість відвідування потрібно уточнити заздалегідь.",
+        "photo": "hot-meals-place"
+      },
+      {
+        "title": "Час бути разом",
+        "text": "Розмови та зустрічі за спільним столом дають місце для спілкування. Фотографії зберігають ці прості моменти: людей поруч, знайомі кімнати й простір повсякденного життя.",
+        "photo": "community-table"
+      },
+      {
+        "title": "Вечірній Розарій",
+        "text": "Вечірній Розарій — одна зі складових молитовного життя, зазначених громадою для цієї розповіді. Його точний час, порядок і можливість участі гостей потрібно уточнювати безпосередньо в обителі.",
+        "photo": null
+      }
+    ],
+    "dayNote": "Послідовність цих розділів є тематичною, а не погодинним розкладом. Умови відвідування й участі у спільній молитві уточнюйте електронною поштою.",
+    "activitiesTitle": "Молитва, служіння і щоденна турбота",
+    "activitiesIntro": "Соціальна кухня, гаряча їжа для подорожніх і відвідувачів, духовний супровід та спільна молитва — напрями служіння обителі. Поруч із ними триває щоденна праця громади: турбота про дім, територію й декоративні рослини.",
+    "activities": [
+      {
+        "title": "Соціальна кухня та гаряча їжа",
+        "text": "Соціальна кухня є частиною служіння громади. Сестри беруть участь у її повсякденній роботі; для подорожніх і відвідувачів передбачене місце гарячої їжі. Щоб уточнити можливість звернення, час і умови, напишіть до обителі.",
+        "photo": "social-kitchen-team"
+      },
+      {
+        "title": "Духовний супровід і наставництво",
+        "text": "Обитель надає місце духовному супроводу та етичному й моральному наставництву. До цього напряму належать і духовні бесіди з єпископом Віталієм. Домовленість про зустріч та її формат потрібно узгодити безпосередньо з громадою.",
+        "photo": "spiritual-guidance"
+      },
+      {
+        "title": "Прохання про молитву",
+        "text": "До сестер можна звернутися з проханням про молитву. На сторінках обителі цей напрям представлений разом зі спільним молитовним життям і вечірнім Розарієм. Як передати прохання та чи можлива особиста участь, уточнюйте в громаді.",
+        "photo": "sisters-in-church"
+      },
+      {
+        "title": "Спільне життя і щоденна турбота",
+        "text": "Громада сестер і послушниць живе спільними справами, молитвою та спілкуванням. Кухня, внутрішні приміщення й територія потребують щоденної уваги. Ця турбота творить звичайний побут обителі.",
+        "photo": "sisters-community"
+      },
+      {
+        "title": "Декоративні рослини",
+        "text": "Декоративні рослини представлені серед продукції та результатів праці громади. На фотографії видно одну з рослин на садовій доріжці. Про наявність рослин і можливі умови звернення запитуйте електронною поштою.",
+        "photo": "decorative-plants"
+      },
+      {
+        "title": "Територія, сад і ставок",
+        "text": "Доріжки, сад, город і ставок становлять середовище повсякденного життя обителі. На території також є місце, де відвідувачі можуть попити води. Праця біля рослин і дбайливе ставлення до довкілля залишаються частиною спільної турботи.",
+        "photo": "community-pond"
+      }
+    ],
+    "assistanceTitle": "Питання допомоги та звернень",
+    "assistanceText": "Щоб звернутися щодо гарячої їжі, духовної бесіди, прохання про молитву або відвідування, напишіть на електронну пошту обителі. Детальні умови узгоджуються безпосередньо з громадою.",
+    "historyTitle": "Документальна історія громади",
+    "historyIntro": "Надані документи дають змогу простежити юридичне оформлення громади: від згадки про загальні збори 2005 року до виписки з реєстру, виданої у 2013 році. Вони не описують усіх етапів духовної історії чи розвитку будівель обителі.",
+    "historyOverview": "Історія громади має духовний і документальний виміри. У цьому розділі подано події, які можна датувати за наявними реєстраційними матеріалами. Назву організації відтворено так, як її записано у свідоцтві.",
+    "historyEvents": [
+      {
+        "date": "2005-03-12",
+        "display": "12 березня 2005",
+        "title": "Загальні збори учасників",
+        "text": "Наказ № 1 від 20 травня 2005 року посилається на протокол № 1 загальних зборів учасників від 12 березня 2005 року. Це найраніша датована згадка про організаційне рішення у наданому комплекті. Самого протоколу в матеріалах немає.",
+        "source": "Наказ № 1 від 20.05.2005"
+      },
+      {
+        "date": "2005-05-20",
+        "display": "20 травня 2005",
+        "title": "Державна реєстрація",
+        "text": "Свідоцтво серії А00 № 386402 засвідчує державну реєстрацію релігійної організації у селі Киблярі. Дата реєстрації — 20 травня 2005 року; код юридичної особи — 33760792. Місцем проведення реєстрації вказана Ужгородська районна державна адміністрація Закарпатської області.",
+        "source": "Свідоцтво про державну реєстрацію"
+      },
+      {
+        "date": "2005-05-20",
+        "display": "20 травня 2005",
+        "title": "Призначення керівника",
+        "text": "Наказ № 1 призначає Віталія Миколайовича Ананченка керівником релігійної організації з 20 травня 2005 року з правом першого підпису. Ця подія описує оформлення керівництва на зазначену дату, а не підтверджує нинішній склад адміністрації.",
+        "source": "Наказ № 1 від 20.05.2005"
+      },
+      {
+        "date": "2005-09-07",
+        "display": "7 вересня 2005",
+        "title": "Відомості у виписці з реєстру",
+        "text": "У полі дат і номера запису виписка наводить 20.05.2005, 07.09.2005 та номер 1 320 120 0000 000383. Дату 7 вересня не слід підміняти датою державної реєстрації, яку свідоцтво окремо визначає як 20 травня.",
+        "source": "Перша сторінка виписки з ЄДР"
+      },
+      {
+        "date": "2013-12-05",
+        "display": "5 грудня 2013",
+        "title": "Видача виписки з ЄДР",
+        "text": "На другій сторінці виписки зазначено дату її видачі — 5 грудня 2013 року. У ній названо Віталія Миколайовича Ананченка керівником і вказано основний вид діяльності 94.91 — діяльність релігійних організацій. Це підтверджує зміст виписки на час її оформлення.",
+        "source": "Друга сторінка виписки з ЄДР"
+      }
+    ],
+    "historyLimitsTitle": "Межі документальної розповіді",
+    "historyLimits": "У наданому комплекті немає статуту, протоколу установчих зборів, церковного акта заснування, хроніки будівництва чи пізніших документів про розвиток. Тому дата державної реєстрації не подається як доведена дата появи обителі або ікони. Доповнення історії потребує окремих джерел.",
+    "certificateTitle": "Свідоцтво про державну реєстрацію",
+    "certificateIntro": "Документальна сторінка історії громади. Надане організацією зображення свідоцтва зручно відкрити окремо й роздивитися деталі.",
+    "certificateCaption": "Зображення свідоцтва, надане організацією для публікації. Текст і оформлення відтворено без змін.",
+    "certificateAlt": "Надане зображення свідоцтва про державну реєстрацію релігійної організації «Вишукування загиблих» від 20 травня 2005 року",
+    "certificateOpen": "Відкрити свідоцтво для читання",
+    "certificateSource": "Відкрити наданий PNG",
+    "certificateNote": "Дані свідоцтва звірено з фотографією паперового документа та випискою з ЄДР. Відомості про адресу і керівництво стосуються дат джерел; актуальні умови відвідування уточнюються окремо.",
+    "iconTitle": "Історія ікони Божої Матері «Взискання загиблих»",
+    "iconIntro": "Окремий розділ для історії образу та переказів, пов’язаних із ним. Розповідь про місцеву ікону готується зі збереженням відмінності між документами й усною пам’яттю.",
+    "iconNameTitle": "Назва в церковному вжитку",
+    "iconNameText": "Форма «Взискання загиблих» засвідчена в україномовній публікації Української Православної Церкви. В офіційному календарі Православної Церкви України також вживається назва «Віднайдення загиблих». Це варіанти церковного найменування образу; юридична назва громади «Вишукування загиблих» зберігається без змін.",
+    "iconSourcesLabel": "Джерела написання назви",
+    "iconPendingTitle": "Місцева історія та передання",
+    "iconPendingText": "Обставини появи конкретного образу, його передання громаді та пов’язані з ним усні спогади потребують погодження з керівництвом обителі. Після перевірки документальні свідчення й передання будуть подані окремо, з позначенням характеру джерел.",
+    "sourceLabel": "Джерело",
+    "teamPrevious": "Попередній портрет",
+    "teamNext": "Наступний портрет",
+    "teamInstructions": "Гортайте портрети стрілками, клавішами або рухом пальця.",
+    "teamRegion": "Люди спільноти — карусель портретів",
+    "teamTrack": "Портрети; стрілки вліво і вправо для перегляду",
+    "slide": "Портрет",
+    "communityCard": "Спільнота ISF",
+    "emailLabel": "Електронна пошта",
+    "contactNote": "Напишіть нам щодо відвідування, спільної молитви або інших питань життя громади. Телефон і актуальна адреса для відвідувачів ще уточнюються.",
+    "activitiesOverviewTitle": "Допомога і служіння"
+  },
+  "en": {
+    "missionTitle": "Our mission",
+    "missionLead": "To sustain a space for prayer and shared life, where faith takes shape in daily work, attentiveness and responsibility for one another.",
+    "missionParagraphs": [
+      "We seek to bring spiritual life into the ordinary tasks of each day: prayer, care for our shared home, work and personal conversation. For us, community begins with a willingness to be present and to take part in what we do together.",
+      "Our mission is to nurture a shared life with room for silence and conversation, personal prayer and collective responsibility. These are the principles we seek to carry into everyday life at the community."
+    ],
+    "valuesTitle": "Our values",
+    "valuesIntro": "Principles we seek to follow in prayer, work and our relationships.",
+    "values": [
+      {
+        "title": "Prayer",
+        "text": "To remain turned towards God amid everyday tasks. To make room for personal and shared prayer, including the evening Rosary."
+      },
+      {
+        "title": "Attentiveness to each person",
+        "text": "To listen to one another, respect personal dignity and see more than a person's difficulties. To nurture calm and kind communication."
+      },
+      {
+        "title": "Shared responsibility",
+        "text": "To take part in daily duties and the care of our shared home. To notice needs close to us and look after what has been entrusted to the community."
+      },
+      {
+        "title": "Simplicity and mutual support",
+        "text": "To recognise the value of ordinary tasks, shared work and time together. To support one another through attention, presence and the contribution each person can make."
+      }
+    ],
+    "pendingMission": "The wording of the mission and values is being prepared for agreement by the community.",
+    "dayTitle": "A Day at the Community",
+    "dayIntro": "Prayer, everyday work, conversation and the evening Rosary form the rhythm of shared life. This is an account of its elements, rather than a fixed timetable.",
+    "dayStages": [
+      {
+        "title": "Prayer in everyday life",
+        "text": "Spiritual life has a place alongside ordinary tasks. Personal and shared prayer offer room to focus, spend time in silence and turn towards God.",
+        "photo": "community-chapel"
+      },
+      {
+        "title": "Caring for a shared home",
+        "text": "Everyday duties bring people together in shared responsibility: tasks in the interiors, kitchen and grounds. The community's photographs show the kitchen, tended paths and work among the plants.",
+        "photo": "social-kitchen-team"
+      },
+      {
+        "title": "Working together",
+        "text": "The garden, vegetable plot and grounds need attention. Ornamental plants are also one of the results of the community’s work. These tasks form part of everyday care for the place where the community lives.",
+        "photo": "garden-work"
+      },
+      {
+        "title": "Hospitality and hot meals",
+        "text": "Alongside shared domestic life is service to travellers and visitors through the social kitchen and a place for hot meals. This is one way the community cares for people who turn to it. Please confirm availability and visiting arrangements in advance.",
+        "photo": "hot-meals-place"
+      },
+      {
+        "title": "Time together",
+        "text": "Conversation and gathering around a shared table make room for personal contact. The photographs preserve these simple moments: people together, familiar rooms and everyday surroundings.",
+        "photo": "community-table"
+      },
+      {
+        "title": "The evening Rosary",
+        "text": "The evening Rosary is one of the elements of prayer life identified by the community for this account. Its time, order and arrangements for visitors should be confirmed directly with the community.",
+        "photo": null
+      }
+    ],
+    "dayNote": "These sections follow a thematic sequence, rather than an hourly timetable. Please email the community about visiting and taking part in shared prayer.",
+    "activitiesTitle": "Prayer, service and everyday care",
+    "activitiesIntro": "The social kitchen, hot meals for travellers and visitors, spiritual guidance and shared prayer are areas of the community’s service. Alongside them is its everyday work: caring for the home, grounds and ornamental plants.",
+    "activities": [
+      {
+        "title": "Social kitchen and hot meals",
+        "text": "The social kitchen is part of the community’s service. The sisters take part in its everyday work, and there is a place for hot meals for travellers and visitors. Please write to the community to confirm availability, times and arrangements.",
+        "photo": "social-kitchen-team"
+      },
+      {
+        "title": "Spiritual guidance and formation",
+        "text": "The community makes room for spiritual guidance and ethical and moral formation. This includes spiritual conversations with Bishop Vitalii. Arrangements for a meeting and its format should be agreed directly with the community.",
+        "photo": "spiritual-guidance"
+      },
+      {
+        "title": "Requests for prayer",
+        "text": "Prayer requests can be brought to the sisters. This service is presented alongside shared prayer life and the evening Rosary. Please ask the community how to pass on a request and whether personal participation is possible.",
+        "photo": "sisters-in-church"
+      },
+      {
+        "title": "Shared life and everyday care",
+        "text": "The community of sisters and novices shares everyday tasks, prayer and conversation. The kitchen, interiors and grounds need daily attention. This care forms the ordinary domestic life of the community.",
+        "photo": "sisters-community"
+      },
+      {
+        "title": "Ornamental plants",
+        "text": "Ornamental plants are among the community’s products and the results of its work. The photograph shows one of the plants beside a garden path. Please email about plant availability and possible arrangements.",
+        "photo": "decorative-plants"
+      },
+      {
+        "title": "Grounds, garden and pond",
+        "text": "Paths, a garden, vegetable plot and pond form the setting of everyday life. There is also a place in the grounds where visitors can drink water. Work among the plants and care for the surroundings remain part of the community’s shared responsibilities.",
+        "photo": "community-pond"
+      }
+    ],
+    "assistanceTitle": "Enquiries about help and visiting",
+    "assistanceText": "Please email the community about hot meals, a spiritual conversation, a prayer request or a visit. Detailed arrangements are agreed directly with the community.",
+    "historyTitle": "The community's documentary history",
+    "historyIntro": "The supplied documents trace the community's legal organisation, from a reference to a general meeting in 2005 to a register extract issued in 2013. They do not describe every stage of its spiritual history or the development of its buildings.",
+    "historyOverview": "The community's story has both spiritual and documentary dimensions. This section sets out events that can be dated from the available registration records. Its legal name is reproduced as recorded in the certificate.",
+    "historyEvents": [
+      {
+        "date": "2005-03-12",
+        "display": "12 March 2005",
+        "title": "General meeting of members",
+        "text": "Order No. 1, dated 20 May 2005, refers to Minutes No. 1 of a general meeting held on 12 March 2005. This is the earliest dated reference to an organisational decision in the supplied records. The minutes themselves were not supplied.",
+        "source": "Order No. 1 of 20 May 2005"
+      },
+      {
+        "date": "2005-05-20",
+        "display": "20 May 2005",
+        "title": "State registration",
+        "text": "Certificate series A00 No. 386402 records the state registration of the religious organisation in Kybliary. The registration date is 20 May 2005 and the legal entity code is 33760792. The certificate names the Uzhhorod District State Administration of Zakarpattia Region as the registration authority.",
+        "source": "State registration certificate"
+      },
+      {
+        "date": "2005-05-20",
+        "display": "20 May 2005",
+        "title": "Appointment of the head",
+        "text": "Order No. 1 appoints Vitalii Mykolaiovych Ananchenko as head of the religious organisation from 20 May 2005, with first-signature authority. This describes the appointment at that date; it does not establish the present administration.",
+        "source": "Order No. 1 of 20 May 2005"
+      },
+      {
+        "date": "2005-09-07",
+        "display": "7 September 2005",
+        "title": "Dates in the register extract",
+        "text": "The extract's dates and entry-number field gives 20 May 2005, 7 September 2005 and entry No. 1 320 120 0000 000383. The September date should not replace the state registration date, which the certificate separately identifies as 20 May.",
+        "source": "First page of the Unified State Register extract"
+      },
+      {
+        "date": "2013-12-05",
+        "display": "5 December 2013",
+        "title": "Register extract issued",
+        "text": "The extract's second page gives its issue date as 5 December 2013. It names Vitalii Mykolaiovych Ananchenko as head and records the main activity as 94.91, activities of religious organisations. These statements describe the extract at the time it was issued.",
+        "source": "Second page of the Unified State Register extract"
+      }
+    ],
+    "historyLimitsTitle": "The scope of the documentary account",
+    "historyLimits": "The supplied set contains no charter, founding-meeting minutes, ecclesiastical founding act, building chronicle or later records of development. State registration is therefore not presented as proof of when the religious community or the icon first appeared. Further history needs additional sources.",
+    "certificateTitle": "State registration certificate",
+    "certificateIntro": "A documentary page in the community's history. Open the certificate image supplied by the organisation to read the details.",
+    "certificateCaption": "Certificate image supplied by the organisation for publication. Its text and design are reproduced without alteration.",
+    "certificateAlt": "Supplied image of the state registration certificate for the religious organisation “Search for the Fallen”, dated 20 May 2005",
+    "certificateOpen": "Open the certificate to read it",
+    "certificateSource": "Open the supplied PNG",
+    "certificateNote": "The certificate's details were checked against the photograph of the paper document and the register extract. Address and leadership details refer to the dates of those sources; current visiting arrangements are confirmed separately.",
+    "iconTitle": "History of the Mother of God icon “Search for the Fallen”",
+    "iconIntro": "A separate place for the history of the icon and accounts associated with it. The local story is being prepared with a clear distinction between records and oral tradition.",
+    "iconNameTitle": "The name in church usage",
+    "iconNameText": "The Ukrainian form «Взискання загиблих» appears in a Ukrainian-language publication of the Ukrainian Orthodox Church. The Orthodox Church of Ukraine's official calendar also uses «Віднайдення загиблих». These are church names for the icon; the community's registered legal name, «Вишукування загиблих», is retained without alteration.",
+    "iconSourcesLabel": "Sources for the Ukrainian name",
+    "iconPendingTitle": "Local history and tradition",
+    "iconPendingText": "The circumstances in which this particular icon appeared, its transfer to the community and the oral recollections associated with it need agreement with the community's leadership. Once reviewed, documentary accounts and traditions will be presented separately, with their sources clearly identified.",
+    "sourceLabel": "Source",
+    "teamPrevious": "Previous portrait",
+    "teamNext": "Next portrait",
+    "teamInstructions": "Browse with the arrows, keyboard or a swipe.",
+    "teamRegion": "People of the community — portrait carousel",
+    "teamTrack": "Portraits; use the left and right arrow keys to browse",
+    "slide": "Portrait",
+    "communityCard": "ISF community",
+    "emailLabel": "Email",
+    "contactNote": "Please write to us about visiting, shared prayer or other questions about community life. A telephone number and current visitor address are still being confirmed.",
+    "activitiesOverviewTitle": "Care and service"
+  }
+}

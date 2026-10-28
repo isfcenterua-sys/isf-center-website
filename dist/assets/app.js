@@ -7,7 +7,7 @@
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && nav.classList.contains('open')) { closeMenu(); menu.focus(); } });
   document.addEventListener('click', e => { if (!e.target.closest('.header')) closeMenu(); });
   nav.querySelectorAll('a').forEach(a => a.addEventListener('click', closeMenu));
-  matchMedia('(min-width:941px)').addEventListener('change', e => { if (e.matches) closeMenu(); });
+  matchMedia('(min-width:1101px)').addEventListener('change', e => { if (e.matches) closeMenu(); });
   const cards = [...document.querySelectorAll('[data-photo-card]')];
   const filters = [...document.querySelectorAll('[data-filter]')];
   filters.forEach(button => button.addEventListener('click', () => {
@@ -41,5 +41,14 @@
   dialog.querySelector('[data-next]').addEventListener('click', () => show(current + 1));
   dialog.addEventListener('keydown', e => { if (e.key === 'ArrowLeft') { e.preventDefault(); show(current - 1); } if (e.key === 'ArrowRight') { e.preventDefault(); show(current + 1); } });
   dialog.addEventListener('click', e => { if (e.target === dialog) { const r=dialog.getBoundingClientRect(); if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom) dialog.close(); } });
+  let swipeStart;
+  dialog.addEventListener('pointerdown', e => { if(e.pointerType==='touch')swipeStart={x:e.clientX,y:e.clientY}; });
+  dialog.addEventListener('pointerup', e => {
+    if(!swipeStart)return;
+    const dx=e.clientX-swipeStart.x,dy=e.clientY-swipeStart.y;
+    if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy)*1.5&&sequence.length>1)show(current+(dx<0?1:-1));
+    swipeStart=null;
+  });
+  dialog.addEventListener('pointercancel',()=>{swipeStart=null;});
   dialog.addEventListener('close', () => { document.body.style.overflow = ''; image.removeAttribute('src'); opener?.focus(); });
 })();

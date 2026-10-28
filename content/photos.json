@@ -9,12 +9,16 @@
       "en": "A pond, footbridge and trees in the grounds"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Ставок, місток і дерева на території",
+      "en": "A pond, footbridge and trees in the grounds"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Ставок, місток і дерева на території",
+      "en": "A pond, footbridge and trees in the grounds"
+    }
   },
   {
     "id": "chapel-path",
@@ -26,12 +30,16 @@
       "en": "A stone niche with a religious statue among trees"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Кам’яна ніша з релігійною скульптурою серед зелені",
+      "en": "A stone niche with a religious statue among trees"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Кам’яна ніша з релігійною скульптурою серед зелені",
+      "en": "A stone niche with a religious statue among trees"
+    }
   },
   {
     "id": "garden-courtyard",
@@ -43,12 +51,16 @@
       "en": "A path between buildings with conifers and an autumn garden"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Доріжка між будівлями, хвойні дерева та осінній сад",
+      "en": "A path between buildings with conifers and an autumn garden"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Доріжка між будівлями, хвойні дерева та осінній сад",
+      "en": "A path between buildings with conifers and an autumn garden"
+    }
   },
   {
     "id": "bedroom",
@@ -60,12 +72,16 @@
       "en": "A room with beds, wooden doors and icons"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Кімната з ліжками, дерев’яними дверима та іконами",
+      "en": "A room with beds, wooden doors and icons"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Кімната з ліжками, дерев’яними дверима та іконами",
+      "en": "A room with beds, wooden doors and icons"
+    }
   },
   {
     "id": "bedroom-secondary",
@@ -77,12 +93,16 @@
       "en": "A room with two beds, a wardrobe and a small table"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Кімната з двома ліжками, шафою та столиком",
+      "en": "A room with two beds, a wardrobe and a small table"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Кімната з двома ліжками, шафою та столиком",
+      "en": "A room with two beds, a wardrobe and a small table"
+    }
   },
   {
     "id": "garden-animals",
@@ -94,12 +114,16 @@
       "en": "Goats beside a fence under autumn trees"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Кози біля огорожі під осінніми деревами",
+      "en": "Goats beside a fence under autumn trees"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Кози біля огорожі під осінніми деревами",
+      "en": "Goats beside a fence under autumn trees"
+    }
   },
   {
     "id": "community-chapel",
@@ -111,12 +135,16 @@
       "en": "A community group photograph in front of the iconostasis"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Спільне фото громади перед іконостасом",
+      "en": "A community group photograph in front of the iconostasis"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Спільне фото громади перед іконостасом",
+      "en": "A community group photograph in front of the iconostasis"
+    }
   },
   {
     "id": "community-outdoors",
@@ -128,12 +156,16 @@
       "en": "Three people from the community beside the wooden doors of a building"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Троє людей із громади біля дерев’яних дверей будівлі",
+      "en": "Three people from the community beside the wooden doors of a building"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Троє людей із громади біля дерев’яних дверей будівлі",
+      "en": "Three people from the community beside the wooden doors of a building"
+    }
   },
   {
     "id": "community-table",
@@ -145,12 +177,16 @@
       "en": "People from the community at a long wooden table"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Люди з громади за довгим дерев’яним столом",
+      "en": "People from the community at a long wooden table"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Люди з громади за довгим дерев’яним столом",
+      "en": "People from the community at a long wooden table"
+    }
   },
   {
     "id": "community-kitchen",
@@ -162,12 +198,16 @@
       "en": "Four people from the community in a kitchen"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Четверо людей із громади у кухонному приміщенні",
+      "en": "Four people from the community in a kitchen"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Четверо людей із громади у кухонному приміщенні",
+      "en": "Four people from the community in a kitchen"
+    }
   },
   {
     "id": "garden-work",
@@ -179,12 +219,16 @@
       "en": "Two people in a vegetable garden beside plants and a bucket"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Двоє людей у городі біля рослин і відра",
+      "en": "Two people in a vegetable garden beside plants and a bucket"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": null
+    "personId": null,
+    "title": {
+      "uk": "Двоє людей у городі біля рослин і відра",
+      "en": "Two people in a vegetable garden beside plants and a bucket"
+    }
   },
   {
     "id": "bishop-vitalii",
@@ -196,12 +240,16 @@
       "en": "Bishop Vitalii Ananchenko in a portrait photograph"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Єпископ Віталій Ананченко на портретному фото",
+      "en": "Bishop Vitalii Ananchenko in a portrait photograph"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": "vitalii"
+    "personId": "vitalii",
+    "title": {
+      "uk": "Єпископ Віталій Ананченко на портретному фото",
+      "en": "Bishop Vitalii Ananchenko in a portrait photograph"
+    }
   },
   {
     "id": "archimandrite-mykola",
@@ -213,12 +261,16 @@
       "en": "Fr Mykola Ananchenko, Archimandrite, in a portrait photograph"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Отець Микола Ананченко, архимандрит, на портретному фото",
+      "en": "Fr Mykola Ananchenko, Archimandrite, in a portrait photograph"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": "mykola"
+    "personId": "mykola",
+    "title": {
+      "uk": "Отець Микола Ананченко, архимандрит, на портретному фото",
+      "en": "Fr Mykola Ananchenko, Archimandrite, in a portrait photograph"
+    }
   },
   {
     "id": "mother-mariia",
@@ -230,12 +282,16 @@
       "en": "Mother Mariia in a portrait photograph"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Матушка Марія на портретному фото",
+      "en": "Mother Mariia in a portrait photograph"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": "mariia"
+    "personId": "mariia",
+    "title": {
+      "uk": "Матушка Марія на портретному фото",
+      "en": "Mother Mariia in a portrait photograph"
+    }
   },
   {
     "id": "portrait-person-01",
@@ -247,12 +303,16 @@
       "en": "A portrait of a woman wearing a black head covering beside a light wall"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Портрет жінки в чорному головному уборі біля світлої стіни",
+      "en": "A portrait of a woman wearing a black head covering beside a light wall"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": "person-01"
+    "personId": "person-01",
+    "title": {
+      "uk": "Портрет жінки в чорному головному уборі біля світлої стіни",
+      "en": "A portrait of a woman wearing a black head covering beside a light wall"
+    }
   },
   {
     "id": "portrait-person-02",
@@ -264,12 +324,16 @@
       "en": "A portrait of a woman in blue clothing and a light headscarf in a garden"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Портрет жінки в синьому вбранні та світлій хустці в саду",
+      "en": "A portrait of a woman in blue clothing and a light headscarf in a garden"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": "person-02"
+    "personId": "person-02",
+    "title": {
+      "uk": "Портрет жінки в синьому вбранні та світлій хустці в саду",
+      "en": "A portrait of a woman in blue clothing and a light headscarf in a garden"
+    }
   },
   {
     "id": "portrait-person-03",
@@ -281,12 +345,16 @@
       "en": "A woman in a dark headscarf holding a black and white cat in a courtyard"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Доброта — перший вияв любові Творця до творіння.",
+      "en": "Kindness is the first sign of the Creator’s love for creation."
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": "person-03"
+    "personId": "person-03",
+    "title": {
+      "uk": "Доброта до творіння",
+      "en": "Kindness towards creation"
+    }
   },
   {
     "id": "portrait-person-04",
@@ -298,11 +366,393 @@
       "en": "A woman in a checked shirt beside a fence with goats"
     },
     "caption": {
-      "uk": "",
-      "en": ""
+      "uk": "Жінка в картатій сорочці біля огорожі з козами",
+      "en": "A woman in a checked shirt beside a fence with goats"
     },
     "publicationStatus": "approved",
     "publish": true,
-    "personId": "person-04"
+    "personId": "person-04",
+    "title": {
+      "uk": "Жінка в картатій сорочці біля огорожі з козами",
+      "en": "A woman in a checked shirt beside a fence with goats"
+    }
+  },
+  {
+    "id": "welcome-gate",
+    "category": "community",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Троє людей із громади біля відчиненої дерев’яної брами",
+      "en": "Three people from the community beside an open wooden gate"
+    },
+    "caption": {
+      "uk": "Біля брами обителі вас раді вітати.",
+      "en": "A welcome at the community’s gate."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Гостинність обителі",
+      "en": "The community’s welcome"
+    }
+  },
+  {
+    "id": "community-house",
+    "category": "grounds",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Будівля з ґанком і людьми з громади перед нею",
+      "en": "A building with a porch and people from the community in front of it"
+    },
+    "caption": {
+      "uk": "Будівля обителі та спільнота біля неї.",
+      "en": "A community building with people gathered outside."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Дім, у якому вам раді",
+      "en": "A house where you are welcome"
+    }
+  },
+  {
+    "id": "spiritual-guidance",
+    "category": "service",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Двоє священнослужителів перед іконостасом",
+      "en": "Two clergy standing in front of the iconostasis"
+    },
+    "caption": {
+      "uk": "Духовне служіння та наставництво в житті громади.",
+      "en": "Spiritual service and formation in community life."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Духовний супровід і моральне наставництво",
+      "en": "Spiritual guidance and moral formation"
+    }
+  },
+  {
+    "id": "spiritual-conversation",
+    "category": "service",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Спільне фото на містку біля ставка",
+      "en": "A group photograph on a footbridge beside a pond"
+    },
+    "caption": {
+      "uk": "Спілкування на території обителі; напрям позначений власником як духовні бесіди з єпископом Віталієм.",
+      "en": "Conversation in the community grounds; identified by the owner as spiritual conversations with Bishop Vitalii."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Духовні бесіди з єпископом Віталієм",
+      "en": "Spiritual conversations with Bishop Vitalii"
+    }
+  },
+  {
+    "id": "hot-meals-place",
+    "category": "service",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Сестри громади біля столу у відкритій альтанці",
+      "en": "Community sisters beside a table in an open-sided pavilion"
+    },
+    "caption": {
+      "uk": "Місце гарячої їжі для подорожніх і відвідувачів.",
+      "en": "A place for hot meals for travellers and visitors."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Гаряча їжа для подорожніх і відвідувачів",
+      "en": "Hot meals for travellers and visitors"
+    }
+  },
+  {
+    "id": "decorative-plants",
+    "category": "nature",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Декоративна рослина і священнослужитель на садовій доріжці",
+      "en": "An ornamental plant and a clergy member on a garden path"
+    },
+    "caption": {
+      "uk": "Декоративні рослини — один із результатів праці громади.",
+      "en": "Ornamental plants are one of the results of the community’s work."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Декоративні рослини громади",
+      "en": "The community’s ornamental plants"
+    }
+  },
+  {
+    "id": "sisters-community",
+    "category": "community",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Сестри й послушниці громади у дворі",
+      "en": "Sisters and novices of the community in the courtyard"
+    },
+    "caption": {
+      "uk": "Спільне фото сестер і послушниць.",
+      "en": "A group photograph of the sisters and novices."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Сестри й послушниці обителі",
+      "en": "Sisters and novices of the community"
+    }
+  },
+  {
+    "id": "water-place",
+    "category": "spiritual",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Священнослужитель зі склянкою біля кам’яної ніші",
+      "en": "A clergy member with a glass beside a stone niche"
+    },
+    "caption": {
+      "uk": "Місце, де подорожній може попити води.",
+      "en": "A place where a traveller can drink water."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Місце з водою на території",
+      "en": "A place for water in the grounds"
+    }
+  },
+  {
+    "id": "social-kitchen-team",
+    "category": "service",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Четверо людей з громади у приміщенні соціальної кухні",
+      "en": "Four people from the community in the social kitchen"
+    },
+    "caption": {
+      "uk": "Громада та повсякденне служіння на соціальній кухні.",
+      "en": "The community and everyday service in the social kitchen."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Служіння на соціальній кухні",
+      "en": "Serving in the social kitchen"
+    }
+  },
+  {
+    "id": "social-kitchen-building",
+    "category": "service",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Сестра громади біля входу до будівлі соціальної кухні",
+      "en": "A community sister beside the entrance to the social kitchen building"
+    },
+    "caption": {
+      "uk": "Біля будівлі соціальної кухні.",
+      "en": "Beside the social kitchen building."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Соціальна кухня",
+      "en": "The social kitchen"
+    }
+  },
+  {
+    "id": "sisters-in-church",
+    "category": "spiritual",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Сестри громади у храмі перед іконами",
+      "en": "Community sisters in the church in front of icons"
+    },
+    "caption": {
+      "uk": "Сестри у храмі перед іконами.",
+      "en": "Sisters in the church in front of icons."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Молитовне життя сестер",
+      "en": "The sisters’ prayer life"
+    }
+  },
+  {
+    "id": "community-pond",
+    "category": "nature",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Ставок, місток і будівлі на території обителі",
+      "en": "A pond, footbridge and buildings in the community grounds"
+    },
+    "caption": {
+      "uk": "Ставок, місток і будівлі на території обителі.",
+      "en": "The pond, footbridge and buildings in the community grounds."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Ставок обителі",
+      "en": "The community pond"
+    }
+  },
+  {
+    "id": "church-entrance",
+    "category": "grounds",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Люди з громади біля входу до храму.",
+      "en": "People from the community beside the church entrance."
+    },
+    "caption": {
+      "uk": "Люди з громади біля входу до храму.",
+      "en": "People from the community beside the church entrance."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Вхід до храму",
+      "en": "Entrance to the church"
+    }
+  },
+  {
+    "id": "social-kitchen-alternate",
+    "category": "service",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Сестри біля обладнання соціальної кухні.",
+      "en": "Sisters beside the social kitchen equipment."
+    },
+    "caption": {
+      "uk": "Сестри біля обладнання соціальної кухні.",
+      "en": "Sisters beside the social kitchen equipment."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Соціальна кухня та її служительки",
+      "en": "The social kitchen and those who serve there"
+    }
+  },
+  {
+    "id": "scripture-conversation",
+    "category": "spiritual",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Спільний стіл і відкрита книга: духовне спілкування громади.",
+      "en": "A shared table and an open book: spiritual conversation in the community."
+    },
+    "caption": {
+      "uk": "Спільний стіл і відкрита книга: духовне спілкування громади.",
+      "en": "A shared table and an open book: spiritual conversation in the community."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Духовне спілкування зі Словом Божим",
+      "en": "Spiritual conversation around the Word of God"
+    }
+  },
+  {
+    "id": "kybliary-icon",
+    "category": "spiritual",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Надане громадою фото образу Божої Матері «Взискання загиблих» у храмі.",
+      "en": "Photograph supplied by the community of the Mother of God icon “Search for the Fallen” in the church."
+    },
+    "caption": {
+      "uk": "Надане громадою фото образу Божої Матері «Взискання загиблих» у храмі.",
+      "en": "Photograph supplied by the community of the Mother of God icon “Search for the Fallen” in the church."
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null,
+    "title": {
+      "uk": "Ікона Божої Матері в Киблярській обителі",
+      "en": "The Mother of God icon at the Kybliary community"
+    }
+  },
+  {
+    "id": "monastery-hero",
+    "category": "grounds",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Киблярська обитель: будівлі та територія",
+      "en": "Kybliary community: buildings and grounds"
+    },
+    "caption": {
+      "uk": "Киблярська обитель: будівлі та територія",
+      "en": "Kybliary community: buildings and grounds"
+    },
+    "title": {
+      "uk": "Киблярська обитель: будівлі та територія",
+      "en": "Kybliary community: buildings and grounds"
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "icon-original",
+    "category": "spiritual",
+    "width": 7360,
+    "height": 4912,
+    "alt": {
+      "uk": "Образ Божої Матері «Взискання загиблих» у Киблярській обителі",
+      "en": "The Mother of God icon “Search for the Fallen” at the Kybliary community"
+    },
+    "caption": {
+      "uk": "Образ Божої Матері «Взискання загиблих» у Киблярській обителі",
+      "en": "The Mother of God icon “Search for the Fallen” at the Kybliary community"
+    },
+    "title": {
+      "uk": "Образ Божої Матері «Взискання загиблих» у Киблярській обителі",
+      "en": "The Mother of God icon “Search for the Fallen” at the Kybliary community"
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
   }
 ]

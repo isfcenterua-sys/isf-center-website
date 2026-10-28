@@ -2,13 +2,44 @@
   "url": "https://isf-center-website.pages.dev",
   "brand": "ISF",
   "defaultLanguage": "uk",
-  "languages": ["uk", "en"],
-  "legalName": "Релігійна організація «Православна релігійна громада Апостольської традиції “Вишукування загиблих”»",
+  "languages": [
+    "uk",
+    "en"
+  ],
+  "legalName": "Релігійна організація «Православна релігійна громада апостольської традиції \"Вишукування загиблих\"»",
   "registrationDate": "2005-05-20",
   "registrationCode": "33760792",
-  "locality": {"uk": "Кибляри, Закарпаття, Україна", "en": "Kybliary, Zakarpattia, Ukraine"},
-  "contact": {"email": null, "phone": null, "visitingAddress": null, "socialLinks": []},
+  "locality": {
+    "uk": "Киблярі, Закарпаття, Україна",
+    "en": "Kybliary, Zakarpattia, Ukraine"
+  },
+  "contact": {
+    "email": "isf.center.ua@gmail.com",
+    "phone": "+380957332967",
+    "visitingAddress": null,
+    "socialLinks": [],
+    "phoneDisplay": "+380 95 733 29 67",
+    "website": "https://isf-center-website.pages.dev/",
+    "messengers": {
+      "whatsapp": "https://wa.me/380957332967",
+      "viber": "viber://chat?number=%2B380957332967",
+      "telegram": "https://t.me/+380957332967"
+    }
+  },
   "mission": null,
   "leadership": [],
-  "projects": []
+  "projects": [],
+  "internationalName": "In Search of the Fallen",
+  "legalNameTranslations": {
+    "uk": "Релігійна організація «Православна релігійна громада апостольської традиції \"Вишукування загиблих\"»",
+    "en": "Religious Organization \"Orthodox Religious Community of the Apostolic Tradition 'Search for the Fallen'\""
+  },
+  "brandTitle": {
+    "uk": "Вишукування загиблих",
+    "en": "In Search of the Fallen"
+  },
+  "brandSubtitle": {
+    "uk": "Православна релігійна громада апостольської традиції",
+    "en": "Orthodox Religious Community of the Apostolic Tradition"
+  }
 }

@@ -1,5 +1,47 @@
 [
-  {"photo":"bishop-vitalii","name":{"uk":"Єпископ Віталій Ананченко","en":"Bishop Vitalii Ananchenko"},"role":{"uk":"","en":""}},
-  {"photo":"archimandrite-mykola","name":{"uk":"Отець Микола Ананченко","en":"Fr Mykola Ananchenko"},"role":{"uk":"Архимандрит","en":"Archimandrite"}},
-  {"photo":"mother-mariia","name":{"uk":"Матушка Марія","en":"Mother Mariia"},"role":{"uk":"","en":""}}
+  {
+    "photo": "bishop-vitalii",
+    "name": {
+      "uk": "Єпископ Віталій Ананченко",
+      "en": "Bishop Vitalii Ananchenko"
+    },
+    "role": {
+      "uk": "Єпископ",
+      "en": "Bishop"
+    },
+    "description": {
+      "uk": "Духовні бесіди та супровід у житті громади.",
+      "en": "Spiritual conversation and guidance in community life."
+    }
+  },
+  {
+    "photo": "archimandrite-mykola",
+    "name": {
+      "uk": "Архімандрит о. Микола Ананченко",
+      "en": "Archimandrite Fr Mykola Ananchenko"
+    },
+    "role": {
+      "uk": "Архімандрит",
+      "en": "Archimandrite"
+    },
+    "description": {
+      "uk": "Священнослужитель громади; духовний титул — архімандрит.",
+      "en": "A clergy member of the community, with the spiritual title of Archimandrite."
+    }
+  },
+  {
+    "photo": "mother-mariia",
+    "name": {
+      "uk": "Матушка Марія",
+      "en": "Mother Mariia"
+    },
+    "role": {
+      "uk": "Матушка",
+      "en": "Mother"
+    },
+    "description": {
+      "uk": "Молитва та участь у спільному житті громади.",
+      "en": "Prayer and participation in shared community life."
+    }
+  }
 ]
