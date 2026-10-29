@@ -1,6 +1,6 @@
 (() => {
   'use strict';
-  document.querySelectorAll('[data-carousel]').forEach(root=>{
+  document.querySelectorAll('[data-carousel]:not([data-team-single])').forEach(root=>{
     const track=root.querySelector('[data-carousel-track]'),cards=[...track.querySelectorAll('[data-carousel-card]')];
     const previous=root.querySelector('[data-carousel-prev]'),next=root.querySelector('[data-carousel-next]'),status=root.querySelector('[data-carousel-status]');
     const step=()=>cards.length>1?cards[1].offsetLeft-cards[0].offsetLeft:track.clientWidth;

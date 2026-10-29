@@ -7,16 +7,16 @@
     "date": null,
     "place": null,
     "title": {
-      "uk": "Спільна молитва",
-      "en": "Shared prayer"
+      "uk": "Молитва — серце нашої обителі",
+      "en": "Prayer — the Heart of Our Community"
     },
     "summary": {
-      "uk": "Спільна молитва єднає громаду у зверненні до Бога. У ній є місце для подяки, прохання та пам’яті про тих, хто потребує підтримки.",
-      "en": "Shared prayer brings the community together in turning towards God. It makes room for thanksgiving, requests and remembrance of those who need support."
+      "uk": "Молитва є духовним серцем нашої обителі, де кожен день знаходить своє особливе значення у присутності Божій. Перед святими іконами ми приносимо Господу свої радощі, турботи та прохання за тих, хто потребує підтримки.",
+      "en": "Prayer is the spiritual heart of our community, giving each day a deeper meaning in the presence of God. Before the holy icons, we bring our joys, concerns and prayers for those in need of support."
     },
     "meaning": {
-      "uk": "Молитва вчить довіряти Богові й бути уважними до ближніх. Вона нагадує, що турбота про людину починається і з готовності пам’ятати про неї перед Господом.",
-      "en": "Prayer teaches trust in God and attentiveness to others. It reminds us that care can begin with a willingness to remember a person before the Lord."
+      "uk": "У тиші молитви людина відкриває своє серце Божій любові, знаходить мир і черпає сили для служіння ближнім.",
+      "en": "In the silence of prayer, the human heart opens to God's love, finds peace and draws strength to serve others."
     },
     "details": {
       "uk": [
@@ -25,7 +25,9 @@
       "en": [
         "Community life includes shared prayer and the evening Rosary. Please ask the community directly about joining in, passing on a prayer request or enquiring about worship."
       ]
-    }
+    },
+    "section": "spiritual-life",
+    "ownerSpiritualBlock": true
   },
   {
     "id": "worship",
@@ -53,7 +55,8 @@
       "en": [
         "Please ask the community directly about services, participation and visiting arrangements. The photograph introduces the church and community; it does not announce a particular dated event."
       ]
-    }
+    },
+    "section": "spiritual-life"
   },
   {
     "id": "guidance",
@@ -63,16 +66,16 @@
     "date": null,
     "place": null,
     "title": {
-      "uk": "Духовний супровід",
-      "en": "Spiritual guidance"
+      "uk": "Духовний супровід — шлях до внутрішнього відновлення",
+      "en": "Spiritual Guidance — a Path to Inner Renewal"
     },
     "summary": {
-      "uk": "Духовний супровід і етичне наставництво належать до напрямів служіння обителі. Тут важливі розмова, уважне слухання та звернення до християнського розуміння життя.",
-      "en": "Spiritual guidance and ethical formation are areas of the community’s service. Conversation, attentive listening and a Christian understanding of life have a place here."
+      "uk": "Іноді людині найбільше потрібні не готові відповіді, а хтось, хто уважно вислухає та допоможе віднайти духовну опору. Через щиру бесіду, молитву й християнське наставництво відкривається можливість по-новому поглянути на власне життя.",
+      "en": "Sometimes what a person needs most is not a ready-made answer, but someone who will listen attentively and help them rediscover their spiritual foundation. Through sincere conversation, prayer and Christian guidance, a person may begin to see life in a new light."
     },
     "meaning": {
-      "uk": "Щире слово може підтримати людину в пошуку відповідального рішення. Духовна бесіда спонукає дивитися на себе без осуду ближнього та з готовністю до власної праці.",
-      "en": "A sincere word can support a person seeking a responsible decision. Spiritual conversation encourages self-examination without judging others and a willingness to make a personal effort."
+      "uk": "Ми віримо, що навіть серед найважчих випробувань Господь не залишає людину без надії.",
+      "en": "We believe that even amid life's greatest trials, God never leaves anyone without hope."
     },
     "details": {
       "uk": [
@@ -81,7 +84,9 @@
       "en": [
         "The community’s spiritual service includes conversations with Bishop Vitalii. Please agree the availability, time and format of a meeting directly."
       ]
-    }
+    },
+    "section": "spiritual-life",
+    "ownerSpiritualBlock": true
   },
   {
     "id": "work",
@@ -91,16 +96,16 @@
     "date": null,
     "place": null,
     "title": {
-      "uk": "Праця та послух",
-      "en": "Work and obedience"
+      "uk": "Праця та послух — служіння у щоденних справах",
+      "en": "Work and Obedience — Serving Through Everyday Tasks"
     },
     "summary": {
-      "uk": "Щоденна праця допомагає підтримувати дім, сад і територію. У простих обов’язках є місце для терпеливості, старанності й відповідальності.",
-      "en": "Daily work helps care for the home, garden and grounds. Ordinary responsibilities make room for patience, diligence and responsibility."
+      "uk": "У монастирському житті навіть найпростіша праця може стати особливою формою служіння Богові. Догляд за садом, будинком і територією виховує терпеливість, відповідальність та вдячність за дари Божого творіння.",
+      "en": "In monastic life, even the simplest work can become a meaningful form of service to God. Caring for the garden, buildings and grounds teaches patience, responsibility and gratitude for the gifts of God's creation."
     },
     "meaning": {
-      "uk": "Послух у цій розповіді постає як готовність долучитися до спільної справи. Праця набуває духовного сенсу, коли людина бачить у ній служіння Богові та ближньому.",
-      "en": "Obedience is presented here as a willingness to contribute to a shared task. Work gains spiritual meaning when it is understood as service to God and neighbour."
+      "uk": "Спільна праця допомагає кожному усвідомити, що любов до ближнього починається з готовності зробити добро власними руками.",
+      "en": "Working together reminds us that love for our neighbour begins with the willingness to do good through our own actions."
     },
     "details": {
       "uk": [
@@ -109,7 +114,9 @@
       "en": [
         "Care for plants and the grounds brings people together in shared responsibility. What matters is a consistent willingness to do what is needed."
       ]
-    }
+    },
+    "section": "activities",
+    "ownerSpiritualBlock": true
   },
   {
     "id": "community",
@@ -119,16 +126,16 @@
     "date": null,
     "place": null,
     "title": {
-      "uk": "Життя спільноти",
-      "en": "Community life"
+      "uk": "Сестринська спільнота — єдність у вірі та любові",
+      "en": "The Sisterhood — United in Faith and Love"
     },
     "summary": {
-      "uk": "Сестри й послушниці ділять молитву, щоденні справи та час для спілкування. Спільне життя складається з багатьох невеликих проявів уваги.",
-      "en": "The sisters and novices share prayer, everyday tasks and time for conversation. Shared life is made up of many small acts of attentiveness."
+      "uk": "Життя сестер і послушниць обителі поєднує молитву, щоденні обов'язки та взаємну підтримку. Спільнота зростає не лише через великі духовні події, але й через прості вчинки: добре слово, терпеливість, готовність допомогти та вміння почути одна одну.",
+      "en": "The lives of the sisters and novices bring together prayer, daily responsibilities and mutual support. Community grows not only through significant spiritual occasions, but also through simple gestures: a kind word, patience, a willingness to help and the ability to listen to one another."
     },
     "meaning": {
-      "uk": "Бути поруч означає вчитися чути іншу людину й відповідати на її потреби. Ця близькість нагадує про християнське покликання любити ближнього у звичайних обставинах.",
-      "en": "Being present means learning to hear another person and respond to their needs. This closeness recalls the Christian calling to love one’s neighbour in ordinary circumstances."
+      "uk": "Саме у такій повсякденній любові відкривається справжня краса християнського життя.",
+      "en": "In this everyday love, the true beauty of Christian life becomes visible."
     },
     "details": {
       "uk": [
@@ -137,7 +144,9 @@
       "en": [
         "The photographs preserve shared encounters, conversation and everyday surroundings. The Community Life page explores these elements in more detail."
       ]
-    }
+    },
+    "section": "community-life",
+    "ownerSpiritualBlock": true
   },
   {
     "id": "hospitality",
@@ -147,16 +156,16 @@
     "date": null,
     "place": null,
     "title": {
-      "uk": "Гостинність",
-      "en": "Hospitality"
+      "uk": "Відчинені двері — гостинність і християнська любов",
+      "en": "Open Doors — Hospitality and Christian Love"
     },
     "summary": {
-      "uk": "Обитель розповідає про себе як про дім, у якому раді зустрічі з людиною. Гостинність починається з привітного слова та поваги до гідності гостя.",
-      "en": "The community presents itself as a home that welcomes an encounter with another person. Hospitality begins with a kind word and respect for the guest’s dignity."
+      "uk": "Гостинність починається з відкритого серця, щирого слова та поваги до кожної людини. Обитель прагне бути місцем, де подорожній може відчути людське тепло, знайти хвилину тиші та звернутися по духовну підтримку.",
+      "en": "Hospitality begins with an open heart, a sincere word and respect for every person. The community strives to be a place where travellers can experience human kindness, find a moment of peace and seek spiritual support."
     },
     "meaning": {
-      "uk": "Прийняти ближнього — це помітити його присутність і не пройти повз. Християнський сенс гостинності відкривається у простій готовності приділити увагу.",
-      "en": "To receive a neighbour is to notice their presence rather than pass by. The Christian meaning of hospitality is found in a simple willingness to give attention."
+      "uk": "У зустрічі з ближнім ми вчимося бачити не лише його життєві труднощі, але й безцінну гідність людини, створеної за образом Божим.",
+      "en": "In meeting others, we learn to see beyond their difficulties and recognise the priceless dignity of every person created in the image of God."
     },
     "details": {
       "uk": [
@@ -165,7 +174,9 @@
       "en": [
         "Please confirm visiting arrangements by phone or messenger before travelling. This helps arrange the meeting and the practical details you need."
       ]
-    }
+    },
+    "section": "activities",
+    "ownerSpiritualBlock": true
   },
   {
     "id": "kitchen",
@@ -175,16 +186,16 @@
     "date": null,
     "place": null,
     "title": {
-      "uk": "Соціальна кухня",
-      "en": "Social kitchen"
+      "uk": "Соціальна кухня — любов, втілена у турботі",
+      "en": "The Social Kitchen — Love Expressed Through Care"
     },
     "summary": {
-      "uk": "Соціальна кухня та місце гарячої їжі служать подорожнім і відвідувачам. За цією турботою стоїть щоденна праця сестер громади.",
-      "en": "The social kitchen and a place for hot meals serve travellers and visitors. This care involves the everyday work of the community’s sisters."
+      "uk": "Християнська любов виявляється не лише у словах, але й у простих справах милосердя. Приготована їжа, теплий прийом і можливість розділити трапезу стають знаком людської уваги до подорожнього та того, хто потребує підтримки.",
+      "en": "Christian love is expressed not only in words, but also through simple acts of mercy. A prepared meal, a warm welcome and the opportunity to share a table become signs of care for travellers and those in need of support."
     },
     "meaning": {
-      "uk": "Трапеза може стати простим виявом любові до ближнього. Через їжу, увагу та спільний стіл служіння набуває зрозумілої людської форми.",
-      "en": "A meal can become a simple expression of love for a neighbour. Through food, attention and a shared table, service takes a tangible human form."
+      "uk": "Через це скромне служіння обитель прагне свідчити, що кожна людина гідна поваги, турботи й доброго слова.",
+      "en": "Through this humble service, the community seeks to show that every person deserves dignity, kindness and compassion."
     },
     "details": {
       "uk": [
@@ -193,7 +204,9 @@
       "en": [
         "Please confirm availability, times and arrangements directly with the community. You can reach it by phone, email or messenger."
       ]
-    }
+    },
+    "section": "activities",
+    "ownerSpiritualBlock": true
   },
   {
     "id": "plants",
@@ -221,7 +234,8 @@
       "en": [
         "Please ask the community about plant availability and arrangements. This activity brings patient work together with care for living creation."
       ]
-    }
+    },
+    "section": "activities"
   },
   {
     "id": "scripture",
@@ -231,16 +245,16 @@
     "date": null,
     "place": null,
     "title": {
-      "uk": "Спілкування зі Словом Божим",
-      "en": "Conversation around the Word of God"
+      "uk": "Слово Боже — світло на життєвій дорозі",
+      "en": "The Word of God — Light Along Life's Journey"
     },
     "summary": {
-      "uk": "Духовне спілкування за Словом Божим — один із сюжетів, підписаних громадою. Спільна розмова дає можливість вдумливо звернутися до віри й життя.",
-      "en": "Conversation around the Word of God is one of the activities identified by the community. Shared reflection offers a way to consider faith and life thoughtfully."
+      "uk": "Святе Письмо допомагає людині відкрити глибший сенс власного життя та розпізнати Божу присутність серед щоденних обставин. Спільне читання і духовна бесіда запрошують не лише слухати Слово Боже, але й втілювати його у своїх рішеннях та вчинках.",
+      "en": "Holy Scripture helps us discover a deeper meaning in life and recognise God's presence in everyday circumstances. Reading and reflecting together invite us not only to hear God's Word, but also to put it into practice through our decisions and actions."
     },
     "meaning": {
-      "uk": "Слухати Слово означає також шукати, як відповісти на нього власними вчинками. Уважне спілкування допомагає перейти від почутого до відповідальності за щоденний вибір.",
-      "en": "Listening to the Word also means considering how to respond through our actions. Attentive conversation helps connect what is heard with responsibility for everyday choices."
+      "uk": "Адже віра стає живою тоді, коли почуте Євангеліє перетворюється на любов і милосердя.",
+      "en": "Faith becomes truly alive when the Gospel we hear is transformed into love and mercy."
     },
     "details": {
       "uk": [
@@ -249,6 +263,8 @@
       "en": [
         "Shared reading and spiritual conversation invite a response through everyday life as well as words. Attention to another person is part of that response."
       ]
-    }
+    },
+    "section": "spiritual-life",
+    "ownerSpiritualBlock": true
   }
 ]

@@ -4,9 +4,13 @@
     button.addEventListener('click', async () => {
       const box = button.closest('[data-copy-box]');
       const status = box.querySelector('[data-copy-status]');
+      box.classList.remove('is-copied');
+      status.textContent='';
       try {
         await navigator.clipboard.writeText('+380957332967');
         status.textContent = button.dataset.copied;
+        box.classList.add('is-copied');
+        setTimeout(()=>box.classList.remove('is-copied'),1800);
       } catch {
         const field = box.querySelector('input');
         field.hidden = false;

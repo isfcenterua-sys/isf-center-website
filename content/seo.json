@@ -1,0 +1,110 @@
+{
+  "uk": {
+    "home": {
+      "title": "Киблярська обитель | ISF — In Search of the Fallen",
+      "description": "Киблярська православна громада апостольської традиції: спільна молитва, духовна підтримка, соціальна кухня та життя обителі у Закарпатті."
+    },
+    "about": {
+      "title": "Історія громади та реєстраційні документи | ISF",
+      "description": "Документальна історія Киблярської громади: збори 2005 року, державна реєстрація 20 травня 2005 року, виписка 2013 року та свідоцтво."
+    },
+    "mission": {
+      "title": "Наша місія — духовна підтримка і повернення надії | ISF",
+      "description": "Місія Киблярської обителі — бути поруч через молитву, духовну підтримку й діла милосердя, підтримувати надію та відповідальність одне за одного."
+    },
+    "values": {
+      "title": "Наші цінності — молитва, гідність і взаємна підтримка | ISF",
+      "description": "Молитва, увага до людини, спільна відповідальність, простота і взаємна підтримка — цінності, якими керується Киблярська громада."
+    },
+    "spiritual-life": {
+      "title": "Духовне життя Киблярської обителі | ISF",
+      "description": "Спільна молитва, богослужіння, духовні бесіди та вечірній Розарій у житті обителі. Дізнайтеся, як уточнити можливість участі й передати прохання."
+    },
+    "day-in-the-community": {
+      "title": "Один день в обителі — молитва, праця і спільне життя | ISF",
+      "description": "Повсякденність Киблярської обителі: молитва, обов’язки, праця, гостинність, спільний стіл і вечірній Розарій. Тематична розповідь без погодинного розкладу."
+    },
+    "icon-history": {
+      "title": "Ікона Божої Матері «Взискання загиблих» — історія | ISF",
+      "description": "Справжній образ Божої Матері в Киблярській обителі: архівна фотографія, документальні відомості, духовне значення та межі відомої історії."
+    },
+    "community-life": {
+      "title": "Життя Киблярської громади — турбота і служіння | ISF",
+      "description": "Від ранкового зосередження до вечірньої молитви: спільна праця, трапеза, спілкування та допомога ближнім у повсякденному житті Киблярської громади."
+    },
+    "activities": {
+      "title": "Діяльність обителі — молитва, кухня і допомога ближнім | ISF",
+      "description": "Напрями служіння Киблярської обителі: молитва, духовний супровід, соціальна кухня, гостинність, спільна праця та догляд за рослинами."
+    },
+    "gallery": {
+      "title": "Фотогалерея Киблярської обителі та громади | ISF",
+      "description": "Справжні фотографії обителі: храм та ікони, громада, портрети, соціальна кухня, будівлі, сад і ставок. Переглядайте альбом і збільшуйте знімки."
+    },
+    "news": {
+      "title": "Новини та підтверджені повідомлення громади | ISF",
+      "description": "Офіційні повідомлення Киблярської громади. Датовані події публікуються після підтвердження; актуальні питання можна уточнити безпосередньо в обителі."
+    },
+    "support": {
+      "title": "Підтримати обитель — долучитися до справ милосердя | ISF",
+      "description": "Дізнайтеся, як узгодити допомогу соціальній кухні, спільному дому й території обителі або долучитися до молитви. Поточні потреби уточнюйте у громади."
+    },
+    "contacts": {
+      "title": "Контакти Киблярської обителі — телефон і месенджери | ISF",
+      "description": "Зв’яжіться з ISF: +380 95 733 29 67, isf.center.ua@gmail.com, WhatsApp, Viber і Telegram. Уточніть питання відвідування, молитви та допомоги."
+    }
+  },
+  "en": {
+    "home": {
+      "title": "ISF — In Search of the Fallen | Kybliary Community",
+      "description": "An Orthodox community of the Apostolic Tradition in Kybliary, Zakarpattia: shared prayer, spiritual support, the social kitchen and everyday community life."
+    },
+    "about": {
+      "title": "Community History and Registration Documents | ISF",
+      "description": "The documentary history of the Kybliary community: the 2005 meeting reference, registration on 20 May 2005, the 2013 register extract and certificate."
+    },
+    "mission": {
+      "title": "Our Mission — Spiritual Support and Renewed Hope | ISF",
+      "description": "The Kybliary community seeks to stand alongside people through prayer, spiritual support and acts of mercy, nurturing hope and responsibility for one another."
+    },
+    "values": {
+      "title": "Our Values — Prayer, Dignity and Mutual Support | ISF",
+      "description": "Prayer, attentiveness to each person, shared responsibility, simplicity and mutual support guide the Kybliary community’s daily life and relationships."
+    },
+    "spiritual-life": {
+      "title": "Spiritual Life at the Kybliary Community | ISF",
+      "description": "Explore shared prayer, worship, spiritual conversation and the evening Rosary. Contact the community about participation and passing on a prayer request."
+    },
+    "day-in-the-community": {
+      "title": "A Day at the Community — Prayer, Work and Shared Life | ISF",
+      "description": "Everyday life at Kybliary: prayer, daily duties, work, hospitality, a shared table and the evening Rosary. A thematic account without an hourly timetable."
+    },
+    "icon-history": {
+      "title": "The Mother of God Icon ‘Seeking the Lost’ — History | ISF",
+      "description": "The original icon at the Kybliary community: an archival photograph, documentary references, spiritual meaning and the limits of its recorded history."
+    },
+    "community-life": {
+      "title": "Life at Kybliary — Shared Care and Service | ISF",
+      "description": "From morning reflection to evening prayer: shared work, meals, conversation and practical care for neighbours in the everyday life of the Kybliary community."
+    },
+    "activities": {
+      "title": "Community Activities — Prayer, Food and Care | ISF",
+      "description": "Explore the community’s activities: prayer, spiritual guidance, the social kitchen, hospitality, shared work and caring for ornamental plants."
+    },
+    "gallery": {
+      "title": "Kybliary Community and Grounds — Photo Gallery | ISF",
+      "description": "Real photographs of the church, icons, community, individual portraits, social kitchen, buildings, garden and pond. Browse the gallery and enlarge each image."
+    },
+    "news": {
+      "title": "News and Confirmed Community Announcements | ISF",
+      "description": "Official Kybliary community announcements. Dated events are published once confirmed; contact the community directly for current information."
+    },
+    "support": {
+      "title": "Support the Community — Share in Acts of Mercy | ISF",
+      "description": "Discuss help for the social kitchen, community home and grounds, or enquire about joining in prayer. Agree current needs and arrangements directly with us."
+    },
+    "contacts": {
+      "title": "Contact Kybliary — Phone, Email and Messengers | ISF",
+      "description": "Contact ISF on +380 95 733 29 67 or isf.center.ua@gmail.com, and via WhatsApp, Viber or Telegram. Enquire about visits, prayer and practical support."
+    }
+  }
+}

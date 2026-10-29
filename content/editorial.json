@@ -2,10 +2,10 @@
   "missionStatus": "confirmed",
   "uk": {
     "missionTitle": "Наша місія",
-    "missionLead": "Берегти простір молитви та спільного життя, у якому віра втілюється у щоденній праці, взаємній увазі й відповідальності одне за одного.",
+    "missionLead": "Бути поруч із людиною через молитву, духовну підтримку й діла милосердя; допомагати віднаходити надію та берегти спільне життя у вірі, любові й відповідальності.",
     "missionParagraphs": [
-      "Ми прагнемо поєднувати духовне життя з простими справами кожного дня: молитвою, турботою про спільний дім, працею та живим спілкуванням. Для нас спільнота починається з готовності бути поруч і брати участь у тому, що робимо разом.",
-      "Наша місія — підтримувати спільне життя, у якому є місце для тиші й розмови, особистого молитовного звернення та спільної відповідальності. Ці орієнтири визначають, як ми прагнемо будувати повсякденність обителі."
+      "Ми прагнемо, щоб людина, яка звертається до обителі, могла знайти уважну розмову, молитовну підтримку й посильну турботу. Духовні бесіди, соціальна кухня та гаряча їжа для подорожніх і відвідувачів поєднують духовне життя з конкретною допомогою ближньому.",
+      "Надія зростає там, де є місце для молитви, покаяння, милосердя та людської гідності. Спільна праця й турбота про дім навчають нас відповідальності; увага одне до одного допомагає втілювати віру в повсякденних учинках."
     ],
     "valuesTitle": "Наші цінності",
     "valuesIntro": "Орієнтири, якими ми прагнемо керуватися в молитві, праці та взаєминах.",
@@ -149,7 +149,7 @@
     "certificateSource": "Відкрити наданий PNG",
     "certificateNote": "Дані свідоцтва звірено з фотографією паперового документа та випискою з ЄДР. Відомості про адресу і керівництво стосуються дат джерел; актуальні умови відвідування уточнюються окремо.",
     "iconTitle": "Історія ікони Божої Матері «Взискання загиблих»",
-    "iconIntro": "Окремий розділ для історії образу та переказів, пов’язаних із ним. Розповідь про місцеву ікону готується зі збереженням відмінності між документами й усною пам’яттю.",
+    "iconIntro": "Образ у молитовному просторі Киблярської обителі: справжня архівна фотографія, документальні відомості та духовне значення.",
     "iconNameTitle": "Назва в церковному вжитку",
     "iconNameText": "Форма «Взискання загиблих» засвідчена в україномовній публікації Української Православної Церкви. В офіційному календарі Православної Церкви України також вживається назва «Віднайдення загиблих». Це варіанти церковного найменування образу; юридична назва громади «Вишукування загиблих» зберігається без змін.",
     "iconSourcesLabel": "Джерела написання назви",
@@ -165,14 +165,26 @@
     "communityCard": "Спільнота ISF",
     "emailLabel": "Електронна пошта",
     "contactNote": "Напишіть нам щодо відвідування, спільної молитви або інших питань життя громади. Телефон і актуальна адреса для відвідувачів ще уточнюються.",
-    "activitiesOverviewTitle": "Допомога і служіння"
+    "activitiesOverviewTitle": "Допомога і служіння",
+    "brandNote": "ISF — In Search of the Fallen — погоджений бренд і міжнародне представлення громади. Він не замінює повної зареєстрованої юридичної назви, наведеної нижче.",
+    "iconEvidenceTitle": "Що відомо з наявних джерел",
+    "iconEvidence": [
+      {
+        "title": "Назва громади у документах 2005 року",
+        "text": "Свідоцтво про державну реєстрацію від 20 травня 2005 року фіксує назву громади «Вишукування загиблих». Воно підтверджує юридичне ім’я, але не дату появи або передавання ікони."
+      },
+      {
+        "title": "Образ у храмовому просторі обителі",
+        "text": "Архівна фотографія, надана громадою, показує образ Божої Матері в храмі. Цей знімок зберігає вигляд ікони та її оточення; окремої підтвердженої дати знімання для історичної хроніки немає."
+      }
+    ]
   },
   "en": {
     "missionTitle": "Our mission",
-    "missionLead": "To sustain a space for prayer and shared life, where faith takes shape in daily work, attentiveness and responsibility for one another.",
+    "missionLead": "To stand alongside people through prayer, spiritual support and acts of mercy; to help renew hope and nurture a shared life of faith, love and responsibility.",
     "missionParagraphs": [
-      "We seek to bring spiritual life into the ordinary tasks of each day: prayer, care for our shared home, work and personal conversation. For us, community begins with a willingness to be present and to take part in what we do together.",
-      "Our mission is to nurture a shared life with room for silence and conversation, personal prayer and collective responsibility. These are the principles we seek to carry into everyday life at the community."
+      "We seek to offer attentive conversation, prayerful support and the care we are able to provide to those who turn to the community. Spiritual conversations, the social kitchen and hot meals for travellers and visitors bring spiritual life together with practical care for our neighbours.",
+      "Hope grows where there is room for prayer, repentance, mercy and human dignity. Shared work and care for our home teach responsibility, while attentiveness to one another helps us put faith into practice in everyday life."
     ],
     "valuesTitle": "Our values",
     "valuesIntro": "Principles we seek to follow in prayer, work and our relationships.",
@@ -315,8 +327,8 @@
     "certificateOpen": "Open the certificate to read it",
     "certificateSource": "Open the supplied PNG",
     "certificateNote": "The certificate's details were checked against the photograph of the paper document and the register extract. Address and leadership details refer to the dates of those sources; current visiting arrangements are confirmed separately.",
-    "iconTitle": "History of the Mother of God icon “Search for the Fallen”",
-    "iconIntro": "A separate place for the history of the icon and accounts associated with it. The local story is being prepared with a clear distinction between records and oral tradition.",
+    "iconTitle": "History of the Mother of God icon “Seeking the Lost”",
+    "iconIntro": "The icon in the prayer life of the Kybliary community: an original archival photograph, documentary references and spiritual meaning.",
     "iconNameTitle": "The name in church usage",
     "iconNameText": "The Ukrainian form «Взискання загиблих» appears in a Ukrainian-language publication of the Ukrainian Orthodox Church. The Orthodox Church of Ukraine's official calendar also uses «Віднайдення загиблих». These are church names for the icon; the community's registered legal name, «Вишукування загиблих», is retained without alteration.",
     "iconSourcesLabel": "Sources for the Ukrainian name",
@@ -332,6 +344,18 @@
     "communityCard": "ISF community",
     "emailLabel": "Email",
     "contactNote": "Please write to us about visiting, shared prayer or other questions about community life. A telephone number and current visitor address are still being confirmed.",
-    "activitiesOverviewTitle": "Care and service"
+    "activitiesOverviewTitle": "Care and service",
+    "brandNote": "ISF — In Search of the Fallen is the community’s approved brand and international presentation. It does not replace the full registered legal name, whose approved translation appears below.",
+    "iconEvidenceTitle": "What the available sources establish",
+    "iconEvidence": [
+      {
+        "title": "The community’s name in the 2005 records",
+        "text": "The state registration certificate dated 20 May 2005 records the community’s Ukrainian name, “Вишукування загиблих”. It establishes the legal name, not when the icon appeared or was transferred."
+      },
+      {
+        "title": "The icon in the community’s church",
+        "text": "An archival photograph supplied by the community shows the Mother of God icon inside the church. The photograph preserves the icon and its surroundings; a separately verified date for the historical record is not available."
+      }
+    ]
   }
 }

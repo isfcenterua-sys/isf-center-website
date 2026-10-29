@@ -10,8 +10,15 @@
       "en": "Bishop"
     },
     "description": {
-      "uk": "Духовні бесіди та супровід у житті громади.",
-      "en": "Spiritual conversation and guidance in community life."
+      "uk": "Єпископ громади, з яким можна обговорити питання віри та духовного життя. Про можливість особистої бесіди домовляйтеся через офіційні контакти обителі.",
+      "en": "The community’s bishop, with whom visitors may discuss questions of faith and spiritual life. Please use the official contacts to enquire about arranging a conversation."
+    },
+    "portrait": {
+      "src": "/assets/team/bishop-vitalii-640.webp",
+      "srcset": "/assets/team/bishop-vitalii-640.webp 519w, /assets/team/bishop-vitalii-1280.webp 1038w",
+      "width": 3143,
+      "height": 3877,
+      "processing": "original-crop-no-retouch"
     }
   },
   {
@@ -25,8 +32,15 @@
       "en": "Archimandrite"
     },
     "description": {
-      "uk": "Священнослужитель громади; духовний титул — архімандрит.",
-      "en": "A clergy member of the community, with the spiritual title of Archimandrite."
+      "uk": "Архімандрит і священнослужитель громади. Щодо участі у церковному житті та можливості розмови звертайтеся до обителі.",
+      "en": "An archimandrite and clergy member of the community. Please contact the community about participation in church life or the possibility of a conversation."
+    },
+    "portrait": {
+      "src": "/assets/team/archimandrite-mykola-640.webp",
+      "srcset": "/assets/team/archimandrite-mykola-640.webp 526w, /assets/team/archimandrite-mykola-1280.webp 1053w",
+      "width": 3220,
+      "height": 3915,
+      "processing": "original-crop-no-retouch"
     }
   },
   {
@@ -40,8 +54,15 @@
       "en": "Mother"
     },
     "description": {
-      "uk": "Молитва та участь у спільному житті громади.",
-      "en": "Prayer and participation in shared community life."
+      "uk": "Молитва та спільні щоденні справи — її участь у житті обителі. Турбота про громаду починається з уваги й готовності бути поруч.",
+      "en": "She takes part in the community’s prayer and shared everyday tasks. Care for the community begins with attentiveness and a willingness to be present."
+    },
+    "portrait": {
+      "src": "/assets/team/mother-mariia-640.webp",
+      "srcset": "/assets/team/mother-mariia-640.webp 600w, /assets/team/mother-mariia-1280.webp 1200w",
+      "width": 3527,
+      "height": 3762,
+      "processing": "original-crop-no-retouch"
     }
   }
 ]

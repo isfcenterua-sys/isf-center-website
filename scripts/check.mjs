@@ -2,6 +2,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
+import {checkMetadata} from './check-seo.mjs';
+import {checkFeatures} from './check-features.mjs';
+import {checkCopyNumber} from './check-copy.mjs';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),out=path.join(root,'dist');
 const files=fs.readdirSync(out,{recursive:true}).filter(f=>fs.statSync(path.join(out,f)).isFile());
@@ -33,7 +36,7 @@ for(const f of files){
  if(!['index.html','404.html'].includes(f)){
   assert.ok(html.includes('class="brand-logo"'),`Missing supplied brand image: ${f}`);
   const header=html.match(/<header[\s\S]*?<\/header>/)[0];
-  assert.ok(header.includes('class="brand-full-name"'),`Missing full legal name beside supplied icon: ${f}`);
+  assert.ok(header.includes('class="brand-approved"'),`Missing approved brand beside supplied icon: ${f}`);
   assert.ok(html.includes('class="footer-legal-name"'),`Missing complete legal name in footer: ${f}`);
   for(const href of ['tel:+380957332967','mailto:isf.center.ua@gmail.com','https://wa.me/380957332967','viber://chat?number=%2B380957332967','https://t.me/+380957332967'])assert.ok(html.includes(`href="${href}"`),`Missing official footer contact ${href}: ${f}`);
   for(const match of html.matchAll(/href="tel:([^\"]+)"/g))assert.equal(match[1],'+380957332967',`Unconfirmed phone on ${f}`);
@@ -80,4 +83,6 @@ assert.equal(fs.readFileSync(path.join(root,'public/google696019cf5de45d47.html'
 assert.equal(fs.readFileSync(path.join(out,'assets/google-verification.txt'),'utf8'),fs.readFileSync(path.join(out,'google696019cf5de45d47.html'),'utf8'));
 assert.ok(fs.readFileSync(path.join(out,'_redirects'),'utf8').includes('/google696019cf5de45d47.html /assets/google-verification.txt 200'));
 
-console.log(JSON.stringify({result:'PASS',htmlPages:pages,internalReferences:links,approvedPhotos:photos.filter(p=>p.publish).length,files:files.length},null,2));
+const metadataChecks=checkMetadata({root,out,siteURL:JSON.parse(fs.readFileSync(path.join(root,'content/site.json'),'utf8')).url});
+const featureChecks=checkFeatures({root,out}),copyChecks=await checkCopyNumber(root);
+console.log(JSON.stringify({result:'PASS',htmlPages:pages,internalReferences:links,approvedPhotos:photos.filter(p=>p.publish).length,files:files.length,metadataChecks,featureChecks,copyChecks},null,2));

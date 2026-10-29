@@ -699,11 +699,11 @@
     "height": 4912,
     "alt": {
       "uk": "Надане громадою фото образу Божої Матері «Взискання загиблих» у храмі.",
-      "en": "Photograph supplied by the community of the Mother of God icon “Search for the Fallen” in the church."
+      "en": "Photograph supplied by the community of the Mother of God icon “Seeking the Lost” in the church."
     },
     "caption": {
       "uk": "Надане громадою фото образу Божої Матері «Взискання загиблих» у храмі.",
-      "en": "Photograph supplied by the community of the Mother of God icon “Search for the Fallen” in the church."
+      "en": "Photograph supplied by the community of the Mother of God icon “Seeking the Lost” in the church."
     },
     "publicationStatus": "approved",
     "publish": true,
@@ -740,16 +740,58 @@
     "width": 7360,
     "height": 4912,
     "alt": {
-      "uk": "Образ Божої Матері «Взискання загиблих» у Киблярській обителі",
-      "en": "The Mother of God icon “Search for the Fallen” at the Kybliary community"
+      "uk": "Ікона Божої Матері «Взискання загиблих» у Киблярській обителі",
+      "en": "The icon of the Mother of God “Seeking the Lost” at the Kybliary community"
     },
     "caption": {
       "uk": "Образ Божої Матері «Взискання загиблих» у Киблярській обителі",
-      "en": "The Mother of God icon “Search for the Fallen” at the Kybliary community"
+      "en": "The Mother of God icon “Seeking the Lost” at the Kybliary community"
     },
     "title": {
       "uk": "Образ Божої Матері «Взискання загиблих» у Киблярській обителі",
-      "en": "The Mother of God icon “Search for the Fallen” at the Kybliary community"
+      "en": "The Mother of God icon “Seeking the Lost” at the Kybliary community"
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "bell-tower-sunset",
+    "category": "nature",
+    "width": 648,
+    "height": 1024,
+    "alt": {
+      "uk": "Дерев’яна дзвіниця обителі на заході сонця",
+      "en": "The community’s wooden bell tower at sunset"
+    },
+    "caption": {
+      "uk": "Дерев’яна дзвіниця обителі на заході сонця",
+      "en": "The community’s wooden bell tower at sunset"
+    },
+    "title": {
+      "uk": "Дерев’яна дзвіниця обителі на заході сонця",
+      "en": "The community’s wooden bell tower at sunset"
+    },
+    "publicationStatus": "approved",
+    "publish": true,
+    "personId": null
+  },
+  {
+    "id": "autumn-courtyard",
+    "category": "nature",
+    "width": 883,
+    "height": 1024,
+    "alt": {
+      "uk": "Осіннє подвор’я Киблярської обителі",
+      "en": "The Kybliary community courtyard in autumn"
+    },
+    "caption": {
+      "uk": "Осіннє подвор’я Киблярської обителі",
+      "en": "The Kybliary community courtyard in autumn"
+    },
+    "title": {
+      "uk": "Осіннє подвор’я Киблярської обителі",
+      "en": "The Kybliary community courtyard in autumn"
     },
     "publicationStatus": "approved",
     "publish": true,
