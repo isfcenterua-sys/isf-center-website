@@ -1,0 +1,17 @@
+{
+  "id": "community-house",
+  "assetId": "mission-welcome",
+  "width": 7380,
+  "height": 4928,
+  "alt": {
+    "uk": "Дім, у якому вам завжди раді",
+    "en": "A Home Where You Are Always Welcome"
+  },
+  "caption": {
+    "uk": "Дім, у якому вам завжди раді",
+    "en": "A Home Where You Are Always Welcome"
+  },
+  "sourceFilename": "дом в котором вам всегда рады.NEF",
+  "originalNumericFilename": "810_9689.NEF",
+  "sourceSha256": "af5b606fc47a8f52592f8ec8f9c0ebf3f097566083c40d49baf9b5d87d46c839"
+}
