@@ -74,7 +74,9 @@ for(const lang of ['uk','en']){
 }
 for(const lang of ['uk','en']){
  const home=fs.readFileSync(path.join(out,lang,'index.html'),'utf8');
- assert.ok(home.includes('monastery-hero-1920.webp'),'Required real hero photograph missing');
+ assert.ok(home.includes('class="hero-media"><img class="source-photo-community-table" src="/assets/photos/community-table.webp"'),'Required owner-selected hero photograph missing');
+ assert.ok(home.includes('loading="eager" fetchpriority="high"'),'Hero must load with high priority');
+ assert.ok(fs.existsSync(path.join(out,'assets/photos/monastery-hero-1920.webp')),'Previous territory photograph must be preserved');
  const icon=fs.readFileSync(path.join(out,lang,'icon-history/index.html'),'utf8');
  assert.ok(icon.includes('icon-original-1920.webp'),'Required original icon photograph missing');
  assert.ok(!icon.includes('isf-mother-of-god')||icon.includes('icon-original'),'Brand image must not replace documentary icon');
