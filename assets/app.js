@@ -19,22 +19,34 @@
   const dialog = document.querySelector('.lightbox');
   const image = dialog.querySelector('img');
   const buttons = [...document.querySelectorAll('[data-photo]')];
+  const descriptions=new Map([...document.querySelectorAll('[data-photo-description]')].map(t=>[t.dataset.photoDescription,t]));
+  const detail=dialog.querySelector('.lightbox-description');
   let current = 0, sequence = [], opener;
   const show = index => {
     current = (index + sequence.length) % sequence.length;
     const item = sequence[current];
     image.src = item.dataset.full;
     image.alt = item.dataset.alt;
-    dialog.querySelector('figcaption').textContent = item.dataset.caption || '';
+    image.width=Number(item.dataset.width);image.height=Number(item.dataset.height);
+    dialog.querySelector('#photo-viewer-title').textContent=item.dataset.title||'';
+    dialog.querySelector('[data-photo-caption]').textContent=item.dataset.caption||'';
+    dialog.querySelector('[data-photo-category]').textContent=item.dataset.categoryLabel||'';
+    const template=descriptions.get(item.dataset.photoKey);
+    dialog.querySelector('[data-photo-description-content]').replaceChildren(...(template?[template.content.cloneNode(true)]:[]));
+    detail.hidden=!template;detail.open=false;
+    dialog.querySelector('.lightbox-scroll').scrollTo(0,0);
     dialog.querySelector('[data-photo-status]').textContent = `${current + 1} / ${sequence.length}`;
     dialog.querySelectorAll('[data-prev],[data-next]').forEach(b => { b.disabled = sequence.length < 2; });
   };
   buttons.forEach(button => button.addEventListener('click', () => {
     opener = button;
-    sequence = buttons.filter(b => !b.closest('[hidden]'));
-    show(sequence.indexOf(button));
+    const seen=new Set();
+    sequence=buttons.filter(b=>{const key=b.dataset.photoKey||b.dataset.full;if(b.closest('[hidden]')||seen.has(key))return false;seen.add(key);return true;});
+    show(sequence.findIndex(b=>(b.dataset.photoKey||b.dataset.full)===(button.dataset.photoKey||button.dataset.full)));
+    detail.open=button.dataset.expanded==='true';
     dialog.showModal();
     document.body.style.overflow = 'hidden';
+    if(detail.open)requestAnimationFrame(()=>detail.scrollIntoView({block:'nearest'}));
   }));
   dialog.querySelector('[data-close]').addEventListener('click', () => dialog.close());
   dialog.querySelector('[data-prev]').addEventListener('click', () => show(current - 1));

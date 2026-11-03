@@ -40,10 +40,6 @@
       "title": "Фотогалерея Киблярської обителі та громади | ISF",
       "description": "Справжні фотографії обителі: храм та ікони, громада, портрети, соціальна кухня, будівлі, сад і ставок. Переглядайте альбом і збільшуйте знімки."
     },
-    "news": {
-      "title": "Новини та підтверджені повідомлення громади | ISF",
-      "description": "Офіційні повідомлення Киблярської громади. Датовані події публікуються після підтвердження; актуальні питання можна уточнити безпосередньо в обителі."
-    },
     "support": {
       "title": "Підтримати обитель — долучитися до справ милосердя | ISF",
       "description": "Дізнайтеся, як узгодити допомогу соціальній кухні, спільному дому й території обителі або долучитися до молитви. Поточні потреби уточнюйте у громади."
@@ -125,10 +121,6 @@
     "gallery": {
       "title": "Kybliary Community and Grounds — Photo Gallery | ISF",
       "description": "Real photographs of the church, icons, community, individual portraits, social kitchen, buildings, garden and pond. Browse the gallery and enlarge each image."
-    },
-    "news": {
-      "title": "News and Confirmed Community Announcements | ISF",
-      "description": "Official Kybliary community announcements. Dated events are published once confirmed; contact the community directly for current information."
     },
     "support": {
       "title": "Support the Community — Share in Acts of Mercy | ISF",

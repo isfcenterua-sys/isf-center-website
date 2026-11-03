@@ -85,7 +85,9 @@
       "uk": "Простота, затишок і гостинність",
       "en": "Simplicity, comfort and hospitality"
     },
-    "editorialReviewed2026": true
+    "editorialReviewed2026": true,
+    "showcase": false,
+    "showcaseNote": "Archived from public gallery and showcases at the owner’s request, 2026-11-03. Original assets retained."
   },
   {
     "id": "bedroom-secondary",
@@ -107,7 +109,9 @@
       "uk": "Простота, затишок і гостинність",
       "en": "Simplicity, comfort and hospitality"
     },
-    "editorialReviewed2026": true
+    "editorialReviewed2026": true,
+    "showcase": false,
+    "showcaseNote": "Archived from public gallery and showcases at the owner’s request, 2026-11-03. Original assets retained."
   },
   {
     "id": "garden-animals",
