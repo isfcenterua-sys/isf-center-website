@@ -20,7 +20,7 @@ export function checkFeatures({root,out}) {
       assert.ok(location.embed[lang].startsWith('https://www.google.com/maps/embed?pb='));
       assert.ok(decodeURIComponent(location.embed[lang]).includes(location.placeDataId));
       assert.ok(html.includes('loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen'));
-      assert.ok(html.includes('favicon.ico?v=')&&html.includes('favicon.svg?v=')&&html.includes('apple-touch-icon.png?v='));
+      assert.ok(html.includes('favicon.ico?v=')&&html.includes('favicon-32x32.png?v=')&&html.includes('rel="manifest"')&&html.includes('rel="shortcut icon"')&&html.includes('apple-touch-icon.png?v='));
       assert.ok(html.includes('class="brand-approved"')&&html.includes('class="footer-legal-name"'));
       for(const brand of ['whatsapp','viber','telegram'])assert.ok(html.includes(`/assets/icons/${brand}.svg`));
     }
@@ -36,6 +36,6 @@ export function checkFeatures({root,out}) {
   }
   for(const person of people){assert.equal(person.portrait.processing,'original-crop-no-retouch');assert.ok(fs.existsSync(path.join(out,person.portrait.src)));}
   const headers=fs.readFileSync(path.join(out,'_headers'),'utf8');assert.ok(headers.includes('frame-src https://www.google.com;'));
-  for(const name of ['favicon.ico','favicon.svg','apple-touch-icon.png'])assert.ok(fs.existsSync(path.join(out,'assets',name)));
+  for(const name of ['favicon.ico','favicon-16x16.png','favicon-32x32.png','apple-touch-icon.png','android-chrome-192x192.png','android-chrome-512x512.png','android-maskable-512x512.png'])assert.ok(fs.existsSync(path.join(out,'assets',name)));
   return {ownerSpiritualBlocks:blocks.length,teamPeople:people.length,maps:Object.keys(read('seo.json').uk).length*2,originalMapPin:location.placeDataId};
 }

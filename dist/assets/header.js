@@ -3,7 +3,7 @@
  const menu=header.querySelector('.menu'),nav=header.querySelector('#navigation');
  const groups=[...header.querySelectorAll('[data-nav-group]')],language=header.querySelector('[data-language-selector]');
  if(header.classList.contains('cinematic-header')){const update=()=>header.classList.toggle('is-scrolled',window.scrollY>24);window.addEventListener('scroll',update,{passive:true});update();}
- const desktop=matchMedia(header.classList.contains('cinematic-header')?'(min-width:1301px)':'(min-width:1101px)'),hover=matchMedia('(hover:hover)');
+ const desktop=matchMedia(header.classList.contains('cinematic-header')?'(min-width:1381px)':'(min-width:1281px)'),hover=matchMedia('(hover:hover)');
  function closeGroups(except){for(const group of [...groups,language])if(group!==except)group.open=false;}
  function closeMenu(){nav.classList.remove('open');menu.setAttribute('aria-expanded','false');closeGroups();}
  menu.addEventListener('click',()=>{const open=!nav.classList.contains('open');nav.classList.toggle('open',open);menu.setAttribute('aria-expanded',String(open));if(!open)closeGroups();});

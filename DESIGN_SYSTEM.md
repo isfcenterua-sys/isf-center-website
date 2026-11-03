@@ -22,3 +22,14 @@ node scripts/serve.mjs
 ```
 
 The preview binds only to `127.0.0.1:4173`, compresses text resources, and survives a temporarily missing build. Cloudflare Pages continues publishing the existing `main` branch. Never force-push or replace the repository with an older archive.
+
+
+## Final polish
+
+`assets/tokens.css` is the common source for palette, spacing, radii, shadows, typography and motion. `components.css` owns the common card surface; the existing renderers retain their horizontal or vertical layouts. `footer.css` and `scripts/footer.mjs` own the three-column footer, eight navigation links, contact actions, language links and full legal name. Retired header/footer selectors were removed from earlier stylesheets rather than adding another competing header.
+
+The home navigation uses 16px text and a compact layout through 1380px. The internal header uses a compact layout through 1280px and less vertical space. The home photograph keeps its full native 16:9 frame with a feathered edge on wide screens, and a responsive frame on phones. Gallery documentary photographs remain uncropped, while natural landscape previews may fill their shared frame.
+
+`assets/brand/isf-mother-of-god-384.webp` remains the unmodified favicon master. `scripts/generate-site-icons.py` creates the committed PNG/ICO sizes with resampling and cream padding. `scripts/site-icons.mjs` reuses content-hash versioning and connects the icon set to every generated HTML head, including the root and 404. Root and English manifests provide 192/512px icons and a safe maskable variant. The old monogram is retained only in `archive/favicon-monogram.svg`, outside the published assets.
+
+The generator does not require Python or image libraries to rebuild the site. Check favicon sizes, manifests and every HTML head with `node scripts/check-icons.mjs`.

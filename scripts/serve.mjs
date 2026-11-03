@@ -4,7 +4,7 @@ import path from 'node:path';
 import {gzipSync} from 'node:zlib';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../dist');
-const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.webp':'image/webp','.svg':'image/svg+xml','.woff2':'font/woff2','.xml':'application/xml','.txt':'text/plain','.png':'image/png','.ico':'image/x-icon'};
+const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.webmanifest':'application/manifest+json; charset=utf-8','.webp':'image/webp','.svg':'image/svg+xml','.woff2':'font/woff2','.xml':'application/xml','.txt':'text/plain','.png':'image/png','.ico':'image/x-icon'};
 const compressed=new Map();
 function responseHeaders(pathname){
  const result={};let applies=false,headers;
@@ -27,7 +27,7 @@ const server=http.createServer((req,res)=>{
   if(stat?.isDirectory()&&fs.existsSync(path.join(file,'index.html'))){res.writeHead(301,{Location:pathname+'/'});res.end();return;}
   if(!stat?.isFile()){file=path.join(root,'404.html');stat=fs.statSync(file);status=404;}
   const ext=path.extname(file),headers={...responseHeaders(pathname),'Content-Type':types[ext]||'application/octet-stream'};
-  const text=/\.(html|css|js|json|svg|xml|txt)$/.test(ext),accept=req.headers['accept-encoding']||'';
+  const text=/\.(html|css|js|json|webmanifest|svg|xml|txt)$/.test(ext),accept=req.headers['accept-encoding']||'';
   if(text)headers.Vary='Accept-Encoding';
   if(text&&/\bgzip\b/.test(accept)&&!/gzip\s*;\s*q=0(?:\.0*)?(?:,|$)/.test(accept)){
    const key=file+':'+stat.size+':'+stat.mtimeMs;

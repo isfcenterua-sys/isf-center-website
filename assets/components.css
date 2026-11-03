@@ -1,0 +1,27 @@
+/* A shared surface for the existing card renderers; each renderer owns its layout. */
+:is(.modular-card,.sacred-card,.resource-card,.interactive-card,.home-gateway-card,.values-grid>article,.activity-overview-grid>article,.nature-scene){
+ min-width:0;border:1px solid var(--card-border);border-radius:var(--radius-card);background:var(--white);box-shadow:var(--card-shadow);
+ transition:transform var(--motion-base) var(--ease-out),box-shadow var(--motion-base),border-color var(--motion-base);
+}
+.section{padding-block:var(--section-space)}
+.sacred-directions{padding-top:36px}
+.photo-button{border-radius:var(--radius-media)}
+.btn{min-height:46px;border-radius:var(--radius-pill);box-shadow:var(--button-shadow);transition:background var(--motion-fast),box-shadow var(--motion-base),transform var(--motion-fast)}
+.btn:not(.outline){background:var(--green);color:var(--white)}
+.btn.outline{border-color:#b2945d80}
+.filter{min-height:var(--control-size);border-radius:var(--radius-pill)}
+/* A photograph takes more space in the gallery; documentary subjects stay uncropped. */
+.photo-grid .modular-card .photo-button,.photo-grid .modular-card .photo-button img[class]{aspect-ratio:4/3}
+.photo-grid :is([data-category=community],[data-category=portraits],[data-category=spiritual],[data-category=art],[data-category=service],[data-category=interior]) .photo-button img[class]{object-fit:contain}
+.photo-grid .modular-copy h3{block-size:2.6em;-webkit-line-clamp:2;line-clamp:2}
+.photo-grid .modular-copy .modular-caption{block-size:3.4em;-webkit-line-clamp:2;line-clamp:2}
+.photo-grid .modular-copy{padding:20px 14px 12px}
+.calendar-panel,.reader-toolbar,.prayer-reader,.official-contact-card{border-radius:var(--radius-card);box-shadow:var(--card-shadow)}
+@media(hover:hover) and (prefers-reduced-motion:no-preference){
+ :is(.modular-card,.sacred-card,.resource-card,.interactive-card:not(.person-card),.home-gateway-card):hover{transform:translateY(-4px);border-color:#c29b5066;box-shadow:var(--card-shadow-hover)}
+ .btn:hover{box-shadow:0 6px 14px #183d2d20}
+}
+@media(prefers-reduced-motion:reduce){
+ :is(.modular-card,.sacred-card,.resource-card,.interactive-card,.home-gateway-card,.values-grid>article,.activity-overview-grid>article,.nature-scene){transition:none}
+ :is(.modular-card,.sacred-card,.resource-card,.home-gateway-card):hover{transform:none}
+}

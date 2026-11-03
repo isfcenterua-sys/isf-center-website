@@ -1,0 +1,16 @@
+/* Shared design values. Text gold is deliberately darker than decorative gold. */
+:root{
+ --green:#183d2d;--deep:#183d2d;--green-secondary:#2c5340;--cinema-green:#09281d;
+ --cream:#f7f3e9;--white:#fffdf8;--sage:#e7eae3;--ink:#263e34;--muted:#59685e;
+ --gold:#78603a;--accent-gold:#c29b50;--line:#ddd6c7;
+ --serif:'Playfair Display',Georgia,serif;--sans:'DM Sans','Noto Sans',Arial,sans-serif;
+ --space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-5:24px;--space-6:32px;--space-7:48px;--space-8:64px;
+ --radius-card:20px;--radius-media:12px;--radius-control:12px;--radius-pill:999px;
+ --card-border:#c29b5030;--card-shadow:0 4px 12px #183d2d08,0 16px 32px #183d2d0c;
+ --card-shadow-hover:0 8px 16px #183d2d10,0 20px 34px #183d2d14;
+ --panel-shadow:0 14px 35px #183d2d26;--button-shadow:0 4px 10px #183d2d12;
+ --grid-gap:28px;--control-size:44px;--font-nav:16px;--font-h2:clamp(30px,3vw,38px);--font-h3:25px;--section-space:clamp(48px,5.3vw,76px);
+ --motion-fast:200ms;--motion-base:300ms;--motion-reveal:500ms;--motion-long:650ms;--ease-out:cubic-bezier(.22,1,.36,1);
+}
+@media(max-width:1100px){:root{--grid-gap:24px}}
+@media(max-width:700px){:root{--grid-gap:25px}}
