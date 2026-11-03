@@ -1,13 +1,5 @@
 (() => {
   'use strict';
-  const menu = document.querySelector('.menu');
-  const nav = document.querySelector('.nav');
-  function closeMenu() { nav.classList.remove('open'); menu.setAttribute('aria-expanded', 'false'); }
-  menu.addEventListener('click', () => { const open = menu.getAttribute('aria-expanded') !== 'true'; menu.setAttribute('aria-expanded', String(open)); nav.classList.toggle('open', open); });
-  document.addEventListener('keydown', e => { if (e.key === 'Escape' && nav.classList.contains('open')) { closeMenu(); menu.focus(); } });
-  document.addEventListener('click', e => { if (!e.target.closest('.header')) closeMenu(); });
-  nav.querySelectorAll('a').forEach(a => a.addEventListener('click', closeMenu));
-  matchMedia('(min-width:1101px)').addEventListener('change', e => { if (e.matches) closeMenu(); });
   const cards = [...document.querySelectorAll('[data-photo-card]')];
   const filters = [...document.querySelectorAll('[data-filter]')];
   filters.forEach(button => button.addEventListener('click', () => {

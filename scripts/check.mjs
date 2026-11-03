@@ -74,8 +74,8 @@ for(const lang of ['uk','en']){
 }
 for(const lang of ['uk','en']){
  const home=fs.readFileSync(path.join(out,lang,'index.html'),'utf8');
- assert.ok(home.includes('class="hero-media"><img class="source-photo-community-table" src="/assets/photos/community-table.webp"'),'Required owner-selected hero photograph missing');
- assert.ok(home.includes('loading="eager" fetchpriority="high"'),'Hero must load with high priority');
+ assert.ok(home.includes('class="editorial-image community-approved-photo"><img class="source-photo-community-table" src="/assets/photos/community-table.webp"'),'Required owner-selected community photograph missing');
+ assert.ok(home.includes('class="hero-media"><img class="source-photo-shared-worship"')&&home.includes('loading="eager" fetchpriority="high"'),'Hero must load with high priority');
  assert.ok(fs.existsSync(path.join(out,'assets/photos/monastery-hero-1920.webp')),'Previous territory photograph must be preserved');
  const icon=fs.readFileSync(path.join(out,lang,'icon-history/index.html'),'utf8');
  assert.ok(icon.includes('icon-original-1920.webp'),'Required original icon photograph missing');
