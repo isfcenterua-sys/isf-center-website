@@ -12,5 +12,6 @@ for(const lang of ['uk','en']){
  const home=fs.readFileSync(`dist/${lang}/index.html`,'utf8');assert.ok(home.includes('preview-terrace-fellowship'));assert.ok(home.includes('src="/assets/photos/community-table.webp"'));assert.ok(home.includes('data-team-coverflow'));
 }
 assert.ok(!fs.readFileSync('dist/sitemap.xml','utf8').includes('/news/'));
+for(const lang of ['uk','en'])assert.ok(fs.readFileSync('dist/_redirects','utf8').includes(`/${lang}/news/ /${lang}/community-life/ 301`));
 const styles=fs.readFileSync('assets/structure.css','utf8');assert.ok(styles.includes('object-fit:cover'));assert.ok(!/\b(?:html|body)\s*\{[^}]*overflow-x\s*:\s*hidden/.test(styles));
 console.log(JSON.stringify({result:'PASS',publicPages:40,photosRetained:48,galleryPhotos:46,archivedRooms:2,newsDisabled:true,spiritualOversight:'Owner-confirmed UA/EN'},null,2));

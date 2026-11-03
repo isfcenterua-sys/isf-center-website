@@ -76,7 +76,7 @@ for(const lang of site.languages){for(const slug of slugs){const p=url(lang,slug
 write('404.html',shell('uk','404',contents('uk','404')));
 write('index.html','<!doctype html><html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=/uk/"><link rel="canonical" href="'+site.url+'/uk/"><title>ISF</title></head><body><a href="/uk/">Українська</a> · <a href="/en/">English</a></body></html>');
 write('assets/google-verification.txt',fs.readFileSync(path.join(root,'public/google696019cf5de45d47.html'),'utf8'));
-write('_redirects','/google696019cf5de45d47.html /assets/google-verification.txt 200\n/ /uk/ 302\n');
+write('_redirects','/google696019cf5de45d47.html /assets/google-verification.txt 200\n/ /uk/ 302\n/uk/news /uk/community-life/ 301\n/uk/news/ /uk/community-life/ 301\n/uk/news/* /uk/community-life/ 301\n/en/news /en/community-life/ 301\n/en/news/ /en/community-life/ 301\n/en/news/* /en/community-life/ 301\n');
 write('robots.txt',`User-agent: *\nAllow: /\nSitemap: ${site.url}/sitemap.xml\n`);
 write('sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${paths.map(p=>`<url><loc>${site.url}${p}</loc></url>`).join('')}</urlset>`);
 write('_headers','/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: camera=(), microphone=(), geolocation=()\n  Content-Security-Policy: default-src \'self\'; img-src \'self\'; style-src \'self\'; script-src \'self\'; font-src \'self\'; frame-src https://www.google.com; object-src \'none\'; frame-ancestors \'none\'; base-uri \'self\'; form-action \'self\'\n/assets/*\n  Cache-Control: public, max-age=3600\n');

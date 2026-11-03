@@ -1,2 +1,8 @@
 /google696019cf5de45d47.html /assets/google-verification.txt 200
 / /uk/ 302
+/uk/news /uk/community-life/ 301
+/uk/news/ /uk/community-life/ 301
+/uk/news/* /uk/community-life/ 301
+/en/news /en/community-life/ 301
+/en/news/ /en/community-life/ 301
+/en/news/* /en/community-life/ 301
