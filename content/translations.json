@@ -17,7 +17,10 @@
       "gallery": "Галерея",
       "news": "Новини",
       "support": "Підтримати",
-      "contacts": "Контакти"
+      "contacts": "Контакти",
+      "calendar": "Церковний календар",
+      "prayer": "Молитви",
+      "testimonies": "Особисті свідчення"
     },
     "skip": "Перейти до змісту",
     "menu": "Меню",
@@ -78,7 +81,8 @@
       "nature": "Сад і природа",
       "community": "Громада",
       "portraits": "Портрети",
-      "service": "Допомога і служіння"
+      "service": "Допомога і служіння",
+      "art": "Сакральне мистецтво"
     },
     "pageDescription": "ISF — Киблярська громада: духовне життя, спільна молитва, соціальна кухня, історія та служіння ближньому."
   },
@@ -100,7 +104,10 @@
       "gallery": "Gallery",
       "news": "News",
       "support": "Support",
-      "contacts": "Contact"
+      "contacts": "Contact",
+      "calendar": "Church Calendar",
+      "prayer": "Prayers",
+      "testimonies": "Personal Testimonies"
     },
     "skip": "Skip to content",
     "menu": "Menu",
@@ -161,7 +168,8 @@
       "nature": "Garden & nature",
       "community": "Community",
       "portraits": "Portraits",
-      "service": "Care & service"
+      "service": "Care & service",
+      "art": "Sacred art"
     },
     "pageDescription": "ISF — In Search of the Fallen: spiritual life, shared prayer, the social kitchen, community history and service in Kybliary."
   }

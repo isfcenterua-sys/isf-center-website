@@ -1,6 +1,6 @@
 (() => {
   'use strict';
-  document.querySelectorAll('[data-carousel]:not([data-team-single])').forEach(root=>{
+  document.querySelectorAll('[data-carousel]:not([data-team-coverflow])').forEach(root=>{
     const track=root.querySelector('[data-carousel-track]'),cards=[...track.querySelectorAll('[data-carousel-card]')];
     const previous=root.querySelector('[data-carousel-prev]'),next=root.querySelector('[data-carousel-next]'),status=root.querySelector('[data-carousel-status]');
     const step=()=>cards.length>1?cards[1].offsetLeft-cards[0].offsetLeft:track.clientWidth;
@@ -17,5 +17,5 @@
   });
   const dialog=document.querySelector('#detail-viewer');
   if(dialog){let opener;const templates=new Map([...document.querySelectorAll('[data-detail-template]')].map(t=>[t.dataset.detailTemplate,t]));document.querySelectorAll('[data-detail]').forEach(button=>button.addEventListener('click',()=>{const template=templates.get(button.dataset.detail);if(!template)return;opener=button;dialog.querySelector('#detail-viewer-title').textContent=template.dataset.title;dialog.querySelector('[data-detail-content]').replaceChildren(template.content.cloneNode(true));dialog.showModal();document.body.style.overflow='hidden';dialog.querySelector('[data-detail-content]').scrollTo(0,0);}));dialog.querySelector('[data-close-detail]').addEventListener('click',()=>dialog.close());dialog.addEventListener('close',()=>{document.body.style.overflow='';opener?.focus();});}
-  if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduce)').matches){const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('is-visible');observer.unobserve(e.target);}}),{threshold:.08});document.querySelectorAll('.reveal').forEach(element=>observer.observe(element));document.documentElement.classList.add('has-motion');}
+  if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduce)').matches){const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('is-visible');observer.unobserve(e.target);}}),{threshold:.08});document.querySelectorAll('.reveal,.resource-card,.documentary-card,.photo-card,.section-head').forEach(element=>{element.classList.add('reveal');observer.observe(element);});document.documentElement.classList.add('has-motion');}
 })();

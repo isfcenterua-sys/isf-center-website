@@ -51,6 +51,38 @@
     "contacts": {
       "title": "Контакти Киблярської обителі — телефон і месенджери | ISF",
       "description": "Зв’яжіться з ISF: +380 95 733 29 67, isf.center.ua@gmail.com, WhatsApp, Viber і Telegram. Уточніть питання відвідування, молитви та допомоги."
+    },
+    "calendar": {
+      "title": "Церковний календар на 2027 рік | ISF",
+      "description": "Свята, пісні дні, дванадцять місяців 2027 року та дати старого й нового стилю з перевіреними посиланнями на джерела."
+    },
+    "prayer": {
+      "title": "Молитви та молитовні джерела | ISF",
+      "description": "Ранкові й вечірні молитви, Псалтир за двадцятьма кафизмами та тематичні молитви: зручна навігація і перевірені джерела."
+    },
+    "prayer/morning": {
+      "title": "Ранкові молитви — джерело для читання | ISF",
+      "description": "Ранкове молитовне правило: посилання на перевірений текст, мова джерела та зручний перехід до вечірніх молитов і Псалтиря."
+    },
+    "prayer/evening": {
+      "title": "Вечірні молитви — джерело для читання | ISF",
+      "description": "Вечірнє молитовне правило: перевірений текст у першоджерелі, зазначення мови та переходи до інших розділів молитви."
+    },
+    "prayer/psalter": {
+      "title": "Псалтир за двадцятьма кафизмами | ISF",
+      "description": "Оглавлення двадцяти кафизм Псалтиря: номери псалмів, вибір кафизми, налаштування читання й прямі посилання на перевірений текст."
+    },
+    "art-school": {
+      "title": "Художня школа та сакральне мистецтво | ISF",
+      "description": "Художня школа Киблярської обителі: уроки сакрального мистецтва, творча праця та пізнання християнської духовної спадщини."
+    },
+    "testimonies": {
+      "title": "Особисті свідчення громади обителі | ISF",
+      "description": "Особисті розповіді про віру та духовний шлях до Киблярської обителі, опубліковані зі згодою та збереженням суттєвих обставин."
+    },
+    "testimonies/my-spiritual-journey": {
+      "title": "Мій духовний шлях до Киблярської обителі | ISF",
+      "description": "Обезличене особисте свідчення: перший приїзд у 14 років, переживання родини та власне рішення продовжити духовний шлях після повноліття."
     }
   },
   "en": {
@@ -105,6 +137,38 @@
     "contacts": {
       "title": "Contact Kybliary — Phone, Email and Messengers | ISF",
       "description": "Contact ISF on +380 95 733 29 67 or isf.center.ua@gmail.com, and via WhatsApp, Viber or Telegram. Enquire about visits, prayer and practical support."
+    },
+    "calendar": {
+      "title": "Church Calendar for 2027 | ISF",
+      "description": "Explore all twelve months of 2027, with old-style church feasts, fasting days, Julian and Gregorian dates and verified source links."
+    },
+    "prayer": {
+      "title": "Prayers and prayer resources | ISF",
+      "description": "Find morning and evening prayer resources, a directory of twenty kathismata of the Psalter and prayers for different needs with verified sources."
+    },
+    "prayer/morning": {
+      "title": "Morning prayers — reading resource | ISF",
+      "description": "Begin the day with a verified morning prayer resource, clear source language information and navigation to evening prayers and the Psalter."
+    },
+    "prayer/evening": {
+      "title": "Evening prayers — reading resource | ISF",
+      "description": "Close the day with a verified evening prayer resource, clear source language information and links to morning prayers and the Psalter."
+    },
+    "prayer/psalter": {
+      "title": "Psalter — directory of twenty kathismata | ISF",
+      "description": "Browse all twenty kathismata of the Psalter with psalm ranges, reading settings and direct links to the verified Church Slavonic source."
+    },
+    "art-school": {
+      "title": "Art school and sacred art | ISF",
+      "description": "Discover the Kybliary community’s art school, where lessons in sacred art bring creative work together with spiritual life and Christian heritage."
+    },
+    "testimonies": {
+      "title": "Personal testimonies from the community | ISF",
+      "description": "Read personal accounts of faith and spiritual journeys to the Kybliary community, published with permission and with their material circumstances preserved."
+    },
+    "testimonies/my-spiritual-journey": {
+      "title": "My spiritual journey to the Kybliary community | ISF",
+      "description": "An anonymous personal testimony of a first visit at fourteen, the family’s concerns and a personal decision to continue a spiritual journey after coming of age."
     }
   }
 }

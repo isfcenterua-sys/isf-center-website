@@ -42,7 +42,7 @@ for(const f of files){
   for(const match of html.matchAll(/href="tel:([^\"]+)"/g))assert.equal(match[1],'+380957332967',`Unconfirmed phone on ${f}`);
  }
  if(/(?:^|[\\/])about[\\/]index\.html$/.test(f)){
-  assert.equal((html.match(/class="interactive-card person-card"/g)||[]).length,3,`Exactly three confirmed team members: ${f}`);
+  assert.equal((html.match(/class="interactive-card person-card(?: [^"]*)?"/g)||[]).length,3,`Exactly three confirmed team members: ${f}`);
  }
  if(/(?:^|[\\/])contacts[\\/]index\.html$/.test(f))assert.ok(html.includes('mailto:isf.center.ua@gmail.com'),`Missing confirmed email: ${f}`);
 }

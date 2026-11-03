@@ -11,7 +11,7 @@ export function checkFeatures({root,out}) {
   assert.equal(location.latitude,48.606734);assert.equal(location.longitude,22.5548433);
   const escape=s=>s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   for(const lang of ['uk','en']){
-    const names=['','about/','mission/','values/','spiritual-life/','day-in-the-community/','icon-history/','community-life/','activities/','gallery/','news/','support/','contacts/'];
+    const names=Object.keys(read('seo.json')[lang]).map(slug=>slug==='home'?'':slug+'/');
     for(const name of names){
       const html=fs.readFileSync(path.join(out,lang,name,'index.html'),'utf8');
       assert.equal((html.match(/class="find-us section"/g)||[]).length,1,'One map per page');
@@ -37,5 +37,5 @@ export function checkFeatures({root,out}) {
   for(const person of people){assert.equal(person.portrait.processing,'original-crop-no-retouch');assert.ok(fs.existsSync(path.join(out,person.portrait.src)));}
   const headers=fs.readFileSync(path.join(out,'_headers'),'utf8');assert.ok(headers.includes('frame-src https://www.google.com;'));
   for(const name of ['favicon.ico','favicon.svg','apple-touch-icon.png'])assert.ok(fs.existsSync(path.join(out,'assets',name)));
-  return {ownerSpiritualBlocks:blocks.length,teamPeople:people.length,maps:26,originalMapPin:location.placeDataId};
+  return {ownerSpiritualBlocks:blocks.length,teamPeople:people.length,maps:Object.keys(read('seo.json').uk).length*2,originalMapPin:location.placeDataId};
 }

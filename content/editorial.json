@@ -64,7 +64,7 @@
     ],
     "dayNote": "Послідовність цих розділів є тематичною, а не погодинним розкладом. Умови відвідування й участі у спільній молитві уточнюйте електронною поштою.",
     "activitiesTitle": "Молитва, служіння і щоденна турбота",
-    "activitiesIntro": "Соціальна кухня, гаряча їжа для подорожніх і відвідувачів, духовний супровід та спільна молитва — напрями служіння обителі. Поруч із ними триває щоденна праця громади: турбота про дім, територію й декоративні рослини.",
+    "activitiesIntro": "Соціальна кухня, гаряча їжа для подорожніх і відвідувачів, духовний супровід та спільна молитва — напрями служіння обителі. Поруч із ними триває щоденна праця громади: турбота про дім, територію й декоративні рослини. Художня школа поєднує творчу працю з уроками сакрального мистецтва.",
     "activities": [
       {
         "title": "Соціальна кухня та гаряча їжа",
@@ -100,8 +100,8 @@
     "assistanceTitle": "Питання допомоги та звернень",
     "assistanceText": "Щоб звернутися щодо гарячої їжі, духовної бесіди, прохання про молитву або відвідування, напишіть на електронну пошту обителі. Детальні умови узгоджуються безпосередньо з громадою.",
     "historyTitle": "Документальна історія громади",
-    "historyIntro": "Надані документи дають змогу простежити юридичне оформлення громади: від згадки про загальні збори 2005 року до виписки з реєстру, виданої у 2013 році. Вони не описують усіх етапів духовної історії чи розвитку будівель обителі.",
-    "historyOverview": "Історія громади має духовний і документальний виміри. У цьому розділі подано події, які можна датувати за наявними реєстраційними матеріалами. Назву організації відтворено так, як її записано у свідоцтві.",
+    "historyIntro": "Від сімейних спогадів про духовне становлення у 1994–1995 роках і початок будівництва у 1996–1997 роках — до державної реєстрації 20 травня 2005 року. Особисте свідчення та документальні джерела подано окремо.",
+    "historyOverview": "Документальна історія доповнює сімейну розповідь про становлення обителі. Наведені нижче дати юридичного оформлення підтверджують реєстраційні матеріали; вони не визначають початку духовного життя громади.",
     "historyEvents": [
       {
         "date": "2005-03-12",
@@ -140,7 +140,7 @@
       }
     ],
     "historyLimitsTitle": "Межі документальної розповіді",
-    "historyLimits": "У наданому комплекті немає статуту, протоколу установчих зборів, церковного акта заснування, хроніки будівництва чи пізніших документів про розвиток. Тому дата державної реєстрації не подається як доведена дата появи обителі або ікони. Доповнення історії потребує окремих джерел.",
+    "historyLimits": "Реєстраційні дати підтверджує наведене свідоцтво. Розповідь про духовне становлення та будівництво походить із сімейних спогадів Віталія Миколайовича Ананченка. Приблизні дати та особисті релігійні переживання не є незалежно підтвердженими медичними або архівними висновками.",
     "certificateTitle": "Свідоцтво про державну реєстрацію",
     "certificateIntro": "Документальна сторінка історії громади. Надане організацією зображення свідоцтва зручно відкрити окремо й роздивитися деталі.",
     "certificateCaption": "Зображення свідоцтва, надане організацією для публікації. Текст і оформлення відтворено без змін.",
@@ -243,7 +243,7 @@
     ],
     "dayNote": "These sections follow a thematic sequence, rather than an hourly timetable. Please email the community about visiting and taking part in shared prayer.",
     "activitiesTitle": "Prayer, service and everyday care",
-    "activitiesIntro": "The social kitchen, hot meals for travellers and visitors, spiritual guidance and shared prayer are areas of the community’s service. Alongside them is its everyday work: caring for the home, grounds and ornamental plants.",
+    "activitiesIntro": "The social kitchen, hot meals for travellers and visitors, spiritual guidance and shared prayer are areas of the community’s service. Alongside them is its everyday work: caring for the home, grounds and ornamental plants. The art school brings creative work together with lessons in sacred art.",
     "activities": [
       {
         "title": "Social kitchen and hot meals",
@@ -279,8 +279,8 @@
     "assistanceTitle": "Enquiries about help and visiting",
     "assistanceText": "Please email the community about hot meals, a spiritual conversation, a prayer request or a visit. Detailed arrangements are agreed directly with the community.",
     "historyTitle": "The community's documentary history",
-    "historyIntro": "The supplied documents trace the community's legal organisation, from a reference to a general meeting in 2005 to a register extract issued in 2013. They do not describe every stage of its spiritual history or the development of its buildings.",
-    "historyOverview": "The community's story has both spiritual and documentary dimensions. This section sets out events that can be dated from the available registration records. The name below is the approved English translation of the Ukrainian registered name, not a separate legal name.",
+    "historyIntro": "From family recollections of spiritual beginnings around 1994–1995 and construction around 1996–1997 to state registration on 20 May 2005. Personal testimony and documentary sources are presented separately.",
+    "historyOverview": "The documentary history complements the family account of the community’s beginnings. Registration records support the legal dates below; these do not mark the beginning of the community’s spiritual life.",
     "historyEvents": [
       {
         "date": "2005-03-12",
@@ -319,7 +319,7 @@
       }
     ],
     "historyLimitsTitle": "The scope of the documentary account",
-    "historyLimits": "The supplied set contains no charter, founding-meeting minutes, ecclesiastical founding act, building chronicle or later records of development. State registration is therefore not presented as proof of when the religious community or the icon first appeared. Further history needs additional sources.",
+    "historyLimits": "The registration dates are supported by the certificate below. The account of spiritual beginnings and construction comes from the family recollections of Vitalii Mykolaiovych Ananchenko. Approximate dates and personal religious experiences are not independently established medical or archival findings.",
     "certificateTitle": "State registration certificate",
     "certificateIntro": "A documentary page in the community's history. Open the certificate image supplied by the organisation to read the details.",
     "certificateCaption": "Certificate image supplied by the organisation for publication. Its text and design are reproduced without alteration.",

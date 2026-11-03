@@ -1,0 +1,21 @@
+{
+  "year": 2027,
+  "checkedDate": "2026-11-03",
+  "churchCalendar": "Julian (old style)",
+  "displayCalendar": "Gregorian civil dates",
+  "offsetDays": 13,
+  "sources": [
+    "https://akafistnik.ru/days/2027",
+    "https://azbyka.ru/days/calendar/2027",
+    "https://www.rop.ru/d/3000/d/svyataya_lubov_kalendar_2027_block.pdf"
+  ],
+  "officialEdition": {
+    "publisher": "Publishing House of the Moscow Patriarchate",
+    "year": 2027,
+    "scope": "Publisher's 11-page preview: January–August calendar pages. Only calendar facts were consulted; unrelated text and illustrations were not reproduced.",
+    "checked": ["Nativity 7 January", "Theophany 19 January", "Meeting 15 February", "Great Lent 15 March–1 May", "Annunciation 7 April", "Palm Sunday 25 April", "Pascha 2 May", "Bright Week 2–8 May", "Ascension 10 June", "Pentecost 20 June", "Apostles' Fast 28 June–11 July", "Nativity of John 7 July", "Peter and Paul 12 July", "Dormition Fast 14–27 August", "Transfiguration 19 August", "Dormition 28 August"]
+  },
+  "resolvedDiscrepancy": "Eve of Theophany is 18 January. Akafistnik's annual page incorrectly lists 17 January; its daily page for 18 January and Azbyka's annual calendar confirm 18 January. The owner also confirmed 18 January.",
+  "publicationScope": "Original short labels and factual dates, with source links. No copied daily saints' biographies, readings, illustrations or detailed dietary rules.",
+  "localPractice": "External old-style reference calendar; not asserted to be the binding local rule of the ISF community."
+}

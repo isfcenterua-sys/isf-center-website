@@ -1,0 +1,728 @@
+[
+  {
+    "number": 1,
+    "filename": "20251231_233024.jpg",
+    "sha256": "be7f11b6c981a844f2042043c5c8453c1196ebd0ccad750db8ff8d3bea7ea51c",
+    "width": 4624,
+    "height": 2604,
+    "id": "festive-community",
+    "title": {
+      "uk": "Радість спільної молитви та духовної єдності",
+      "en": "The joy of shared prayer and spiritual unity"
+    },
+    "description": {
+      "uk": [
+        "Святкові зустрічі у храмі є особливими моментами життя християнської громади. Вони збирають людей різного віку навколо спільної віри, молитви та духовних цінностей.",
+        "У такі хвилини особливо відчувається значення єдності, взаємної підтримки та радості бути разом. Храм стає місцем, де кожен може відчути себе частиною великої духовної родини."
+      ],
+      "en": [
+        "Festive gatherings in church are special moments in the life of a Christian community. They bring people of different ages together around shared faith, prayer and spiritual values.",
+        "At such times, the meaning of unity, mutual support and the joy of being together becomes especially clear. The church offers a place where everyone can feel part of a wider spiritual family."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/festive-community-320.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 17310
+      },
+      {
+        "path": "/assets/photos/festive-community-640.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 53698
+      },
+      {
+        "path": "/assets/photos/festive-community-960.webp",
+        "width": 960,
+        "height": 541,
+        "bytes": 104010
+      },
+      {
+        "path": "/assets/photos/festive-community-1920.webp",
+        "width": 1920,
+        "height": 1081,
+        "bytes": 278264
+      }
+    ],
+    "exposureEV": 0.15,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        21,
+        "community-kitchen"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Духовенство, сестри та вірні разом у святково прикрашеному храмі обителі",
+      "en": "Clergy, sisters and faithful together in the community’s festively decorated church."
+    },
+    "alt": {
+      "uk": "Духовенство, черниці, дорослі та діти у святково прикрашеному храмі з ялинками.",
+      "en": "Clergy, religious sisters, adults and children in a festively decorated church with Christmas trees."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 2,
+    "filename": "IMG_20240418_081042_403.jpg",
+    "sha256": "3e64fd87dfedfd48e4ec668fad726fc9cd45ad1deb3811563f59de85568ce915",
+    "width": 576,
+    "height": 1280,
+    "id": "working-the-land",
+    "title": {
+      "uk": "Праця на землі — турбота про спільний дім",
+      "en": "Working the land — caring for our shared home"
+    },
+    "description": {
+      "uk": [
+        "У Киблярській обителі духовне життя поєднується зі щоденною працею. Обробіток землі, догляд за городом і територією потребують терпіння, старанності та відповідальності.",
+        "На фотографії збережено один із моментів такої праці. Кожна добра справа, навіть найпростіша, має свою цінність, коли виконується з любов'ю та турботою про спільний дім.",
+        "Спільна праця допомагає людям відчувати відповідальність за місце, яке їх об'єднує."
+      ],
+      "en": [
+        "In the Kybliary community, spiritual life is joined with daily work. Cultivating the land and caring for the vegetable garden and grounds call for patience, diligence and responsibility.",
+        "This photograph preserves a moment of that work. Every good task, however simple, has value when it is carried out with love and care for a shared home.",
+        "Working together helps people feel responsible for the place that brings them together."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/working-the-land-320.webp",
+        "width": 144,
+        "height": 320,
+        "bytes": 11604
+      },
+      {
+        "path": "/assets/photos/working-the-land-640.webp",
+        "width": 288,
+        "height": 640,
+        "bytes": 47546
+      },
+      {
+        "path": "/assets/photos/working-the-land-960.webp",
+        "width": 432,
+        "height": 960,
+        "bytes": 106260
+      },
+      {
+        "path": "/assets/photos/working-the-land-1920.webp",
+        "width": 576,
+        "height": 1280,
+        "bytes": 200504
+      }
+    ],
+    "exposureEV": 0,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        23,
+        "bedroom"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Догляд за землею та спільна праця є частиною повсякденного життя обителі",
+      "en": "Caring for the land and working together are part of the community’s everyday life."
+    },
+    "alt": {
+      "uk": "Люди працюють на обробленій земельній ділянці серед зелених пагорбів.",
+      "en": "People working on a cultivated plot of land among green hills."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 3,
+    "filename": "IMG_20260516_231345_897.jpg",
+    "sha256": "9f282fa18ed8f34f089a09715ab3570ab9b0ce22c6133e88241e93e97fd1c59d",
+    "width": 960,
+    "height": 1280,
+    "id": "courtyard-gathering",
+    "title": {
+      "uk": "Зустрічі, що об'єднують серця",
+      "en": "Encounters that bring hearts together"
+    },
+    "description": {
+      "uk": [
+        "Життя християнської спільноти твориться не лише під час богослужінь, але й у щоденних зустрічах, розмовах та взаємній увазі. На подвір'ї обителі люди мають можливість побути разом, поділитися своїми думками та відчути тепло людського спілкування.",
+        "Такі прості миті нагадують, наскільки важливими є гостинність, підтримка та відкритість до ближнього."
+      ],
+      "en": [
+        "The life of a Christian community takes shape in daily encounters, conversations and care for one another, as well as during worship. In the community courtyard, people have an opportunity to spend time together, share their thoughts and enjoy the warmth of human conversation.",
+        "These simple moments remind us of the importance of hospitality, support and openness towards our neighbours."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/courtyard-gathering-320.webp",
+        "width": 240,
+        "height": 320,
+        "bytes": 28416
+      },
+      {
+        "path": "/assets/photos/courtyard-gathering-640.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 105786
+      },
+      {
+        "path": "/assets/photos/courtyard-gathering-960.webp",
+        "width": 720,
+        "height": 960,
+        "bytes": 225356
+      },
+      {
+        "path": "/assets/photos/courtyard-gathering-1920.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 383506
+      }
+    ],
+    "exposureEV": 0,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        24,
+        "mother-mariia"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Спільні зустрічі та щире спілкування є важливою частиною життя Киблярської обителі",
+      "en": "Shared encounters and sincere conversation are an important part of life in the Kybliary community."
+    },
+    "alt": {
+      "uk": "Група людей біля священнослужителя на подвір'ї Киблярської обителі.",
+      "en": "A group of people beside a member of the clergy in the Kybliary community courtyard."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 4,
+    "filename": "20240317_155028.jpg",
+    "sha256": "d33bbd777367ef991186a244506af7555e8257c198cb140babf1f0a30534d8fd",
+    "width": 4624,
+    "height": 2604,
+    "id": "clergy-and-faithful",
+    "title": {
+      "uk": "Єдність у вірі, молитві та братерстві",
+      "en": "Unity in faith, prayer and fellowship"
+    },
+    "description": {
+      "uk": [
+        "Киблярська обитель є місцем духовних зустрічей, де молитва та християнське спілкування об'єднують духовенство і мирян.",
+        "На фотографії збережено спільний момент перебування великої групи людей у храмі. Такі зустрічі нагадують про важливість духовного братерства, взаємної поваги та підтримки.",
+        "Християнська спільнота зміцнюється там, де люди готові разом молитися, спілкуватися й допомагати одне одному."
+      ],
+      "en": [
+        "The Kybliary community is a place of spiritual encounters where prayer and Christian fellowship bring clergy and laypeople together.",
+        "The photograph preserves a moment when a large group was gathered in church. Such encounters recall the importance of spiritual fellowship, mutual respect and support.",
+        "A Christian community grows stronger where people are willing to pray together, talk and help one another."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/clergy-and-faithful-320.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 16720
+      },
+      {
+        "path": "/assets/photos/clergy-and-faithful-640.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 52214
+      },
+      {
+        "path": "/assets/photos/clergy-and-faithful-960.webp",
+        "width": 960,
+        "height": 541,
+        "bytes": 99912
+      },
+      {
+        "path": "/assets/photos/clergy-and-faithful-1920.webp",
+        "width": 1920,
+        "height": 1081,
+        "bytes": 286166
+      }
+    ],
+    "exposureEV": 0.1,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        20,
+        "social-kitchen-building"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Спільна зустріч духовенства та вірних у храмі Киблярської обителі",
+      "en": "Clergy and faithful gathered in the church of the Kybliary community."
+    },
+    "alt": {
+      "uk": "Велика група духовенства та мирян у храмі Киблярської обителі.",
+      "en": "A large group of clergy and laypeople in the church of the Kybliary community."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 5,
+    "filename": "IMG_20260108_193942_534.HEIC",
+    "sha256": "3d87a453fd98d24b0175cda696de768aa515ea5e2aef04d8e73645b593b833ef",
+    "width": 4032,
+    "height": 3024,
+    "id": "hospitality-table",
+    "title": {
+      "uk": "За спільним столом — тепло людської зустрічі",
+      "en": "Around a shared table — the warmth of being together"
+    },
+    "description": {
+      "uk": [
+        "Життя обителі складається не лише з урочистих подій, але й зі звичайних щоденних моментів, коли люди збираються разом.",
+        "Спільна трапеза дає можливість відпочити, поспілкуватися та розділити радість людської присутності. За столом знаходиться місце для уважного слова, дружньої розмови й взаємної підтримки.",
+        "Так проявляється одна з важливих рис християнської спільноти — турбота про людину не лише в молитві, але й у повсякденному житті."
+      ],
+      "en": [
+        "Community life consists of ordinary daily moments when people gather, as well as formal occasions.",
+        "A shared meal offers an opportunity to rest, talk and enjoy one another’s company. Around the table there is room for a considerate word, friendly conversation and mutual support.",
+        "This expresses an important quality of Christian community: care for a person through everyday life as well as prayer."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/hospitality-table-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 21974
+      },
+      {
+        "path": "/assets/photos/hospitality-table-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 71166
+      },
+      {
+        "path": "/assets/photos/hospitality-table-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 141866
+      },
+      {
+        "path": "/assets/photos/hospitality-table-1920.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 432324
+      }
+    ],
+    "exposureEV": 0.1,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        22,
+        "spiritual-guidance"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Спільна трапеза створює можливість для щирої розмови, гостинності та взаємної уваги",
+      "en": "A shared meal makes room for sincere conversation, hospitality and attention to one another."
+    },
+    "alt": {
+      "uk": "Дорослі та молодь сидять за великим столом під час спільної трапези у приміщенні обителі.",
+      "en": "Adults and young people seated at a large table during a shared meal inside the community."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 6,
+    "filename": "IMG-7aef3cb7c1c6c3df564c47fe30fe4004-V.jpg",
+    "sha256": "6373a60aa60d1645ac422c584982beabec1572ab9451677716929d097be8af64",
+    "width": 720,
+    "height": 1600,
+    "id": "clergy-encounter",
+    "title": {
+      "uk": "Духовне братерство та спільне служіння",
+      "en": "Spiritual fellowship and shared service"
+    },
+    "description": {
+      "uk": [
+        "Духовне служіння пов'язане не лише з особистою молитвою, але й зі спілкуванням, взаємною підтримкою та спільною відповідальністю.",
+        "Зустрічі між священнослужителями можуть бути нагодою для братерської розмови, обміну досвідом і зміцнення духовних зв'язків.",
+        "Фотографія зберігає один із моментів такого спілкування, нагадуючи про важливість єдності та взаємної поваги в християнському житті."
+      ],
+      "en": [
+        "Spiritual service involves conversation, mutual support and shared responsibility, as well as personal prayer.",
+        "Encounters between clergy can offer an opportunity for a fraternal conversation, an exchange of experience and the strengthening of spiritual ties.",
+        "The photograph preserves a moment of such fellowship, recalling the importance of unity and mutual respect in Christian life."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/clergy-encounter-320.webp",
+        "width": 144,
+        "height": 320,
+        "bytes": 6722
+      },
+      {
+        "path": "/assets/photos/clergy-encounter-640.webp",
+        "width": 288,
+        "height": 640,
+        "bytes": 20540
+      },
+      {
+        "path": "/assets/photos/clergy-encounter-960.webp",
+        "width": 432,
+        "height": 960,
+        "bytes": 40784
+      },
+      {
+        "path": "/assets/photos/clergy-encounter-1920.webp",
+        "width": 720,
+        "height": 1600,
+        "bytes": 87350
+      }
+    ],
+    "exposureEV": 0.1,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        19,
+        "scripture-conversation"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Зустріч священнослужителів — нагадування про значення духовного спілкування та братерської підтримки",
+      "en": "An encounter between clergy recalls the importance of spiritual conversation and mutual support."
+    },
+    "alt": {
+      "uk": "Двоє священнослужителів із нагрудними хрестами стоять біля входу до будівлі.",
+      "en": "Two members of the clergy wearing pectoral crosses beside the entrance to a building."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 7,
+    "filename": "FaceApp_1677575928528.jpg",
+    "sha256": "1fad2a746a9bbcc996ddcb1bd16c069a9fbcc4d08afe29ce20bea696652ac243",
+    "width": 3024,
+    "height": 4032,
+    "id": "divine-mercy-art",
+    "title": {
+      "uk": "Мистецтво, що промовляє до серця",
+      "en": "Art that speaks to the heart"
+    },
+    "description": {
+      "uk": [
+        "Сакральне мистецтво допомагає людині по-особливому замислитися над вірою, любов'ю та милосердям.",
+        "Зображення Ісуса Милосердного є впізнаваним символом довіри до Божого милосердя. Художній образ може стати приводом для особистої молитви, духовного роздуму та глибшого знайомства з християнською традицією.",
+        "У житті обителі мистецька творчість доповнює молитву та духовне виховання."
+      ],
+      "en": [
+        "Sacred art offers a particular way to reflect on faith, love and mercy.",
+        "The image of Divine Mercy is a recognisable symbol of trust in God’s mercy. A religious painting can become an invitation to personal prayer, spiritual reflection and a deeper understanding of Christian tradition.",
+        "In the life of the community, artistic creativity complements prayer and spiritual formation."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/divine-mercy-art-320.webp",
+        "width": 240,
+        "height": 320,
+        "bytes": 15076
+      },
+      {
+        "path": "/assets/photos/divine-mercy-art-640.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 47272
+      },
+      {
+        "path": "/assets/photos/divine-mercy-art-960.webp",
+        "width": 720,
+        "height": 960,
+        "bytes": 88414
+      },
+      {
+        "path": "/assets/photos/divine-mercy-art-1920.webp",
+        "width": 1440,
+        "height": 1920,
+        "bytes": 238796
+      }
+    ],
+    "exposureEV": 0,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        27,
+        "portrait-person-03"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Образ Ісуса Милосердного нагадує про Божу любов, надію та духовне значення сакрального мистецтва",
+      "en": "The image of Divine Mercy recalls God’s love, hope and the spiritual meaning of sacred art."
+    },
+    "alt": {
+      "uk": "Чоловік із пензлем поруч із великим художнім образом Ісуса Милосердного.",
+      "en": "A man holding a paintbrush beside a large painted image of Divine Mercy."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 8,
+    "filename": "изображение_viber_2026-11-03_20-09-43-853.jpg",
+    "sha256": "3321468a42b6f0c355a7b6fccdfce97458808924e71dc204cf53e7d69f7b2c40",
+    "width": 1600,
+    "height": 900,
+    "id": "shared-worship",
+    "title": {
+      "uk": "Молитва, що об'єднує покоління",
+      "en": "Prayer that brings generations together"
+    },
+    "description": {
+      "uk": [
+        "У храмі Киблярської обителі молитва об'єднує людей різного віку. Дорослі, молодь і діти перебувають разом у молитовному просторі, де кожен може звернутися до Бога зі своїми переживаннями, вдячністю та проханнями.",
+        "Спільне богослужіння нагадує про значення віри, духовної єдності та відповідальності одне за одного.",
+        "Такі миті зберігають живу традицію молитви, яка передається від старших до молодших поколінь."
+      ],
+      "en": [
+        "In the church of the Kybliary community, prayer brings people of different ages together. Adults, young people and children share a place of prayer where everyone can turn to God with their concerns, gratitude and requests.",
+        "Worshipping together recalls the importance of faith, spiritual unity and responsibility for one another.",
+        "These moments sustain a living tradition of prayer passed from older to younger generations."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/shared-worship-320.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 14288
+      },
+      {
+        "path": "/assets/photos/shared-worship-640.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 39272
+      },
+      {
+        "path": "/assets/photos/shared-worship-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 67370
+      },
+      {
+        "path": "/assets/photos/shared-worship-1920.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 124338
+      }
+    ],
+    "exposureEV": 0.2,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        25,
+        "chapel-path"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Спільна молитва у храмі — духовне серце життя Киблярської обителі",
+      "en": "Shared prayer in church is the spiritual heart of life in the Kybliary community."
+    },
+    "alt": {
+      "uk": "Вірні, серед яких дорослі та діти, перебувають у храмі під час богослужіння.",
+      "en": "Worshippers, including adults and children, in church during a service."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 9,
+    "filename": "изображение_viber_2026-11-03_20-16-39-709.jpg",
+    "sha256": "0b53cc60fb736d9b290ed90c6aa0b02fe38ec5321b6dd7739641ea584778ee17",
+    "width": 1200,
+    "height": 1600,
+    "id": "sacred-art-school",
+    "title": {
+      "uk": "Сакральне мистецтво — краса, народжена вірою",
+      "en": "Sacred art — beauty born of faith"
+    },
+    "description": {
+      "uk": [
+        "У Киблярській обителі діє художня школа, де творчість поєднується з духовним життям. Особливе місце займають уроки сакрального мистецтва, під час яких учасники знайомляться з традиціями створення релігійних образів та розвивають художні здібності.",
+        "Сакральне мистецтво потребує не лише майстерності, але й терпіння, зосередженості та уважності до кожної деталі. Через художню працю відкривається багатство християнської культурної спадщини.",
+        "Цей напрям діяльності обителі об'єднує віру, творчість і прагнення передавати красу духовних традицій наступним поколінням."
+      ],
+      "en": [
+        "An art school is active in the Kybliary community, bringing creativity together with spiritual life. Lessons in sacred art have a special place: participants learn about traditions of creating religious images and develop their artistic abilities.",
+        "Sacred art calls for patience, concentration and attention to every detail, as well as skill. Artistic work opens up the richness of Christian cultural heritage.",
+        "This area of the community’s work brings together faith, creativity and a desire to pass the beauty of spiritual traditions to future generations."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/sacred-art-school-320.webp",
+        "width": 240,
+        "height": 320,
+        "bytes": 16068
+      },
+      {
+        "path": "/assets/photos/sacred-art-school-640.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 48980
+      },
+      {
+        "path": "/assets/photos/sacred-art-school-960.webp",
+        "width": 720,
+        "height": 960,
+        "bytes": 96760
+      },
+      {
+        "path": "/assets/photos/sacred-art-school-1920.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 224772
+      }
+    ],
+    "exposureEV": 0,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        23,
+        "water-place"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Художня школа Киблярської обителі — простір творчості, духовного пізнання та розвитку мистецької майстерності",
+      "en": "The Kybliary community’s art school is a place for creativity, spiritual discovery and the development of artistic skill."
+    },
+    "alt": {
+      "uk": "Чоловік у художній майстерні серед ікон Богородиці та зображення Святого Сімейства.",
+      "en": "A man in an art workshop among icons of the Mother of God and an image of the Holy Family."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  },
+  {
+    "number": 10,
+    "filename": "изображение_viber_2026-11-03_20-15-55-002.jpg",
+    "sha256": "d8a44f41f95bcb4e64cc5206b5b58982ec7d111ff24a184be04d389c2135c429",
+    "width": 1600,
+    "height": 901,
+    "id": "terrace-fellowship",
+    "title": {
+      "uk": "Гостинність, яка починається зі щирого серця",
+      "en": "Hospitality that begins with an open heart"
+    },
+    "description": {
+      "uk": [
+        "Гостинність займає важливе місце у житті Киблярської обителі. За спільним столом люди мають можливість не лише розділити їжу, а й поспілкуватися, краще пізнати одне одного та відчути увагу й доброзичливість.",
+        "Зустрічі у затишному подвір'ї серед квітів нагадують про прості радощі християнського життя — бути поруч, слухати, ділитися й підтримувати.",
+        "Саме з таких звичайних моментів складається атмосфера відкритої та дружньої спільноти."
+      ],
+      "en": [
+        "Hospitality holds an important place in the life of the Kybliary community. Around a shared table, people can share food, talk, get to know one another and experience kindness and attention.",
+        "Gatherings in the welcoming courtyard among the flowers recall the simple joys of Christian life: being present, listening, sharing and supporting one another.",
+        "These ordinary moments shape the atmosphere of an open and friendly community."
+      ]
+    },
+    "variants": [
+      {
+        "path": "/assets/photos/terrace-fellowship-320.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 20660
+      },
+      {
+        "path": "/assets/photos/terrace-fellowship-640.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 69220
+      },
+      {
+        "path": "/assets/photos/terrace-fellowship-960.webp",
+        "width": 960,
+        "height": 541,
+        "bytes": 142834
+      },
+      {
+        "path": "/assets/photos/terrace-fellowship-1920.webp",
+        "width": 1600,
+        "height": 901,
+        "bytes": 321008
+      }
+    ],
+    "exposureEV": 0.1,
+    "contrast": 1.015,
+    "sharpen": "UnsharpMask radius .55, 35%, threshold 3",
+    "crop": false,
+    "generativeProcessing": false,
+    "closestExistingDHash": [
+      [
+        23,
+        "welcome-gate"
+      ]
+    ],
+    "consent": "Owner explicitly confirmed public publication in Codex chat on 2026-11-03.",
+    "caption": {
+      "uk": "Спільна трапеза серед квітів — час для розмови, відпочинку та людської близькості",
+      "en": "A shared meal among the flowers — time for conversation, rest and human connection."
+    },
+    "alt": {
+      "uk": "Люди за спільним столом під дерев'яним навісом серед численних квітів.",
+      "en": "People around a shared table beneath a wooden canopy surrounded by flowers."
+    },
+    "copySource": "Owner-supplied revised brief, 2026-11-03; English translated for publication.",
+    "exposureMethod": "Endpoint-preserving tonal lift; gain 2**EV; no hard clipping from exposure adjustment.",
+    "whiteBalance": "Preserved; no additional white balance shift was necessary after visual inspection."
+  }
+]
