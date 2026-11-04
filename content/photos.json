@@ -1199,7 +1199,8 @@
         "bytes": 87350
       }
     ],
-    "originalSHA256": "6373a60aa60d1645ac422c584982beabec1572ab9451677716929d097be8af64"
+    "originalSHA256": "6373a60aa60d1645ac422c584982beabec1572ab9451677716929d097be8af64",
+    "showcase": false
   },
   {
     "id": "divine-mercy-art",

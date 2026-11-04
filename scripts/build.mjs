@@ -72,7 +72,7 @@ const siteIcons=createSiteIcons({root,write});
 const brandWords=lang=>lang==='en'?'<span class="brand-letters"><strong>I</strong>n <strong>S</strong>earch of the <strong>F</strong>allen</span>':esc(site.brandTitle.uk);
 const brandCopy=lang=>`<span class="brand-copy"><span class="brand-mainline"><b class="wordmark">ISF</b><span class="brand-divider" aria-hidden="true"> — </span><span class="brand-approved">${brandWords(lang)}</span></span><span class="brand-subtitle">${esc(site.brandSubtitle[lang])}</span></span>`;
 const clientAsset=file=>'/assets/'+file+'?v='+createHash('sha256').update(fs.readFileSync(path.join(root,'assets',file))).digest('hex').slice(0,12);
-const cssFiles=['fonts/fonts.css','tokens.css','style.css','editorial.css','contacts.css','widgets.css','brand.css','faith.css','refinement.css','structure.css','components.css','footer.css','approved-header.css','sacred.css','cinematic.css'];
+const cssFiles=['fonts/fonts.css','tokens.css','style.css','editorial.css','contacts.css','widgets.css','brand.css','faith.css','refinement.css','structure.css','components.css','footer.css','approved-header.css','sacred.css','cinematic.css','card-actions.css'];
 const naturalRatios=published.map(p=>`img.source-photo-${p.id}{aspect-ratio:auto ${p.width}/${p.height}}`).join('');
 const cssBundle=(cssFiles.map(f=>fs.readFileSync(path.join(root,'assets',f),'utf8').replace(/url\((font-[^)]+)\)/g,'url(/assets/fonts/$1)')).join('\n')+'\n'+naturalRatios).replace(/\/\*[\s\S]*?\*\//g,'').replace(/\s+/g,' ').trim();
 const cssName='site-'+createHash('sha256').update(cssBundle).digest('hex').slice(0,12)+'.css';

@@ -33,3 +33,10 @@ The home navigation uses 16px text and a compact layout through 1380px. The inte
 `assets/brand/isf-mother-of-god-384.webp` remains the unmodified favicon master. `scripts/generate-site-icons.py` creates the committed PNG/ICO sizes with resampling and cream padding. `scripts/site-icons.mjs` reuses content-hash versioning and connects the icon set to every generated HTML head, including the root and 404. Root and English manifests provide 192/512px icons and a safe maskable variant. The old monogram is retained only in `archive/favicon-monogram.svg`, outside the published assets.
 
 The generator does not require Python or image libraries to rebuild the site. Check favicon sizes, manifests and every HTML head with `node scripts/check-icons.mjs`.
+
+
+## Life-section refinements (4 November 2026)
+
+`assets/card-actions.css` owns the shared light CTA surface and category tones; `scripts/card-actions.mjs` supplies its small SVG arrow. Home gateway cards remain single native links, with a decorative action label inside rather than nested interactive controls. The Community Life intro link is a 48px outlined, softly filled action. Photograph-card controls continue opening the existing full-frame reader. Hover changes fill and shadow; arrow travel is limited to 3px and disabled for reduced motion.
+
+The owner requested removal of the “Spiritual fellowship and shared service” card from both the gallery and the spiritual collection. `clergy-encounter` therefore has `showcase: false`; all 48 source photos and originals remain, while 45 cards appear in the gallery. The spiritual-guidance illustration remains available where it has its own different purpose. Collections filter hidden cards before choosing the two-column modifier; phones use one column.

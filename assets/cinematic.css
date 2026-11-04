@@ -53,15 +53,13 @@
 .home-gateway-card{display:flex;flex-direction:column;min-width:0;height:100%;}
 .home-gateway-card>figure{aspect-ratio:16/9;overflow:hidden;border-radius:19px 19px 0 0;background:#e7eae3;}
 .home-gateway-card>figure img{height:100%;width:100%;object-fit:cover;object-position:center 30%;transition:transform .35s;}
-.home-gateway-copy{position:relative;padding:32px 23px 23px;flex:1;}
+.home-gateway-copy{position:relative;display:flex;flex-direction:column;padding:32px 23px 23px;flex:1;}
 .home-gateway-icon{position:absolute;top:-24px;left:20px;display:grid;place-items:center;width:48px;height:48px;background:#f6ecd6;color:#916d2e;border:1px solid var(--white);border-radius:50%;}
 .home-gateway-icon svg{width:26px;height:26px;}
-.home-gateway-copy h2{font-size:25px;line-height:1.25;margin-bottom:12px;min-height:2.5em;}
-.home-gateway-copy p{font-size:15px;line-height:1.7;margin:0;padding-right:20px;min-height:5.1em;}
-.home-gateway-arrow{position:absolute;right:15px;bottom:24px;color:#916d2e;transition:transform .3s;}
+.home-gateway-copy h2{font-size:25px;line-height:1.25;margin-bottom:14px;}
+.home-gateway-copy p{font-size:15px;line-height:1.7;margin:0 0 20px;}
 .home-community-intro{padding-top:70px;}
 .community-approved-photo img{aspect-ratio:auto;object-fit:contain;}
-.home-community-intro .text-link{display:inline-flex;gap:15px;align-items:center;min-height:44px;}
 .cinematic-hero .hero-media:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#09281d,transparent 32%);pointer-events:none;}
 
 @media(min-width:1381px) and (max-width:1600px){
@@ -113,7 +111,6 @@
 .cinematic-hero .hero-copy .lead{font-size:17px;}
 .home-gateway-grid{grid-template-columns:repeat(2,minmax(0,1fr));}
 .home-gateway-copy h2{min-height:1.25em;}
-.home-gateway-copy p{min-height:3.4em;}
 .home-gateways.wrap{width:calc(100% - 48px);}
 }
 
@@ -150,7 +147,7 @@
 .home-gateway-grid{grid-template-columns:minmax(0,1fr);gap:25px;}
 .home-gateway-copy{padding:33px 24px 24px;}
 .home-gateway-copy h2{font-size:27px;min-height:1.25em;}
-.home-gateway-copy p{font-size:16px;min-height:3.4em;}
+.home-gateway-copy p{font-size:16px;}
 .home-community-intro{padding-top:48px;}
 .cinematic-hero .hero-media:after{background:linear-gradient(0deg,#09281d,transparent 20%);}
 }
