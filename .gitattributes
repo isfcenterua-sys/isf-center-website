@@ -1,0 +1,6 @@
+assets/maps/*.js text eol=lf
+assets/maps/*.json text eol=lf
+assets/maps/*.svg text eol=lf
+assets/maps/*.txt text eol=lf
+assets/cinematic-scene.js text eol=lf
+assets/journey-cinematic.js text eol=lf

@@ -1,0 +1,6529 @@
+{
+  "checks": [
+    "uk/320 no welcome photograph before arrival",
+    "uk/320 road network ready",
+    "uk/320 complete road route",
+    "uk/320 three route stops visible",
+    "uk/320 route line rendered",
+    "uk/320 no duplicate photo on map card",
+    "uk/320 no horizontal overflow on route",
+    "uk/320 stop labels inside viewport",
+    "uk/320 welcome photo only at final point",
+    "uk/320 exact original welcome file",
+    "uk/320 full uncropped original proportion",
+    "uk/320 no horizontal overflow on arrival",
+    "uk/320 no extra right photo in 3D mode",
+    "uk/320 documentary 3D retained",
+    "uk/320 photo hides when returning to globe",
+    "uk/360 no welcome photograph before arrival",
+    "uk/360 road network ready",
+    "uk/360 complete road route",
+    "uk/360 three route stops visible",
+    "uk/360 route line rendered",
+    "uk/360 no duplicate photo on map card",
+    "uk/360 no horizontal overflow on route",
+    "uk/360 stop labels inside viewport",
+    "uk/360 welcome photo only at final point",
+    "uk/360 exact original welcome file",
+    "uk/360 full uncropped original proportion",
+    "uk/360 no horizontal overflow on arrival",
+    "uk/360 no extra right photo in 3D mode",
+    "uk/360 documentary 3D retained",
+    "uk/360 photo hides when returning to globe",
+    "uk/390 no welcome photograph before arrival",
+    "uk/390 road network ready",
+    "uk/390 complete road route",
+    "uk/390 three route stops visible",
+    "uk/390 route line rendered",
+    "uk/390 no duplicate photo on map card",
+    "uk/390 no horizontal overflow on route",
+    "uk/390 stop labels inside viewport",
+    "uk/390 welcome photo only at final point",
+    "uk/390 exact original welcome file",
+    "uk/390 full uncropped original proportion",
+    "uk/390 no horizontal overflow on arrival",
+    "uk/390 no extra right photo in 3D mode",
+    "uk/390 documentary 3D retained",
+    "uk/390 photo hides when returning to globe",
+    "uk/430 no welcome photograph before arrival",
+    "uk/430 road network ready",
+    "uk/430 complete road route",
+    "uk/430 three route stops visible",
+    "uk/430 route line rendered",
+    "uk/430 no duplicate photo on map card",
+    "uk/430 no horizontal overflow on route",
+    "uk/430 stop labels inside viewport",
+    "uk/430 welcome photo only at final point",
+    "uk/430 exact original welcome file",
+    "uk/430 full uncropped original proportion",
+    "uk/430 no horizontal overflow on arrival",
+    "uk/430 no extra right photo in 3D mode",
+    "uk/430 documentary 3D retained",
+    "uk/430 photo hides when returning to globe",
+    "uk/768 no welcome photograph before arrival",
+    "uk/768 road network ready",
+    "uk/768 complete road route",
+    "uk/768 three route stops visible",
+    "uk/768 route line rendered",
+    "uk/768 no duplicate photo on map card",
+    "uk/768 no horizontal overflow on route",
+    "uk/768 stop labels inside viewport",
+    "uk/768 welcome photo only at final point",
+    "uk/768 exact original welcome file",
+    "uk/768 full uncropped original proportion",
+    "uk/768 no horizontal overflow on arrival",
+    "uk/768 no extra right photo in 3D mode",
+    "uk/768 documentary 3D retained",
+    "uk/768 photo hides when returning to globe",
+    "uk/1440 no welcome photograph before arrival",
+    "uk/1440 road network ready",
+    "uk/1440 complete road route",
+    "uk/1440 three route stops visible",
+    "uk/1440 route line rendered",
+    "uk/1440 no duplicate photo on map card",
+    "uk/1440 no horizontal overflow on route",
+    "uk/1440 stop labels inside viewport",
+    "uk/1440 welcome photo only at final point",
+    "uk/1440 exact original welcome file",
+    "uk/1440 full uncropped original proportion",
+    "uk/1440 no horizontal overflow on arrival",
+    "uk/1440 no extra right photo in 3D mode",
+    "uk/1440 documentary 3D retained",
+    "uk/1440 photo hides when returning to globe",
+    "en/320 no welcome photograph before arrival",
+    "en/320 road network ready",
+    "en/320 complete road route",
+    "en/320 three route stops visible",
+    "en/320 route line rendered",
+    "en/320 no duplicate photo on map card",
+    "en/320 no horizontal overflow on route",
+    "en/320 stop labels inside viewport",
+    "en/320 welcome photo only at final point",
+    "en/320 exact original welcome file",
+    "en/320 full uncropped original proportion",
+    "en/320 no horizontal overflow on arrival",
+    "en/320 no extra right photo in 3D mode",
+    "en/320 documentary 3D retained",
+    "en/320 photo hides when returning to globe",
+    "en/360 no welcome photograph before arrival",
+    "en/360 road network ready",
+    "en/360 complete road route",
+    "en/360 three route stops visible",
+    "en/360 route line rendered",
+    "en/360 no duplicate photo on map card",
+    "en/360 no horizontal overflow on route",
+    "en/360 stop labels inside viewport",
+    "en/360 welcome photo only at final point",
+    "en/360 exact original welcome file",
+    "en/360 full uncropped original proportion",
+    "en/360 no horizontal overflow on arrival",
+    "en/360 no extra right photo in 3D mode",
+    "en/360 documentary 3D retained",
+    "en/360 photo hides when returning to globe",
+    "en/390 no welcome photograph before arrival",
+    "en/390 road network ready",
+    "en/390 complete road route",
+    "en/390 three route stops visible",
+    "en/390 route line rendered",
+    "en/390 no duplicate photo on map card",
+    "en/390 no horizontal overflow on route",
+    "en/390 stop labels inside viewport",
+    "en/390 welcome photo only at final point",
+    "en/390 exact original welcome file",
+    "en/390 full uncropped original proportion",
+    "en/390 no horizontal overflow on arrival",
+    "en/390 no extra right photo in 3D mode",
+    "en/390 documentary 3D retained",
+    "en/390 photo hides when returning to globe",
+    "en/430 no welcome photograph before arrival",
+    "en/430 road network ready",
+    "en/430 complete road route",
+    "en/430 three route stops visible",
+    "en/430 route line rendered",
+    "en/430 no duplicate photo on map card",
+    "en/430 no horizontal overflow on route",
+    "en/430 stop labels inside viewport",
+    "en/430 welcome photo only at final point",
+    "en/430 exact original welcome file",
+    "en/430 full uncropped original proportion",
+    "en/430 no horizontal overflow on arrival",
+    "en/430 no extra right photo in 3D mode",
+    "en/430 documentary 3D retained",
+    "en/430 photo hides when returning to globe",
+    "en/768 no welcome photograph before arrival",
+    "en/768 road network ready",
+    "en/768 complete road route",
+    "en/768 three route stops visible",
+    "en/768 route line rendered",
+    "en/768 no duplicate photo on map card",
+    "en/768 no horizontal overflow on route",
+    "en/768 stop labels inside viewport",
+    "en/768 welcome photo only at final point",
+    "en/768 exact original welcome file",
+    "en/768 full uncropped original proportion",
+    "en/768 no horizontal overflow on arrival",
+    "en/768 no extra right photo in 3D mode",
+    "en/768 documentary 3D retained",
+    "en/768 photo hides when returning to globe",
+    "en/1440 no welcome photograph before arrival",
+    "en/1440 road network ready",
+    "en/1440 complete road route",
+    "en/1440 three route stops visible",
+    "en/1440 route line rendered",
+    "en/1440 no duplicate photo on map card",
+    "en/1440 no horizontal overflow on route",
+    "en/1440 stop labels inside viewport",
+    "en/1440 welcome photo only at final point",
+    "en/1440 exact original welcome file",
+    "en/1440 full uncropped original proportion",
+    "en/1440 no horizontal overflow on arrival",
+    "en/1440 no extra right photo in 3D mode",
+    "en/1440 documentary 3D retained",
+    "en/1440 photo hides when returning to globe",
+    "pause freezes route drawing",
+    "cinematic journey ends at welcome photograph",
+    "one persistent camera and scene during road phases",
+    "roads appear before route",
+    "route draws over time",
+    "welcome waits for camera arrival",
+    "route progress never reverses during drawing",
+    "photo hides immediately on new trip",
+    "selecting another stage cancels route callbacks",
+    "changing reduced motion stops active route animation",
+    "reduced motion shows static complete route",
+    "no external runtime map API requests",
+    "no JavaScript errors"
+  ],
+  "errors": [],
+  "runtimeMapRequests": [],
+  "trace": [
+    {
+      "time": 663.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 680,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 697,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 712.6999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 729.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 746.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 763.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 779.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 796.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 813,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 829.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 847.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 864.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 881.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 897.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 915,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 931.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 947.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 963.6999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 980.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 996.6999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1013.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1030.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1045.8999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1067.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1079.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1096.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1112.6999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1129,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1146.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1163.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1179.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1196.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1213.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1230.8999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1246.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1263.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1281.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1296.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1313.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1330.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1347.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1364.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1380.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1397.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1413.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1430.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1446.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1463.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1479.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1496.6999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1513,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1531.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1547.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1564,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1579.8999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1597.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1613.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1630.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1647.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1664.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1680.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1697.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1713.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1730.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1747.1999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1763.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1780.3999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1797.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1813.8999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1830.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1846.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1863.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1880,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1897.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1913.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1930.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1946.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1963.8999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1980.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 1997.8999998569489,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2014,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2031.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2046.6999998092651,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2063.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2078.899999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2096,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2113,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2129.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2146,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2163.199999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2180.199999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2196.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2213,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2230.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2246.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2265.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2280.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2297.199999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2313.399999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2330.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2347.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2363.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2379.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2397.199999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2413.399999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2430.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2446.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2463.199999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2480.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2497,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2513.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2530.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2547,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2563.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2580.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2597.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2613.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2630,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2646.899999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2663.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2680.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2697.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2713.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2730,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2747,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2763.399999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2779,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2795.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2812.2999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2828.899999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2845.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2862.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2879.0999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2895.699999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2912,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2928.899999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2946,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2962.199999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2978.7999999523163,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 2995.5,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3012.199999809265,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3028.899999856949,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3045.5999999046326,
+      "stage": "1",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3064.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3079,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3095.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3112.5999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3129.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3146.0999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3162.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3179.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3195.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3212.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3229.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3246.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3262.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3279.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3296,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3312.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3329.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3345.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3362.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3379.0999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3395.5999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3412.5999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3428.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3445.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3462.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3480.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3495.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3512.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3529.0999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3546.5999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3562.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3580.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3596.0999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3612.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3629.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3645.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3663,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3680,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3696.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3712.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3728.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3746.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3763.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3779.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3796.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3812.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3830.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3846.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3863.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3880.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3896.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3913.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3930.0999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3947.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3963.0999999046326,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3980.2999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 3996.7999999523163,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4013.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4030.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4047,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4063.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4079.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4095.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4112.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4129.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4145.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4163.099999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4179.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4197.099999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4213,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4230.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4246.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4263,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4279.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4296.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4313.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4330.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4346.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4363.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4378.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4395.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4412,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4428.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4445.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4462.599999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4479.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4496.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4513.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4530.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4546.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4563.599999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4580.099999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4596.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4613.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4630.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4646.599999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4663.599999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4681,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4697.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4713.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4730.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4748,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4763.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4781.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4797,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4813.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4830.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4846.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4864,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4880.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4896.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4913.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4930.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4946.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4963.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4980.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 4996.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5013.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5030.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5046.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5063,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5078.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5095.599999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5112.599999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5129.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5146.099999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5163.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5180,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5196.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5212.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5229.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5246,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5262.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5278.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5296.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5312.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5329.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5346.299999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5362.799999952316,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5379.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5396.199999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5415.5,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5429.699999809265,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5446.099999904633,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5462.899999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5479.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5496.399999856949,
+      "stage": "2",
+      "roads": 0,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5513.199999809265,
+      "stage": "2",
+      "roads": 0.0018,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5530.5,
+      "stage": "2",
+      "roads": 0.0076,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5546.899999856949,
+      "stage": "2",
+      "roads": 0.0167,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5563.199999809265,
+      "stage": "2",
+      "roads": 0.0289,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5579.699999809265,
+      "stage": "2",
+      "roads": 0.0444,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5596.5,
+      "stage": "2",
+      "roads": 0.0638,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5612.299999952316,
+      "stage": "2",
+      "roads": 0.0842,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5629.199999809265,
+      "stage": "2",
+      "roads": 0.108,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5646.299999952316,
+      "stage": "2",
+      "roads": 0.1347,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5664,
+      "stage": "2",
+      "roads": 0.1634,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5679.599999904633,
+      "stage": "2",
+      "roads": 0.1924,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5697.199999809265,
+      "stage": "2",
+      "roads": 0.2256,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5713.599999904633,
+      "stage": "2",
+      "roads": 0.2583,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5731.199999809265,
+      "stage": "2",
+      "roads": 0.294,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5746.799999952316,
+      "stage": "2",
+      "roads": 0.3287,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5764.299999952316,
+      "stage": "2",
+      "roads": 0.3669,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5780,
+      "stage": "2",
+      "roads": 0.4032,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5797.599999904633,
+      "stage": "2",
+      "roads": 0.4424,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5812.799999952316,
+      "stage": "2",
+      "roads": 0.4792,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5829.599999904633,
+      "stage": "2",
+      "roads": 0.5182,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5846.199999809265,
+      "stage": "2",
+      "roads": 0.5562,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5862.799999952316,
+      "stage": "2",
+      "roads": 0.5946,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5879.199999809265,
+      "stage": "2",
+      "roads": 0.6318,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5896.299999952316,
+      "stage": "2",
+      "roads": 0.6685,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5913.099999904633,
+      "stage": "2",
+      "roads": 0.7056,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5929.399999856949,
+      "stage": "2",
+      "roads": 0.7401,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5946.5,
+      "stage": "2",
+      "roads": 0.7742,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5963.699999809265,
+      "stage": "2",
+      "roads": 0.8061,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5980.199999809265,
+      "stage": "2",
+      "roads": 0.8364,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 5997.199999809265,
+      "stage": "2",
+      "roads": 0.8647,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6013.299999952316,
+      "stage": "2",
+      "roads": 0.8902,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6029.799999952316,
+      "stage": "2",
+      "roads": 0.9141,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6046,
+      "stage": "2",
+      "roads": 0.9354,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6062.399999856949,
+      "stage": "2",
+      "roads": 0.9543,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6079.599999904633,
+      "stage": "2",
+      "roads": 0.9705,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6096.399999856949,
+      "stage": "2",
+      "roads": 0.9831,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6112.799999952316,
+      "stage": "2",
+      "roads": 0.9922,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6129.799999952316,
+      "stage": "2",
+      "roads": 0.9981,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6145.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6162.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6179.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6196.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6213.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6230.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6246.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6263.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6279.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6296.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6313.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6329.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6346,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6363.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6379.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6395.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6412.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6430,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6445.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6462.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6482.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6496.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6513.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6529.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6546.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6562.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6579.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6596,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6612.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6629.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6645.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6662.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6679.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6696.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6713,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6730.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6747.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6763.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6780.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6797.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6813.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6830.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6847.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6863.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6880.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6897.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6913.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6930.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6947.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6964.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6980.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 6996.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7013.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7030.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7047,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7063.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7080.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7096.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7112.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7129.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7146.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7162.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7181.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7196.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7213.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7229.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7246.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7263,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7280.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7296.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7313.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7329.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7346.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7362.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7379.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7396.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7412.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7429.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7446.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7462.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7479.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7496.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7513.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7529.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7545.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7563,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7578.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7596.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7612.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7629.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7645.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7662.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7680.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7696.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7713.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7730.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7746.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7762.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7780,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7796.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7812.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7829.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7845.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7863.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7879.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7896.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7913.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7930.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7946.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7963.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7979.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 7995.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8013.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8029.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8045.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8062.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8079.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8095.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8112.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0003,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8129.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.001,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8145.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0023,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8162.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.004,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8178.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0062,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8195.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0089,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8212.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0121,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8229.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0158,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8246.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0197,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8262.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0242,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8280.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0292,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8296.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0344,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8313.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0402,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8329.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0461,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8345.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0526,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8362.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0594,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8379.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0667,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8396.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0743,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8413,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0822,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8429.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.0905,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8446.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.099,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8462.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.1076,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8481.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.117,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8497.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.1264,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8513.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.1363,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8529.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.146,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8780.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.146,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8796.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.1559,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8815.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.1665,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8829.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.1777,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8846.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.1887,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8862.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8879.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2112,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8896.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2231,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8913,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2349,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8929.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2466,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8945.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2589,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8963,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2717,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8979.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.2844,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 8996.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.297,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9013,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.31,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9030.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.3225,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9046.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.3358,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9063.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.3494,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9079.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.3628,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9096,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.376,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9112.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.3897,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9129.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.4032,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9145.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.4167,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9162.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.4308,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9179.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.4447,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9195.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.458,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9213.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.4721,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9229.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.4862,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9245.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.4996,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9263,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.5139,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9279.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.5279,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9296.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.5417,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9313.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.5555,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9330.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.5693,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9346.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.5826,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9362.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.5962,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9379.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.6104,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9395.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.6236,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9412.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.637,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9429.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.6503,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9445.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.6636,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9462.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.6771,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9479.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.6902,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9496.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7031,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9513.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7158,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9529.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7279,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9546.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7405,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9562.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7529,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9579.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7649,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9596.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7769,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9612.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.7886,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9629.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8002,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9646.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8113,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9663.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8225,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9679.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8333,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9696.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8438,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9713.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8541,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9729.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8642,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9746.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8735,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9762.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.883,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9779.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.8921,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9795.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.901,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9813,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9097,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9829.599999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9179,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9845.899999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9257,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9862.299999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9332,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9879.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9405,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9896.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9475,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9912.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9538,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9930.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9601,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9946.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9656,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9963.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.971,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9980.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9759,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 9996.5,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9803,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10012.699999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9842,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10030,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.988,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10046.799999952316,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9911,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10063.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9938,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10080.099999904633,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.996,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10096.399999856949,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9977,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10113.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.999,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10130,
+      "stage": "2",
+      "roads": 1,
+      "route": 0.9997,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10146.199999809265,
+      "stage": "2",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10165.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10180.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10196.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10213.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10230.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10247.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10264.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10279.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10296.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10313.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10329.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10348.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10363.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10381.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10398.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10414.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10430.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10447.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10463.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10481,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10496.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10513.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10529.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10547.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10565.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10579.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10595.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10613,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10629.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10647.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10663.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10680.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10696.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10713.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10729.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10746.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10763.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10779.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10796.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10813.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10829.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10846.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10863.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10879.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10896.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10913.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10930.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10946.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10963.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10979.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 10996.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11013,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11030.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11046.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11063.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11080,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11096.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11113.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11130.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11146.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11162.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11179.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11196.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11213.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11229.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11246.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11263.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11279.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11296.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11312.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11329.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11346.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11363,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11379.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11396.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11412.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11429.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11446.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11462.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11479.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11496.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11512.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11529.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11546.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11563.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11580,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11596.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11613.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11630,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11646.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11663.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11679.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11696.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11713.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11730.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11747.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11762.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11780.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11796.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11813.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11829.599999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11846.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11863.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11879.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11896.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11912.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11929.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11946.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11963.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11979.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 11996,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12013,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12029.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12045.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12062.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12079.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12096.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12113.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12130.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12148.799999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12164.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12180.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12197.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12213.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12231.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12247.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12263.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12280.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12297.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12314.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12330.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12346.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12363.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12380.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12396,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12413.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12430.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12446.899999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12463.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12479.5,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12496.199999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12513,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12530.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12546.699999809265,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12563.299999952316,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12581.099999904633,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "false",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    },
+    {
+      "time": 12597.399999856949,
+      "stage": "3",
+      "roads": 1,
+      "route": 1,
+      "arrival": "true",
+      "scene": "9513a763-4108-47af-bf07-8cf6bf530329",
+      "camera": "d48f42d2-a2ec-4109-9584-47223c6e9e6a"
+    }
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,28 @@
+.journey-route-overlay{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:hidden;z-index:1}
+.journey-route-overlay .route-shadow{fill:none;stroke:#173d2dde;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+.journey-route-overlay .route-line{fill:none;stroke:#f1cd7b;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.journey-route-overlay .route-connector{fill:none;stroke:#f1cd7b;stroke-width:2;stroke-dasharray:2 3}
+.journey-route-stop{position:absolute;pointer-events:none;z-index:1;font-size:12px;line-height:1.45;padding:5px 9px;border:1px solid #b7aa87;border-radius:5px;background:#f7f3e9;color:#183d2d;box-shadow:0 3px 12px #102b2222;white-space:nowrap}
+.journey-marker-label{z-index:2;font-weight:600;border:1px solid #c4ad70}
+.journey-story{position:relative;min-height:455px}
+.journey-route-intro{padding-top:16px}
+.journey-route-intro .journey-route-heading{font:500 27px/1.4 var(--serif);color:#fff8e9;margin-bottom:32px}
+.journey-route-intro ol{list-style:none;padding:0;margin:0 0 32px;border-left:1px solid #bfb08980;counter-reset:journey-stop}
+.journey-route-intro li{position:relative;display:flex;align-items:center;gap:15px;padding:15px 0 15px 18px;font-size:16px;counter-increment:journey-stop}
+.journey-route-intro li:before{content:'0' counter(journey-stop);font-size:10px;color:#d4c394;letter-spacing:.08em}
+.journey-arrival-content{display:none}
+.journey-place[data-arrival=true] .journey-route-intro{display:none}
+.journey-place[data-arrival=true] .journey-arrival-content{display:block;animation:journey-welcome .55s ease both}
+.journey-place .journey-arrival-content figure{max-width:360px;margin-bottom:24px}
+.journey-place .journey-arrival-content figure img{aspect-ratio:1600/1068;max-height:none;object-fit:contain;border-radius:6px;background:#eee7d8}
+.journey-arrival-content [data-place-title]{min-height:0;font-size:27px;margin-bottom:14px}
+.journey-arrival-content [data-place-caption]{font-size:16px;line-height:1.75;color:#eee7d8}
+@keyframes journey-welcome{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media(max-width:800px){.journey-panel .journey-place{display:flex}.journey-story{min-height:455px}.journey-arrival-content{max-width:520px}.journey-route-intro{max-width:440px}}
+@media(max-width:700px){.journey-route-stop{font-size:11px;padding:5px 7px}.journey-route-intro .journey-route-heading{font-size:25px}.journey-story{min-height:455px}}
+@media(prefers-reduced-motion:reduce){.journey-place[data-arrival=true] .journey-arrival-content{animation:none}}
+
+.journey-place[data-scene=true] .journey-route-intro,.journey-place[data-scene=true] figure{display:none}
+.journey-place[data-scene=true] .journey-arrival-content{display:block}
+
+.journey-map-credit{font:11px/1.5 var(--sans);color:#d3d9cb;padding:0 24px 8px;margin:0}.journey-map-credit a{color:inherit;text-underline-offset:3px}

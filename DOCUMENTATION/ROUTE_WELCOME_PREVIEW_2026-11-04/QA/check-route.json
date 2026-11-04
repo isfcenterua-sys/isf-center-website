@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "route": "Mukachevo → Serednie → Kybliary",
+  "roadWays": 1771,
+  "roadPoints": 4144,
+  "routePoints": 538,
+  "distanceMeters": 31554,
+  "connectorMeters": 25.1547382,
+  "photo": "Original bytes preserved; displayed only at arrival",
+  "sha256": "9b55db46a57f293227c18253f16acba082ce0231726f83700ddbb1af7c413852"
+}

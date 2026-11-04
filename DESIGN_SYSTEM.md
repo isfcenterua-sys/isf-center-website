@@ -49,3 +49,18 @@ The local `draft/editorial-map-2026-11-04` branch explores an editorial director
 `assets/journey-map.js` manages a finite, user-triggered orthographic globe journey. Its local `d3-geo` engine and geometry load on demand. Coordinates come only from `content/location.json`; provenance, licenses and hashes are in `content/map-prototype-sources.json` and `assets/maps/NOTICE.txt`. No street/terrain dataset or third-party runtime map service is added. Reduced motion uses static steps; pause, offscreen stopping and load-error/no-JS alternatives are included. Run `node scripts/check-map-prototype.mjs` in addition to the established checks.
 
 The owner approved publication on 4 November 2026 with “публикуй”. The draft review remains as a historical record of the approval stage. Review materials are in `DOCUMENTATION/EDITORIAL_DRAFT_2026-11-04/REVIEW.html` and `REPORT.md`.
+
+
+## Cinematic photo scene — local preview only
+
+The `draft/cinematic-photo-scene-2026-11-04` branch adds one persistent WebGL scene/camera using a local selected Three.js bundle. Geographic data and the approved location are unchanged. The final view is explicitly a documentary exhibition of three original photographs, not a reconstruction of buildings or a site plan; the owner selected this concept. All frame positions and the display plinth use dimensionless exhibition units.
+
+`journey-cinematic.js` initializes on demand; `cinematic-scene.js` owns smootherstep spherical camera movement, quaternion interpolation, interruption from the actual current pose, auto-framing, finite manual damping, pointer/pinch/wheel and keyboard control. No auto-reset follows manual input. Reduced motion uses static views; weak profiles reduce pixel ratio/duration. The old published Canvas module remains in history/assets but is not the active homepage controller on this branch.
+
+Run `node scripts/check-cinematic-scene.mjs` alongside existing checks. Review the recording and report in `DOCUMENTATION/CINEMATIC_SCENE_PREVIEW_2026-11-04`. Do not push this branch or deploy until the owner separately approves this new scene. Production remains at 0136bc0.
+
+## Roads and a welcome at the end — local preview only
+
+The cinematic draft includes a static OSM/Overpass road snapshot and a complete OSRM Mukachevo → Serednie → Kybliary route (538 coordinates, 31,554 m). Attribution is visible below the map. Provenance and original responses are in `content/route-provenance.json` and `DOCUMENTATION/ROUTE_WELCOME_PREVIEW_2026-11-04`. The final 25m dashed connector is explicitly not a verified road.
+
+Automatic play ends at Kybliary, with the unmodified `welcome-gate-1600.webp` photograph. Per the owner's latest instruction, no separate photographs appear in the side panel at other stages or during 3D object selection. The fifth, optional stage retains the documentary 3D photo exhibition. Roads fade in, the camera approaches the corridor, the route draws, then the camera settles before the welcome card appears. Reduced-motion cancels active phases and renders statically. Run `node scripts/check-route.mjs` too. **No push or deployment without new approval.**

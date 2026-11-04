@@ -1,0 +1,7030 @@
+{
+  "url": "https://router.project-osrm.org/route/v1/driving/22.7185408,48.4421119;22.5043823,48.5413858;22.5548433,48.606734?geometries=geojson&overview=full&steps=true&generate_hints=false",
+  "requested": [
+    [
+      22.7185408,
+      48.4421119
+    ],
+    [
+      22.5043823,
+      48.5413858
+    ],
+    [
+      22.5548433,
+      48.606734
+    ]
+  ],
+  "response": {
+    "code": "Ok",
+    "routes": [
+      {
+        "legs": [
+          {
+            "steps": [
+              {
+                "intersections": [
+                  {
+                    "out": 0,
+                    "entry": [
+                      true
+                    ],
+                    "bearings": [
+                      270
+                    ],
+                    "location": [
+                      22.718525,
+                      48.442337
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.718525,
+                      48.442337
+                    ],
+                    [
+                      22.71845,
+                      48.442337
+                    ],
+                    [
+                      22.7184,
+                      48.442342
+                    ],
+                    [
+                      22.71836,
+                      48.442353
+                    ],
+                    [
+                      22.718321,
+                      48.442372
+                    ],
+                    [
+                      22.718277,
+                      48.442406
+                    ],
+                    [
+                      22.718255,
+                      48.442431
+                    ],
+                    [
+                      22.718169,
+                      48.442548
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 270,
+                  "bearing_before": 0,
+                  "location": [
+                    22.718525,
+                    48.442337
+                  ],
+                  "modifier": "left",
+                  "type": "depart"
+                },
+                "name": "",
+                "mode": "driving",
+                "weight": 18.7,
+                "duration": 9.5,
+                "distance": 38.8
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      135,
+                      150,
+                      315
+                    ],
+                    "location": [
+                      22.718169,
+                      48.442548
+                    ]
+                  },
+                  {
+                    "lanes": [
+                      {
+                        "valid": false,
+                        "indications": [
+                          "left"
+                        ]
+                      },
+                      {
+                        "valid": true,
+                        "indications": [
+                          "straight"
+                        ]
+                      }
+                    ],
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      135,
+                      255,
+                      315
+                    ],
+                    "location": [
+                      22.718113,
+                      48.442581
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      135,
+                      330
+                    ],
+                    "location": [
+                      22.716941,
+                      48.443528
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.718169,
+                      48.442548
+                    ],
+                    [
+                      22.718113,
+                      48.442581
+                    ],
+                    [
+                      22.71798,
+                      48.442687
+                    ],
+                    [
+                      22.717798,
+                      48.442832
+                    ],
+                    [
+                      22.717198,
+                      48.443325
+                    ],
+                    [
+                      22.716981,
+                      48.443493
+                    ],
+                    [
+                      22.716941,
+                      48.443528
+                    ],
+                    [
+                      22.716853,
+                      48.44361
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 310,
+                  "bearing_before": 333,
+                  "location": [
+                    22.718169,
+                    48.442548
+                  ],
+                  "modifier": "slight left",
+                  "type": "turn"
+                },
+                "name": "Мостова вулиця",
+                "mode": "driving",
+                "weight": 14,
+                "duration": 14,
+                "distance": 153.2
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 1,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      150,
+                      330
+                    ],
+                    "location": [
+                      22.716853,
+                      48.44361
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.716853,
+                      48.44361
+                    ],
+                    [
+                      22.715901,
+                      48.444436
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 322,
+                  "bearing_before": 323,
+                  "location": [
+                    22.716853,
+                    48.44361
+                  ],
+                  "modifier": "straight",
+                  "type": "new name"
+                },
+                "name": "Центральний міст",
+                "mode": "driving",
+                "weight": 10.4,
+                "duration": 10.4,
+                "distance": 115.8
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 1,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      150,
+                      315
+                    ],
+                    "location": [
+                      22.715901,
+                      48.444436
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      45,
+                      135,
+                      315
+                    ],
+                    "location": [
+                      22.715442,
+                      48.444806
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      45,
+                      135,
+                      345
+                    ],
+                    "location": [
+                      22.714061,
+                      48.445933
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.715901,
+                      48.444436
+                    ],
+                    [
+                      22.715788,
+                      48.444529
+                    ],
+                    [
+                      22.715442,
+                      48.444806
+                    ],
+                    [
+                      22.714883,
+                      48.445252
+                    ],
+                    [
+                      22.714409,
+                      48.445634
+                    ],
+                    [
+                      22.714061,
+                      48.445933
+                    ],
+                    [
+                      22.714062,
+                      48.44601
+                    ],
+                    [
+                      22.714054,
+                      48.446076
+                    ],
+                    [
+                      22.714017,
+                      48.446135
+                    ],
+                    [
+                      22.713471,
+                      48.446579
+                    ],
+                    [
+                      22.713168,
+                      48.446836
+                    ],
+                    [
+                      22.713118,
+                      48.446874
+                    ],
+                    [
+                      22.713047,
+                      48.446912
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 320,
+                  "bearing_before": 322,
+                  "location": [
+                    22.715901,
+                    48.444436
+                  ],
+                  "modifier": "straight",
+                  "type": "new name"
+                },
+                "name": "Ужгородська вулиця",
+                "mode": "driving",
+                "weight": 34.7,
+                "duration": 34.7,
+                "distance": 350.6
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      135,
+                      180,
+                      345
+                    ],
+                    "location": [
+                      22.713047,
+                      48.446912
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      120,
+                      270,
+                      330
+                    ],
+                    "location": [
+                      22.712936,
+                      48.446998
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      45,
+                      195,
+                      330
+                    ],
+                    "location": [
+                      22.712747,
+                      48.446953
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.713047,
+                      48.446912
+                    ],
+                    [
+                      22.713037,
+                      48.446936
+                    ],
+                    [
+                      22.713013,
+                      48.446963
+                    ],
+                    [
+                      22.712978,
+                      48.446984
+                    ],
+                    [
+                      22.712936,
+                      48.446998
+                    ],
+                    [
+                      22.712885,
+                      48.447003
+                    ],
+                    [
+                      22.712835,
+                      48.446997
+                    ],
+                    [
+                      22.712789,
+                      48.446981
+                    ],
+                    [
+                      22.712747,
+                      48.446953
+                    ],
+                    [
+                      22.712731,
+                      48.446926
+                    ],
+                    [
+                      22.712724,
+                      48.446898
+                    ],
+                    [
+                      22.712729,
+                      48.446869
+                    ],
+                    [
+                      22.712745,
+                      48.446842
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "exit": 2,
+                  "bearing_after": 341,
+                  "bearing_before": 319,
+                  "location": [
+                    22.713047,
+                    48.446912
+                  ],
+                  "modifier": "slight right",
+                  "type": "roundabout"
+                },
+                "name": "Ужгородська вулиця",
+                "mode": "driving",
+                "weight": 8.1,
+                "duration": 8.1,
+                "distance": 41.9
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 1,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      150,
+                      270,
+                      330
+                    ],
+                    "location": [
+                      22.712745,
+                      48.446842
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      90,
+                      165,
+                      270
+                    ],
+                    "location": [
+                      22.707544,
+                      48.446634
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      90,
+                      270,
+                      345
+                    ],
+                    "location": [
+                      22.707383,
+                      48.446628
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      90,
+                      270
+                    ],
+                    "location": [
+                      22.706812,
+                      48.446608
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.701222,
+                      48.447492
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      210,
+                      285
+                    ],
+                    "location": [
+                      22.70035,
+                      48.447698
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.697121,
+                      48.448455
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      285,
+                      345
+                    ],
+                    "location": [
+                      22.694195,
+                      48.449148
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.69327,
+                      48.449368
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      285,
+                      315
+                    ],
+                    "location": [
+                      22.687127,
+                      48.450829
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      165,
+                      225,
+                      345
+                    ],
+                    "location": [
+                      22.686783,
+                      48.451311
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.712745,
+                      48.446842
+                    ],
+                    [
+                      22.712571,
+                      48.446833
+                    ],
+                    [
+                      22.712539,
+                      48.446828
+                    ],
+                    [
+                      22.710158,
+                      48.44673
+                    ],
+                    [
+                      22.707544,
+                      48.446634
+                    ],
+                    [
+                      22.707383,
+                      48.446628
+                    ],
+                    [
+                      22.706971,
+                      48.446612
+                    ],
+                    [
+                      22.706812,
+                      48.446608
+                    ],
+                    [
+                      22.706434,
+                      48.446598
+                    ],
+                    [
+                      22.706109,
+                      48.446602
+                    ],
+                    [
+                      22.705838,
+                      48.446611
+                    ],
+                    [
+                      22.705616,
+                      48.446625
+                    ],
+                    [
+                      22.705292,
+                      48.44665
+                    ],
+                    [
+                      22.704907,
+                      48.446693
+                    ],
+                    [
+                      22.70466,
+                      48.446724
+                    ],
+                    [
+                      22.704419,
+                      48.44676
+                    ],
+                    [
+                      22.704087,
+                      48.446817
+                    ],
+                    [
+                      22.703746,
+                      48.446885
+                    ],
+                    [
+                      22.702139,
+                      48.447269
+                    ],
+                    [
+                      22.701222,
+                      48.447492
+                    ],
+                    [
+                      22.700462,
+                      48.447671
+                    ],
+                    [
+                      22.70035,
+                      48.447698
+                    ],
+                    [
+                      22.697164,
+                      48.448445
+                    ],
+                    [
+                      22.697121,
+                      48.448455
+                    ],
+                    [
+                      22.696961,
+                      48.448494
+                    ],
+                    [
+                      22.694265,
+                      48.449132
+                    ],
+                    [
+                      22.694195,
+                      48.449148
+                    ],
+                    [
+                      22.693548,
+                      48.449303
+                    ],
+                    [
+                      22.69327,
+                      48.449368
+                    ],
+                    [
+                      22.69199,
+                      48.449682
+                    ],
+                    [
+                      22.690588,
+                      48.450015
+                    ],
+                    [
+                      22.690238,
+                      48.450099
+                    ],
+                    [
+                      22.689782,
+                      48.450208
+                    ],
+                    [
+                      22.689477,
+                      48.450281
+                    ],
+                    [
+                      22.688522,
+                      48.4505
+                    ],
+                    [
+                      22.688452,
+                      48.450516
+                    ],
+                    [
+                      22.688184,
+                      48.450577
+                    ],
+                    [
+                      22.687592,
+                      48.450718
+                    ],
+                    [
+                      22.687127,
+                      48.450829
+                    ],
+                    [
+                      22.686985,
+                      48.450942
+                    ],
+                    [
+                      22.686918,
+                      48.451026
+                    ],
+                    [
+                      22.686849,
+                      48.451172
+                    ],
+                    [
+                      22.686783,
+                      48.451311
+                    ],
+                    [
+                      22.686708,
+                      48.451529
+                    ],
+                    [
+                      22.686698,
+                      48.451558
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "exit": 2,
+                  "bearing_after": 265,
+                  "bearing_before": 156,
+                  "location": [
+                    22.712745,
+                    48.446842
+                  ],
+                  "modifier": "right",
+                  "type": "exit roundabout"
+                },
+                "name": "Ужгородська вулиця",
+                "mode": "driving",
+                "weight": 190.7,
+                "duration": 190.7,
+                "distance": 2064.2
+              },
+              {
+                "intersections": [
+                  {
+                    "lanes": [
+                      {
+                        "valid": false,
+                        "indications": [
+                          "uturn"
+                        ]
+                      },
+                      {
+                        "valid": true,
+                        "indications": [
+                          "left"
+                        ]
+                      },
+                      {
+                        "valid": false,
+                        "indications": [
+                          "straight"
+                        ]
+                      },
+                      {
+                        "valid": false,
+                        "indications": [
+                          "right"
+                        ]
+                      }
+                    ],
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      75,
+                      165,
+                      270,
+                      345
+                    ],
+                    "location": [
+                      22.686698,
+                      48.451558
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 262,
+                  "bearing_before": 345,
+                  "location": [
+                    22.686698,
+                    48.451558
+                  ],
+                  "modifier": "left",
+                  "type": "turn"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.686698,
+                      48.451558
+                    ],
+                    [
+                      22.686478,
+                      48.451536
+                    ],
+                    [
+                      22.686207,
+                      48.451511
+                    ],
+                    [
+                      22.685932,
+                      48.451493
+                    ],
+                    [
+                      22.685791,
+                      48.451486
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "М-06",
+                "name": "Європейська вулиця",
+                "mode": "driving",
+                "weight": 6,
+                "duration": 6,
+                "distance": 67.6
+              },
+              {
+                "intersections": [
+                  {
+                    "lanes": [
+                      {
+                        "valid": false,
+                        "indications": [
+                          "left"
+                        ]
+                      },
+                      {
+                        "valid": true,
+                        "indications": [
+                          "straight"
+                        ]
+                      }
+                    ],
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      90,
+                      225,
+                      270
+                    ],
+                    "location": [
+                      22.685791,
+                      48.451486
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      90,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.684372,
+                      48.451533
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      195,
+                      285
+                    ],
+                    "location": [
+                      22.683877,
+                      48.451629
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.683562,
+                      48.451691
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.677321,
+                      48.453172
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.671299,
+                      48.45457
+                    ]
+                  },
+                  {
+                    "out": 3,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      105,
+                      210,
+                      285
+                    ],
+                    "location": [
+                      22.648696,
+                      48.459904
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      195,
+                      285
+                    ],
+                    "location": [
+                      22.638989,
+                      48.462193
+                    ]
+                  },
+                  {
+                    "out": 3,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      210,
+                      285
+                    ],
+                    "location": [
+                      22.616933,
+                      48.467599
+                    ]
+                  },
+                  {
+                    "out": 3,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      210,
+                      285
+                    ],
+                    "location": [
+                      22.614624,
+                      48.468173
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      225,
+                      285
+                    ],
+                    "location": [
+                      22.610515,
+                      48.469205
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      210,
+                      285
+                    ],
+                    "location": [
+                      22.598706,
+                      48.47182
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.591606,
+                      48.473508
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      225,
+                      285
+                    ],
+                    "location": [
+                      22.589103,
+                      48.47411
+                    ]
+                  },
+                  {
+                    "out": 3,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      105,
+                      195,
+                      285
+                    ],
+                    "location": [
+                      22.58303,
+                      48.475544
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      210,
+                      285
+                    ],
+                    "location": [
+                      22.576349,
+                      48.477122
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      195,
+                      285
+                    ],
+                    "location": [
+                      22.573128,
+                      48.47788
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      120,
+                      210,
+                      285
+                    ],
+                    "location": [
+                      22.562336,
+                      48.480531
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.560602,
+                      48.480938
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      285
+                    ],
+                    "location": [
+                      22.548203,
+                      48.483853
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      195,
+                      285
+                    ],
+                    "location": [
+                      22.540396,
+                      48.485645
+                    ]
+                  },
+                  {
+                    "lanes": [
+                      {
+                        "valid": false,
+                        "indications": [
+                          "left"
+                        ]
+                      },
+                      {
+                        "valid": true,
+                        "indications": [
+                          "straight"
+                        ]
+                      }
+                    ],
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      105,
+                      195,
+                      285
+                    ],
+                    "location": [
+                      22.537501,
+                      48.4862
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      135,
+                      240,
+                      315
+                    ],
+                    "location": [
+                      22.529353,
+                      48.488985
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      135,
+                      315
+                    ],
+                    "location": [
+                      22.524653,
+                      48.491947
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      135,
+                      255,
+                      315
+                    ],
+                    "location": [
+                      22.52364,
+                      48.492702
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      135,
+                      210,
+                      315
+                    ],
+                    "location": [
+                      22.52301,
+                      48.49319
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      150,
+                      255,
+                      330
+                    ],
+                    "location": [
+                      22.521758,
+                      48.494272
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      75,
+                      165,
+                      345
+                    ],
+                    "location": [
+                      22.520068,
+                      48.503329
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      45,
+                      135,
+                      315
+                    ],
+                    "location": [
+                      22.518171,
+                      48.506289
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      90,
+                      135,
+                      315
+                    ],
+                    "location": [
+                      22.516997,
+                      48.50698
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      0,
+                      75,
+                      165
+                    ],
+                    "location": [
+                      22.512719,
+                      48.511981
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      75,
+                      165,
+                      345
+                    ],
+                    "location": [
+                      22.510155,
+                      48.519911
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 270,
+                  "bearing_before": 262,
+                  "location": [
+                    22.685791,
+                    48.451486
+                  ],
+                  "modifier": "slight right",
+                  "type": "fork"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.685791,
+                      48.451486
+                    ],
+                    [
+                      22.685306,
+                      48.451487
+                    ],
+                    [
+                      22.685013,
+                      48.451492
+                    ],
+                    [
+                      22.684698,
+                      48.451504
+                    ],
+                    [
+                      22.684372,
+                      48.451533
+                    ],
+                    [
+                      22.683877,
+                      48.451629
+                    ],
+                    [
+                      22.683725,
+                      48.451659
+                    ],
+                    [
+                      22.683562,
+                      48.451691
+                    ],
+                    [
+                      22.682896,
+                      48.451853
+                    ],
+                    [
+                      22.681697,
+                      48.452144
+                    ],
+                    [
+                      22.677321,
+                      48.453172
+                    ],
+                    [
+                      22.671299,
+                      48.45457
+                    ],
+                    [
+                      22.648938,
+                      48.459847
+                    ],
+                    [
+                      22.648901,
+                      48.459856
+                    ],
+                    [
+                      22.648696,
+                      48.459904
+                    ],
+                    [
+                      22.648417,
+                      48.45997
+                    ],
+                    [
+                      22.639437,
+                      48.462086
+                    ],
+                    [
+                      22.638989,
+                      48.462193
+                    ],
+                    [
+                      22.63166,
+                      48.463912
+                    ],
+                    [
+                      22.62857,
+                      48.464645
+                    ],
+                    [
+                      22.623281,
+                      48.465986
+                    ],
+                    [
+                      22.619632,
+                      48.466913
+                    ],
+                    [
+                      22.616933,
+                      48.467599
+                    ],
+                    [
+                      22.614624,
+                      48.468173
+                    ],
+                    [
+                      22.614343,
+                      48.468247
+                    ],
+                    [
+                      22.611563,
+                      48.468959
+                    ],
+                    [
+                      22.611231,
+                      48.469044
+                    ],
+                    [
+                      22.610515,
+                      48.469205
+                    ],
+                    [
+                      22.610359,
+                      48.469242
+                    ],
+                    [
+                      22.60039,
+                      48.471436
+                    ],
+                    [
+                      22.599628,
+                      48.471603
+                    ],
+                    [
+                      22.59921,
+                      48.471701
+                    ],
+                    [
+                      22.59918,
+                      48.471708
+                    ],
+                    [
+                      22.599147,
+                      48.471716
+                    ],
+                    [
+                      22.598777,
+                      48.471804
+                    ],
+                    [
+                      22.598706,
+                      48.47182
+                    ],
+                    [
+                      22.597779,
+                      48.472041
+                    ],
+                    [
+                      22.593391,
+                      48.473089
+                    ],
+                    [
+                      22.591606,
+                      48.473508
+                    ],
+                    [
+                      22.589103,
+                      48.47411
+                    ],
+                    [
+                      22.588965,
+                      48.474144
+                    ],
+                    [
+                      22.584793,
+                      48.475131
+                    ],
+                    [
+                      22.583328,
+                      48.475477
+                    ],
+                    [
+                      22.583306,
+                      48.475482
+                    ],
+                    [
+                      22.583287,
+                      48.475486
+                    ],
+                    [
+                      22.58303,
+                      48.475544
+                    ],
+                    [
+                      22.581973,
+                      48.475798
+                    ],
+                    [
+                      22.576349,
+                      48.477122
+                    ],
+                    [
+                      22.574487,
+                      48.47756
+                    ],
+                    [
+                      22.573128,
+                      48.47788
+                    ],
+                    [
+                      22.571824,
+                      48.478185
+                    ],
+                    [
+                      22.568772,
+                      48.478897
+                    ],
+                    [
+                      22.563676,
+                      48.480091
+                    ],
+                    [
+                      22.563433,
+                      48.480148
+                    ],
+                    [
+                      22.562553,
+                      48.480465
+                    ],
+                    [
+                      22.562336,
+                      48.480531
+                    ],
+                    [
+                      22.560602,
+                      48.480938
+                    ],
+                    [
+                      22.548203,
+                      48.483853
+                    ],
+                    [
+                      22.547782,
+                      48.483952
+                    ],
+                    [
+                      22.546586,
+                      48.484226
+                    ],
+                    [
+                      22.543951,
+                      48.484829
+                    ],
+                    [
+                      22.540787,
+                      48.485568
+                    ],
+                    [
+                      22.540396,
+                      48.485645
+                    ],
+                    [
+                      22.539857,
+                      48.48573
+                    ],
+                    [
+                      22.539442,
+                      48.485764
+                    ],
+                    [
+                      22.537501,
+                      48.4862
+                    ],
+                    [
+                      22.533025,
+                      48.487218
+                    ],
+                    [
+                      22.532284,
+                      48.487439
+                    ],
+                    [
+                      22.531588,
+                      48.487766
+                    ],
+                    [
+                      22.530784,
+                      48.488205
+                    ],
+                    [
+                      22.529499,
+                      48.488906
+                    ],
+                    [
+                      22.529353,
+                      48.488985
+                    ],
+                    [
+                      22.52831,
+                      48.489571
+                    ],
+                    [
+                      22.526465,
+                      48.490708
+                    ],
+                    [
+                      22.525825,
+                      48.491124
+                    ],
+                    [
+                      22.525116,
+                      48.491612
+                    ],
+                    [
+                      22.524653,
+                      48.491947
+                    ],
+                    [
+                      22.52364,
+                      48.492702
+                    ],
+                    [
+                      22.523224,
+                      48.493027
+                    ],
+                    [
+                      22.52301,
+                      48.49319
+                    ],
+                    [
+                      22.522814,
+                      48.493345
+                    ],
+                    [
+                      22.522577,
+                      48.493534
+                    ],
+                    [
+                      22.522113,
+                      48.493913
+                    ],
+                    [
+                      22.521849,
+                      48.494177
+                    ],
+                    [
+                      22.521758,
+                      48.494272
+                    ],
+                    [
+                      22.521552,
+                      48.494572
+                    ],
+                    [
+                      22.521397,
+                      48.494854
+                    ],
+                    [
+                      22.521275,
+                      48.49521
+                    ],
+                    [
+                      22.521152,
+                      48.495921
+                    ],
+                    [
+                      22.521012,
+                      48.497011
+                    ],
+                    [
+                      22.520797,
+                      48.49897
+                    ],
+                    [
+                      22.52038,
+                      48.502504
+                    ],
+                    [
+                      22.520298,
+                      48.502808
+                    ],
+                    [
+                      22.520068,
+                      48.503329
+                    ],
+                    [
+                      22.519927,
+                      48.50358
+                    ],
+                    [
+                      22.519535,
+                      48.504288
+                    ],
+                    [
+                      22.518854,
+                      48.505489
+                    ],
+                    [
+                      22.518663,
+                      48.505764
+                    ],
+                    [
+                      22.518591,
+                      48.505844
+                    ],
+                    [
+                      22.518513,
+                      48.505929
+                    ],
+                    [
+                      22.518425,
+                      48.506081
+                    ],
+                    [
+                      22.518288,
+                      48.506204
+                    ],
+                    [
+                      22.518171,
+                      48.506289
+                    ],
+                    [
+                      22.518065,
+                      48.506365
+                    ],
+                    [
+                      22.517894,
+                      48.506475
+                    ],
+                    [
+                      22.517419,
+                      48.506739
+                    ],
+                    [
+                      22.516997,
+                      48.50698
+                    ],
+                    [
+                      22.516496,
+                      48.507279
+                    ],
+                    [
+                      22.515726,
+                      48.507798
+                    ],
+                    [
+                      22.515117,
+                      48.508249
+                    ],
+                    [
+                      22.514621,
+                      48.508655
+                    ],
+                    [
+                      22.514244,
+                      48.509021
+                    ],
+                    [
+                      22.513942,
+                      48.509371
+                    ],
+                    [
+                      22.513659,
+                      48.50974
+                    ],
+                    [
+                      22.51339,
+                      48.510154
+                    ],
+                    [
+                      22.513196,
+                      48.510503
+                    ],
+                    [
+                      22.513049,
+                      48.510842
+                    ],
+                    [
+                      22.512907,
+                      48.511201
+                    ],
+                    [
+                      22.512789,
+                      48.511645
+                    ],
+                    [
+                      22.512719,
+                      48.511981
+                    ],
+                    [
+                      22.512467,
+                      48.51351
+                    ],
+                    [
+                      22.512349,
+                      48.514012
+                    ],
+                    [
+                      22.512204,
+                      48.514547
+                    ],
+                    [
+                      22.512105,
+                      48.514844
+                    ],
+                    [
+                      22.511728,
+                      48.515821
+                    ],
+                    [
+                      22.511319,
+                      48.516877
+                    ],
+                    [
+                      22.510858,
+                      48.518047
+                    ],
+                    [
+                      22.51049,
+                      48.519014
+                    ],
+                    [
+                      22.510248,
+                      48.51964
+                    ],
+                    [
+                      22.510155,
+                      48.519911
+                    ],
+                    [
+                      22.50972,
+                      48.521006
+                    ],
+                    [
+                      22.509538,
+                      48.521499
+                    ],
+                    [
+                      22.50931,
+                      48.522078
+                    ],
+                    [
+                      22.508899,
+                      48.52315
+                    ],
+                    [
+                      22.508701,
+                      48.523679
+                    ],
+                    [
+                      22.50843,
+                      48.524405
+                    ],
+                    [
+                      22.508267,
+                      48.524796
+                    ],
+                    [
+                      22.508084,
+                      48.525276
+                    ],
+                    [
+                      22.507663,
+                      48.52629
+                    ],
+                    [
+                      22.507215,
+                      48.527388
+                    ],
+                    [
+                      22.506942,
+                      48.528036
+                    ],
+                    [
+                      22.506875,
+                      48.528195
+                    ],
+                    [
+                      22.506705,
+                      48.528502
+                    ],
+                    [
+                      22.506653,
+                      48.528596
+                    ],
+                    [
+                      22.506431,
+                      48.528885
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "М-06",
+                "name": "Європейська вулиця",
+                "mode": "driving",
+                "weight": 1029.2,
+                "duration": 1029.2,
+                "distance": 17223.5
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      150,
+                      330,
+                      345
+                    ],
+                    "location": [
+                      22.506431,
+                      48.528885
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      165,
+                      345
+                    ],
+                    "location": [
+                      22.506078,
+                      48.529801
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.506431,
+                      48.528885
+                    ],
+                    [
+                      22.506349,
+                      48.529073
+                    ],
+                    [
+                      22.506269,
+                      48.529254
+                    ],
+                    [
+                      22.506225,
+                      48.529363
+                    ],
+                    [
+                      22.506185,
+                      48.529484
+                    ],
+                    [
+                      22.506078,
+                      48.529801
+                    ],
+                    [
+                      22.505724,
+                      48.53056
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 344,
+                  "bearing_before": 331,
+                  "location": [
+                    22.506431,
+                    48.528885
+                  ],
+                  "modifier": "slight right",
+                  "type": "off ramp"
+                },
+                "destinations": "Середнє, Ірлява",
+                "name": "",
+                "mode": "driving",
+                "weight": 17.5,
+                "duration": 17.5,
+                "distance": 193.6
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      163,
+                      338,
+                      348
+                    ],
+                    "location": [
+                      22.505724,
+                      48.53056
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      165,
+                      240,
+                      345
+                    ],
+                    "location": [
+                      22.505238,
+                      48.531942
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      0,
+                      135,
+                      180
+                    ],
+                    "location": [
+                      22.504498,
+                      48.535678
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      180,
+                      285
+                    ],
+                    "location": [
+                      22.504541,
+                      48.536058
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      180,
+                      345
+                    ],
+                    "location": [
+                      22.504529,
+                      48.536704
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      165,
+                      345
+                    ],
+                    "location": [
+                      22.504275,
+                      48.537396
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      165,
+                      255
+                    ],
+                    "location": [
+                      22.504238,
+                      48.537552
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      180,
+                      270
+                    ],
+                    "location": [
+                      22.504134,
+                      48.538832
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 347,
+                  "bearing_before": 341,
+                  "location": [
+                    22.505724,
+                    48.53056
+                  ],
+                  "modifier": "straight",
+                  "type": "continue"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.505724,
+                      48.53056
+                    ],
+                    [
+                      22.505708,
+                      48.530613
+                    ],
+                    [
+                      22.505673,
+                      48.530729
+                    ],
+                    [
+                      22.505327,
+                      48.531732
+                    ],
+                    [
+                      22.505238,
+                      48.531942
+                    ],
+                    [
+                      22.505205,
+                      48.532031
+                    ],
+                    [
+                      22.504892,
+                      48.532885
+                    ],
+                    [
+                      22.50441,
+                      48.534203
+                    ],
+                    [
+                      22.504369,
+                      48.534351
+                    ],
+                    [
+                      22.504355,
+                      48.534478
+                    ],
+                    [
+                      22.504369,
+                      48.534605
+                    ],
+                    [
+                      22.504394,
+                      48.534693
+                    ],
+                    [
+                      22.50445,
+                      48.535001
+                    ],
+                    [
+                      22.504487,
+                      48.535319
+                    ],
+                    [
+                      22.504498,
+                      48.535678
+                    ],
+                    [
+                      22.504541,
+                      48.536058
+                    ],
+                    [
+                      22.504542,
+                      48.536294
+                    ],
+                    [
+                      22.504541,
+                      48.53651
+                    ],
+                    [
+                      22.504529,
+                      48.536704
+                    ],
+                    [
+                      22.504487,
+                      48.536848
+                    ],
+                    [
+                      22.504353,
+                      48.537166
+                    ],
+                    [
+                      22.50433,
+                      48.537222
+                    ],
+                    [
+                      22.504321,
+                      48.537254
+                    ],
+                    [
+                      22.50431,
+                      48.537287
+                    ],
+                    [
+                      22.504295,
+                      48.537337
+                    ],
+                    [
+                      22.504275,
+                      48.537396
+                    ],
+                    [
+                      22.504238,
+                      48.537552
+                    ],
+                    [
+                      22.504179,
+                      48.537865
+                    ],
+                    [
+                      22.50414,
+                      48.538434
+                    ],
+                    [
+                      22.504134,
+                      48.538832
+                    ],
+                    [
+                      22.504131,
+                      48.539026
+                    ],
+                    [
+                      22.504118,
+                      48.539285
+                    ],
+                    [
+                      22.504119,
+                      48.539347
+                    ],
+                    [
+                      22.504109,
+                      48.539425
+                    ],
+                    [
+                      22.504105,
+                      48.539529
+                    ],
+                    [
+                      22.504094,
+                      48.539609
+                    ],
+                    [
+                      22.504075,
+                      48.539651
+                    ],
+                    [
+                      22.504091,
+                      48.539814
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "С-071218",
+                "name": "Закарпатська вулиця",
+                "mode": "driving",
+                "weight": 94.1,
+                "duration": 94.1,
+                "distance": 1044.8
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      180,
+                      330
+                    ],
+                    "location": [
+                      22.504091,
+                      48.539814
+                    ]
+                  },
+                  {
+                    "out": 3,
+                    "in": 1,
+                    "entry": [
+                      false,
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      150,
+                      180,
+                      330
+                    ],
+                    "location": [
+                      22.503978,
+                      48.539975
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      false,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      150,
+                      165,
+                      330
+                    ],
+                    "location": [
+                      22.503768,
+                      48.54021
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 334,
+                  "bearing_before": 2,
+                  "location": [
+                    22.504091,
+                    48.539814
+                  ],
+                  "modifier": "slight left",
+                  "type": "continue"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.504091,
+                      48.539814
+                    ],
+                    [
+                      22.503978,
+                      48.539975
+                    ],
+                    [
+                      22.503881,
+                      48.540054
+                    ],
+                    [
+                      22.503768,
+                      48.54021
+                    ],
+                    [
+                      22.503742,
+                      48.540243
+                    ],
+                    [
+                      22.503637,
+                      48.540351
+                    ],
+                    [
+                      22.503562,
+                      48.54043
+                    ],
+                    [
+                      22.503435,
+                      48.540542
+                    ],
+                    [
+                      22.503385,
+                      48.540581
+                    ],
+                    [
+                      22.50334,
+                      48.540619
+                    ],
+                    [
+                      22.503284,
+                      48.540649
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "С-071218",
+                "name": "Закарпатська вулиця",
+                "mode": "driving",
+                "weight": 13.4,
+                "duration": 13.4,
+                "distance": 111.1
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      135,
+                      300
+                    ],
+                    "location": [
+                      22.503284,
+                      48.540649
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.503284,
+                      48.540649
+                    ],
+                    [
+                      22.503345,
+                      48.540682
+                    ],
+                    [
+                      22.503444,
+                      48.540713
+                    ],
+                    [
+                      22.503598,
+                      48.540735
+                    ],
+                    [
+                      22.503859,
+                      48.540748
+                    ],
+                    [
+                      22.504315,
+                      48.540769
+                    ],
+                    [
+                      22.504461,
+                      48.540793
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 56,
+                  "bearing_before": 315,
+                  "location": [
+                    22.503284,
+                    48.540649
+                  ],
+                  "modifier": "right",
+                  "type": "turn"
+                },
+                "name": "Лінський провулок",
+                "mode": "driving",
+                "weight": 40.4,
+                "duration": 40.4,
+                "distance": 89.7
+              },
+              {
+                "intersections": [
+                  {
+                    "in": 0,
+                    "entry": [
+                      true
+                    ],
+                    "bearings": [
+                      255
+                    ],
+                    "location": [
+                      22.504461,
+                      48.540793
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.504461,
+                      48.540793
+                    ],
+                    [
+                      22.504461,
+                      48.540793
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 0,
+                  "bearing_before": 75,
+                  "location": [
+                    22.504461,
+                    48.540793
+                  ],
+                  "modifier": "left",
+                  "type": "arrive"
+                },
+                "name": "Лінський провулок",
+                "mode": "driving",
+                "weight": 0,
+                "duration": 0,
+                "distance": 0
+              }
+            ],
+            "weight": 1477.2,
+            "summary": "Європейська вулиця, М-06",
+            "duration": 1468,
+            "distance": 21494.6
+          },
+          {
+            "steps": [
+              {
+                "intersections": [
+                  {
+                    "out": 0,
+                    "entry": [
+                      true
+                    ],
+                    "bearings": [
+                      256
+                    ],
+                    "location": [
+                      22.504461,
+                      48.540793
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.504461,
+                      48.540793
+                    ],
+                    [
+                      22.504315,
+                      48.540769
+                    ],
+                    [
+                      22.503859,
+                      48.540748
+                    ],
+                    [
+                      22.503598,
+                      48.540735
+                    ],
+                    [
+                      22.503444,
+                      48.540713
+                    ],
+                    [
+                      22.503345,
+                      48.540682
+                    ],
+                    [
+                      22.503284,
+                      48.540649
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "maneuver": {
+                  "bearing_after": 256,
+                  "bearing_before": 0,
+                  "location": [
+                    22.504461,
+                    48.540793
+                  ],
+                  "modifier": "right",
+                  "type": "depart"
+                },
+                "name": "Лінський провулок",
+                "mode": "driving",
+                "weight": 19.4,
+                "duration": 19.4,
+                "distance": 89.7
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 1,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      60,
+                      135,
+                      300
+                    ],
+                    "location": [
+                      22.503284,
+                      48.540649
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 135,
+                  "bearing_before": 236,
+                  "location": [
+                    22.503284,
+                    48.540649
+                  ],
+                  "modifier": "left",
+                  "type": "turn"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.503284,
+                      48.540649
+                    ],
+                    [
+                      22.50334,
+                      48.540619
+                    ],
+                    [
+                      22.503385,
+                      48.540581
+                    ],
+                    [
+                      22.503435,
+                      48.540542
+                    ],
+                    [
+                      22.503562,
+                      48.54043
+                    ],
+                    [
+                      22.503637,
+                      48.540351
+                    ],
+                    [
+                      22.503742,
+                      48.540243
+                    ],
+                    [
+                      22.503768,
+                      48.54021
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "С-071218",
+                "name": "Закарпатська вулиця",
+                "mode": "driving",
+                "weight": 5.5,
+                "duration": 5.5,
+                "distance": 60.8
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      150,
+                      165,
+                      330
+                    ],
+                    "location": [
+                      22.503768,
+                      48.54021
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 3,
+                    "entry": [
+                      true,
+                      false,
+                      false,
+                      false
+                    ],
+                    "bearings": [
+                      45,
+                      210,
+                      240,
+                      255
+                    ],
+                    "location": [
+                      22.504186,
+                      48.540063
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      60,
+                      165,
+                      240
+                    ],
+                    "location": [
+                      22.506862,
+                      48.541055
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      75,
+                      165,
+                      255
+                    ],
+                    "location": [
+                      22.50816,
+                      48.541418
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      90,
+                      255,
+                      330
+                    ],
+                    "location": [
+                      22.508469,
+                      48.541493
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      270
+                    ],
+                    "location": [
+                      22.508554,
+                      48.54149
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      120,
+                      285,
+                      330
+                    ],
+                    "location": [
+                      22.508797,
+                      48.541429
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      45,
+                      135,
+                      270
+                    ],
+                    "location": [
+                      22.510583,
+                      48.541258
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      105,
+                      195,
+                      300
+                    ],
+                    "location": [
+                      22.512248,
+                      48.540451
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      0,
+                      90,
+                      270
+                    ],
+                    "location": [
+                      22.512727,
+                      48.540393
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      60,
+                      135,
+                      255
+                    ],
+                    "location": [
+                      22.513231,
+                      48.54043
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 147,
+                  "bearing_before": 144,
+                  "location": [
+                    22.503768,
+                    48.54021
+                  ],
+                  "modifier": "straight",
+                  "type": "new name"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.503768,
+                      48.54021
+                    ],
+                    [
+                      22.503894,
+                      48.540076
+                    ],
+                    [
+                      22.503948,
+                      48.540048
+                    ],
+                    [
+                      22.504005,
+                      48.540039
+                    ],
+                    [
+                      22.50406,
+                      48.540036
+                    ],
+                    [
+                      22.504186,
+                      48.540063
+                    ],
+                    [
+                      22.504823,
+                      48.540535
+                    ],
+                    [
+                      22.504989,
+                      48.540626
+                    ],
+                    [
+                      22.505198,
+                      48.54069
+                    ],
+                    [
+                      22.506207,
+                      48.540872
+                    ],
+                    [
+                      22.506579,
+                      48.540968
+                    ],
+                    [
+                      22.506862,
+                      48.541055
+                    ],
+                    [
+                      22.507451,
+                      48.541236
+                    ],
+                    [
+                      22.50816,
+                      48.541418
+                    ],
+                    [
+                      22.508469,
+                      48.541493
+                    ],
+                    [
+                      22.508554,
+                      48.54149
+                    ],
+                    [
+                      22.508797,
+                      48.541429
+                    ],
+                    [
+                      22.509116,
+                      48.541326
+                    ],
+                    [
+                      22.509195,
+                      48.541305
+                    ],
+                    [
+                      22.509312,
+                      48.541288
+                    ],
+                    [
+                      22.510401,
+                      48.541262
+                    ],
+                    [
+                      22.510583,
+                      48.541258
+                    ],
+                    [
+                      22.511484,
+                      48.540745
+                    ],
+                    [
+                      22.511845,
+                      48.540584
+                    ],
+                    [
+                      22.512248,
+                      48.540451
+                    ],
+                    [
+                      22.512478,
+                      48.540412
+                    ],
+                    [
+                      22.512727,
+                      48.540393
+                    ],
+                    [
+                      22.512995,
+                      48.540407
+                    ],
+                    [
+                      22.513231,
+                      48.54043
+                    ],
+                    [
+                      22.514315,
+                      48.540765
+                    ],
+                    [
+                      22.514483,
+                      48.540835
+                    ],
+                    [
+                      22.515079,
+                      48.541256
+                    ],
+                    [
+                      22.515698,
+                      48.541447
+                    ],
+                    [
+                      22.516602,
+                      48.541645
+                    ],
+                    [
+                      22.517257,
+                      48.541685
+                    ],
+                    [
+                      22.518079,
+                      48.541684
+                    ],
+                    [
+                      22.518417,
+                      48.54175
+                    ],
+                    [
+                      22.519181,
+                      48.541989
+                    ],
+                    [
+                      22.51949,
+                      48.542089
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "О-071201",
+                "name": "Лінська вулиця",
+                "mode": "driving",
+                "weight": 117.5,
+                "duration": 117.5,
+                "distance": 1300.6
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      45,
+                      90,
+                      240
+                    ],
+                    "location": [
+                      22.51949,
+                      48.542089
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      0,
+                      30,
+                      225
+                    ],
+                    "location": [
+                      22.519643,
+                      48.542213
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      210,
+                      270
+                    ],
+                    "location": [
+                      22.520483,
+                      48.543244
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      60,
+                      165,
+                      270
+                    ],
+                    "location": [
+                      22.536537,
+                      48.553624
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      225,
+                      285
+                    ],
+                    "location": [
+                      22.542974,
+                      48.55918
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      210
+                    ],
+                    "location": [
+                      22.544401,
+                      48.56055
+                    ]
+                  },
+                  {
+                    "out": 1,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      0,
+                      45,
+                      195
+                    ],
+                    "location": [
+                      22.545148,
+                      48.565692
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      195
+                    ],
+                    "location": [
+                      22.54786,
+                      48.567521
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      180,
+                      270
+                    ],
+                    "location": [
+                      22.54879,
+                      48.572566
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      210,
+                      300
+                    ],
+                    "location": [
+                      22.549657,
+                      48.574983
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      30,
+                      105,
+                      210
+                    ],
+                    "location": [
+                      22.551196,
+                      48.576333
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      30,
+                      120,
+                      210
+                    ],
+                    "location": [
+                      22.551594,
+                      48.576919
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      180,
+                      300
+                    ],
+                    "location": [
+                      22.552014,
+                      48.578328
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      225,
+                      315
+                    ],
+                    "location": [
+                      22.553535,
+                      48.581057
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      15,
+                      105,
+                      195
+                    ],
+                    "location": [
+                      22.553674,
+                      48.581354
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 37,
+                  "bearing_before": 63,
+                  "location": [
+                    22.51949,
+                    48.542089
+                  ],
+                  "modifier": "slight left",
+                  "type": "fork"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.51949,
+                      48.542089
+                    ],
+                    [
+                      22.519643,
+                      48.542213
+                    ],
+                    [
+                      22.520483,
+                      48.543244
+                    ],
+                    [
+                      22.52056,
+                      48.543339
+                    ],
+                    [
+                      22.521273,
+                      48.544047
+                    ],
+                    [
+                      22.521898,
+                      48.544899
+                    ],
+                    [
+                      22.52241,
+                      48.54574
+                    ],
+                    [
+                      22.522818,
+                      48.546551
+                    ],
+                    [
+                      22.523355,
+                      48.54766
+                    ],
+                    [
+                      22.523875,
+                      48.548717
+                    ],
+                    [
+                      22.524203,
+                      48.549172
+                    ],
+                    [
+                      22.524522,
+                      48.549518
+                    ],
+                    [
+                      22.525027,
+                      48.549936
+                    ],
+                    [
+                      22.525478,
+                      48.550228
+                    ],
+                    [
+                      22.525873,
+                      48.550436
+                    ],
+                    [
+                      22.526348,
+                      48.550625
+                    ],
+                    [
+                      22.527263,
+                      48.550878
+                    ],
+                    [
+                      22.527695,
+                      48.551036
+                    ],
+                    [
+                      22.527917,
+                      48.551215
+                    ],
+                    [
+                      22.528249,
+                      48.551686
+                    ],
+                    [
+                      22.528421,
+                      48.551856
+                    ],
+                    [
+                      22.528625,
+                      48.55201
+                    ],
+                    [
+                      22.52916,
+                      48.552303
+                    ],
+                    [
+                      22.529501,
+                      48.552627
+                    ],
+                    [
+                      22.529749,
+                      48.553264
+                    ],
+                    [
+                      22.530211,
+                      48.553761
+                    ],
+                    [
+                      22.53091,
+                      48.554292
+                    ],
+                    [
+                      22.531191,
+                      48.554426
+                    ],
+                    [
+                      22.531586,
+                      48.554512
+                    ],
+                    [
+                      22.532013,
+                      48.554572
+                    ],
+                    [
+                      22.532498,
+                      48.554619
+                    ],
+                    [
+                      22.532919,
+                      48.554642
+                    ],
+                    [
+                      22.533463,
+                      48.554633
+                    ],
+                    [
+                      22.534064,
+                      48.554573
+                    ],
+                    [
+                      22.534671,
+                      48.554435
+                    ],
+                    [
+                      22.534832,
+                      48.55436
+                    ],
+                    [
+                      22.535083,
+                      48.554253
+                    ],
+                    [
+                      22.535432,
+                      48.554023
+                    ],
+                    [
+                      22.536006,
+                      48.553719
+                    ],
+                    [
+                      22.536276,
+                      48.553625
+                    ],
+                    [
+                      22.536425,
+                      48.553618
+                    ],
+                    [
+                      22.536537,
+                      48.553624
+                    ],
+                    [
+                      22.536587,
+                      48.553627
+                    ],
+                    [
+                      22.536983,
+                      48.553801
+                    ],
+                    [
+                      22.538325,
+                      48.554513
+                    ],
+                    [
+                      22.539103,
+                      48.555263
+                    ],
+                    [
+                      22.539999,
+                      48.555957
+                    ],
+                    [
+                      22.540774,
+                      48.556608
+                    ],
+                    [
+                      22.541302,
+                      48.557166
+                    ],
+                    [
+                      22.541413,
+                      48.557402
+                    ],
+                    [
+                      22.541519,
+                      48.557628
+                    ],
+                    [
+                      22.541788,
+                      48.55811
+                    ],
+                    [
+                      22.541991,
+                      48.558382
+                    ],
+                    [
+                      22.542269,
+                      48.558665
+                    ],
+                    [
+                      22.542923,
+                      48.559132
+                    ],
+                    [
+                      22.542974,
+                      48.55918
+                    ],
+                    [
+                      22.543246,
+                      48.559442
+                    ],
+                    [
+                      22.543359,
+                      48.55955
+                    ],
+                    [
+                      22.544401,
+                      48.56055
+                    ],
+                    [
+                      22.544714,
+                      48.56083
+                    ],
+                    [
+                      22.544841,
+                      48.56099
+                    ],
+                    [
+                      22.544927,
+                      48.56116
+                    ],
+                    [
+                      22.544994,
+                      48.561405
+                    ],
+                    [
+                      22.545294,
+                      48.5625
+                    ],
+                    [
+                      22.545377,
+                      48.563232
+                    ],
+                    [
+                      22.545155,
+                      48.564411
+                    ],
+                    [
+                      22.545032,
+                      48.565351
+                    ],
+                    [
+                      22.545062,
+                      48.565546
+                    ],
+                    [
+                      22.545148,
+                      48.565692
+                    ],
+                    [
+                      22.545361,
+                      48.565869
+                    ],
+                    [
+                      22.545726,
+                      48.56608
+                    ],
+                    [
+                      22.545919,
+                      48.566177
+                    ],
+                    [
+                      22.547111,
+                      48.566798
+                    ],
+                    [
+                      22.547419,
+                      48.566966
+                    ],
+                    [
+                      22.54762,
+                      48.5671
+                    ],
+                    [
+                      22.547755,
+                      48.567274
+                    ],
+                    [
+                      22.54786,
+                      48.567521
+                    ],
+                    [
+                      22.548458,
+                      48.56966
+                    ],
+                    [
+                      22.548679,
+                      48.570686
+                    ],
+                    [
+                      22.548615,
+                      48.571083
+                    ],
+                    [
+                      22.548704,
+                      48.571917
+                    ],
+                    [
+                      22.54879,
+                      48.572566
+                    ],
+                    [
+                      22.548851,
+                      48.572957
+                    ],
+                    [
+                      22.548948,
+                      48.573347
+                    ],
+                    [
+                      22.54914,
+                      48.574098
+                    ],
+                    [
+                      22.549294,
+                      48.57449
+                    ],
+                    [
+                      22.54938,
+                      48.574647
+                    ],
+                    [
+                      22.549657,
+                      48.574983
+                    ],
+                    [
+                      22.549923,
+                      48.575426
+                    ],
+                    [
+                      22.55001,
+                      48.575525
+                    ],
+                    [
+                      22.550183,
+                      48.575662
+                    ],
+                    [
+                      22.550364,
+                      48.575837
+                    ],
+                    [
+                      22.550484,
+                      48.575918
+                    ],
+                    [
+                      22.550749,
+                      48.576035
+                    ],
+                    [
+                      22.551055,
+                      48.576174
+                    ],
+                    [
+                      22.551107,
+                      48.576217
+                    ],
+                    [
+                      22.551196,
+                      48.576333
+                    ],
+                    [
+                      22.551594,
+                      48.576919
+                    ],
+                    [
+                      22.551768,
+                      48.577185
+                    ],
+                    [
+                      22.551874,
+                      48.577395
+                    ],
+                    [
+                      22.551945,
+                      48.577619
+                    ],
+                    [
+                      22.551981,
+                      48.57799
+                    ],
+                    [
+                      22.552014,
+                      48.578328
+                    ],
+                    [
+                      22.552022,
+                      48.578412
+                    ],
+                    [
+                      22.552314,
+                      48.579212
+                    ],
+                    [
+                      22.552636,
+                      48.580156
+                    ],
+                    [
+                      22.552795,
+                      48.580429
+                    ],
+                    [
+                      22.552931,
+                      48.580579
+                    ],
+                    [
+                      22.553247,
+                      48.580877
+                    ],
+                    [
+                      22.553535,
+                      48.581057
+                    ],
+                    [
+                      22.553674,
+                      48.581354
+                    ],
+                    [
+                      22.553955,
+                      48.581909
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "О-071201",
+                "name": "Лінська вулиця",
+                "mode": "driving",
+                "weight": 510,
+                "duration": 510,
+                "distance": 5662.2
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      15,
+                      135,
+                      195
+                    ],
+                    "location": [
+                      22.553955,
+                      48.581909
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 16,
+                  "bearing_before": 18,
+                  "location": [
+                    22.553955,
+                    48.581909
+                  ],
+                  "modifier": "straight",
+                  "type": "new name"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.553955,
+                      48.581909
+                    ],
+                    [
+                      22.554169,
+                      48.582353
+                    ],
+                    [
+                      22.554293,
+                      48.582694
+                    ],
+                    [
+                      22.554415,
+                      48.58322
+                    ],
+                    [
+                      22.554548,
+                      48.583859
+                    ],
+                    [
+                      22.554634,
+                      48.584108
+                    ],
+                    [
+                      22.554736,
+                      48.584304
+                    ],
+                    [
+                      22.555756,
+                      48.585363
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "С-071220",
+                "name": "",
+                "mode": "driving",
+                "weight": 37.7,
+                "duration": 37.7,
+                "distance": 413
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      30,
+                      210,
+                      345
+                    ],
+                    "location": [
+                      22.555756,
+                      48.585363
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      165,
+                      330
+                    ],
+                    "location": [
+                      22.553807,
+                      48.594927
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      0,
+                      90,
+                      165
+                    ],
+                    "location": [
+                      22.553735,
+                      48.59572
+                    ]
+                  },
+                  {
+                    "out": 2,
+                    "in": 0,
+                    "entry": [
+                      false,
+                      true,
+                      true
+                    ],
+                    "bearings": [
+                      120,
+                      195,
+                      315
+                    ],
+                    "location": [
+                      22.552439,
+                      48.598043
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 348,
+                  "bearing_before": 32,
+                  "location": [
+                    22.555756,
+                    48.585363
+                  ],
+                  "modifier": "left",
+                  "type": "turn"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.555756,
+                      48.585363
+                    ],
+                    [
+                      22.555708,
+                      48.585543
+                    ],
+                    [
+                      22.555587,
+                      48.585989
+                    ],
+                    [
+                      22.55527,
+                      48.587396
+                    ],
+                    [
+                      22.55524,
+                      48.587518
+                    ],
+                    [
+                      22.555021,
+                      48.587742
+                    ],
+                    [
+                      22.555004,
+                      48.587816
+                    ],
+                    [
+                      22.554994,
+                      48.587939
+                    ],
+                    [
+                      22.554934,
+                      48.588633
+                    ],
+                    [
+                      22.554857,
+                      48.58952
+                    ],
+                    [
+                      22.554768,
+                      48.590002
+                    ],
+                    [
+                      22.554597,
+                      48.590965
+                    ],
+                    [
+                      22.55452,
+                      48.59171
+                    ],
+                    [
+                      22.554436,
+                      48.59281
+                    ],
+                    [
+                      22.554279,
+                      48.593601
+                    ],
+                    [
+                      22.554045,
+                      48.593994
+                    ],
+                    [
+                      22.553924,
+                      48.594391
+                    ],
+                    [
+                      22.553807,
+                      48.594927
+                    ],
+                    [
+                      22.553791,
+                      48.59549
+                    ],
+                    [
+                      22.553735,
+                      48.59572
+                    ],
+                    [
+                      22.553687,
+                      48.596
+                    ],
+                    [
+                      22.553687,
+                      48.596333
+                    ],
+                    [
+                      22.553709,
+                      48.596624
+                    ],
+                    [
+                      22.553693,
+                      48.596936
+                    ],
+                    [
+                      22.553589,
+                      48.597294
+                    ],
+                    [
+                      22.553459,
+                      48.597603
+                    ],
+                    [
+                      22.553403,
+                      48.59769
+                    ],
+                    [
+                      22.553329,
+                      48.597744
+                    ],
+                    [
+                      22.553129,
+                      48.59783
+                    ],
+                    [
+                      22.552685,
+                      48.59797
+                    ],
+                    [
+                      22.552439,
+                      48.598043
+                    ],
+                    [
+                      22.552367,
+                      48.598104
+                    ],
+                    [
+                      22.552303,
+                      48.598181
+                    ],
+                    [
+                      22.552115,
+                      48.598607
+                    ],
+                    [
+                      22.551898,
+                      48.599028
+                    ],
+                    [
+                      22.551885,
+                      48.599147
+                    ],
+                    [
+                      22.551942,
+                      48.599319
+                    ],
+                    [
+                      22.552005,
+                      48.599493
+                    ],
+                    [
+                      22.552052,
+                      48.599689
+                    ],
+                    [
+                      22.552026,
+                      48.599928
+                    ],
+                    [
+                      22.551966,
+                      48.600043
+                    ],
+                    [
+                      22.551817,
+                      48.600181
+                    ],
+                    [
+                      22.551719,
+                      48.600299
+                    ],
+                    [
+                      22.551658,
+                      48.600417
+                    ],
+                    [
+                      22.551559,
+                      48.600981
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "С-071220",
+                "name": "",
+                "mode": "driving",
+                "weight": 163.5,
+                "duration": 163.5,
+                "distance": 1814.5
+              },
+              {
+                "intersections": [
+                  {
+                    "out": 2,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      180,
+                      300
+                    ],
+                    "location": [
+                      22.551559,
+                      48.600981
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      0,
+                      120,
+                      180
+                    ],
+                    "location": [
+                      22.55131,
+                      48.601106
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      45,
+                      210,
+                      315
+                    ],
+                    "location": [
+                      22.552203,
+                      48.60417
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 2,
+                    "entry": [
+                      true,
+                      true,
+                      false
+                    ],
+                    "bearings": [
+                      30,
+                      150,
+                      225
+                    ],
+                    "location": [
+                      22.55292,
+                      48.604617
+                    ]
+                  },
+                  {
+                    "out": 0,
+                    "in": 1,
+                    "entry": [
+                      true,
+                      false,
+                      true
+                    ],
+                    "bearings": [
+                      15,
+                      210,
+                      300
+                    ],
+                    "location": [
+                      22.553459,
+                      48.605294
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 306,
+                  "bearing_before": 352,
+                  "location": [
+                    22.551559,
+                    48.600981
+                  ],
+                  "modifier": "left",
+                  "type": "turn"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.551559,
+                      48.600981
+                    ],
+                    [
+                      22.551516,
+                      48.60101
+                    ],
+                    [
+                      22.551421,
+                      48.601049
+                    ],
+                    [
+                      22.551344,
+                      48.60108
+                    ],
+                    [
+                      22.55131,
+                      48.601106
+                    ],
+                    [
+                      22.55131,
+                      48.601129
+                    ],
+                    [
+                      22.551335,
+                      48.601278
+                    ],
+                    [
+                      22.55137,
+                      48.601465
+                    ],
+                    [
+                      22.551391,
+                      48.60173
+                    ],
+                    [
+                      22.551358,
+                      48.601989
+                    ],
+                    [
+                      22.551321,
+                      48.602212
+                    ],
+                    [
+                      22.5513,
+                      48.602316
+                    ],
+                    [
+                      22.551303,
+                      48.602428
+                    ],
+                    [
+                      22.551316,
+                      48.602503
+                    ],
+                    [
+                      22.551354,
+                      48.602582
+                    ],
+                    [
+                      22.55141,
+                      48.602701
+                    ],
+                    [
+                      22.551638,
+                      48.603182
+                    ],
+                    [
+                      22.5518,
+                      48.603544
+                    ],
+                    [
+                      22.551929,
+                      48.603774
+                    ],
+                    [
+                      22.552203,
+                      48.60417
+                    ],
+                    [
+                      22.552288,
+                      48.604223
+                    ],
+                    [
+                      22.552366,
+                      48.604271
+                    ],
+                    [
+                      22.55292,
+                      48.604617
+                    ],
+                    [
+                      22.553061,
+                      48.604746
+                    ],
+                    [
+                      22.553152,
+                      48.604862
+                    ],
+                    [
+                      22.553331,
+                      48.605097
+                    ],
+                    [
+                      22.553368,
+                      48.605152
+                    ],
+                    [
+                      22.553459,
+                      48.605294
+                    ],
+                    [
+                      22.553607,
+                      48.605548
+                    ],
+                    [
+                      22.553719,
+                      48.605708
+                    ],
+                    [
+                      22.553845,
+                      48.605901
+                    ],
+                    [
+                      22.554105,
+                      48.606256
+                    ],
+                    [
+                      22.554379,
+                      48.606562
+                    ],
+                    [
+                      22.554494,
+                      48.606746
+                    ],
+                    [
+                      22.554514,
+                      48.606794
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "С-071220",
+                "name": "",
+                "mode": "driving",
+                "weight": 64.9,
+                "duration": 64.9,
+                "distance": 718.5
+              },
+              {
+                "intersections": [
+                  {
+                    "in": 0,
+                    "entry": [
+                      true
+                    ],
+                    "bearings": [
+                      195
+                    ],
+                    "location": [
+                      22.554514,
+                      48.606794
+                    ]
+                  }
+                ],
+                "driving_side": "right",
+                "maneuver": {
+                  "bearing_after": 0,
+                  "bearing_before": 15,
+                  "location": [
+                    22.554514,
+                    48.606794
+                  ],
+                  "modifier": "right",
+                  "type": "arrive"
+                },
+                "geometry": {
+                  "coordinates": [
+                    [
+                      22.554514,
+                      48.606794
+                    ],
+                    [
+                      22.554514,
+                      48.606794
+                    ]
+                  ],
+                  "type": "LineString"
+                },
+                "ref": "С-071220",
+                "name": "",
+                "mode": "driving",
+                "weight": 0,
+                "duration": 0,
+                "distance": 0
+              }
+            ],
+            "weight": 918.5,
+            "summary": "О-071201, С-071220",
+            "duration": 918.5,
+            "distance": 10059.4
+          }
+        ],
+        "weight_name": "routability",
+        "geometry": {
+          "coordinates": [
+            [
+              22.718525,
+              48.442337
+            ],
+            [
+              22.71845,
+              48.442337
+            ],
+            [
+              22.7184,
+              48.442342
+            ],
+            [
+              22.71836,
+              48.442353
+            ],
+            [
+              22.718321,
+              48.442372
+            ],
+            [
+              22.718277,
+              48.442406
+            ],
+            [
+              22.718255,
+              48.442431
+            ],
+            [
+              22.718169,
+              48.442548
+            ],
+            [
+              22.718113,
+              48.442581
+            ],
+            [
+              22.71798,
+              48.442687
+            ],
+            [
+              22.717798,
+              48.442832
+            ],
+            [
+              22.717198,
+              48.443325
+            ],
+            [
+              22.716981,
+              48.443493
+            ],
+            [
+              22.716941,
+              48.443528
+            ],
+            [
+              22.716853,
+              48.44361
+            ],
+            [
+              22.715901,
+              48.444436
+            ],
+            [
+              22.715788,
+              48.444529
+            ],
+            [
+              22.715442,
+              48.444806
+            ],
+            [
+              22.714883,
+              48.445252
+            ],
+            [
+              22.714409,
+              48.445634
+            ],
+            [
+              22.714061,
+              48.445933
+            ],
+            [
+              22.714062,
+              48.44601
+            ],
+            [
+              22.714054,
+              48.446076
+            ],
+            [
+              22.714017,
+              48.446135
+            ],
+            [
+              22.713471,
+              48.446579
+            ],
+            [
+              22.713168,
+              48.446836
+            ],
+            [
+              22.713118,
+              48.446874
+            ],
+            [
+              22.713047,
+              48.446912
+            ],
+            [
+              22.713037,
+              48.446936
+            ],
+            [
+              22.713013,
+              48.446963
+            ],
+            [
+              22.712978,
+              48.446984
+            ],
+            [
+              22.712936,
+              48.446998
+            ],
+            [
+              22.712885,
+              48.447003
+            ],
+            [
+              22.712835,
+              48.446997
+            ],
+            [
+              22.712789,
+              48.446981
+            ],
+            [
+              22.712747,
+              48.446953
+            ],
+            [
+              22.712731,
+              48.446926
+            ],
+            [
+              22.712724,
+              48.446898
+            ],
+            [
+              22.712729,
+              48.446869
+            ],
+            [
+              22.712745,
+              48.446842
+            ],
+            [
+              22.712571,
+              48.446833
+            ],
+            [
+              22.712539,
+              48.446828
+            ],
+            [
+              22.710158,
+              48.44673
+            ],
+            [
+              22.707544,
+              48.446634
+            ],
+            [
+              22.707383,
+              48.446628
+            ],
+            [
+              22.706971,
+              48.446612
+            ],
+            [
+              22.706812,
+              48.446608
+            ],
+            [
+              22.706434,
+              48.446598
+            ],
+            [
+              22.706109,
+              48.446602
+            ],
+            [
+              22.705838,
+              48.446611
+            ],
+            [
+              22.705616,
+              48.446625
+            ],
+            [
+              22.705292,
+              48.44665
+            ],
+            [
+              22.704907,
+              48.446693
+            ],
+            [
+              22.70466,
+              48.446724
+            ],
+            [
+              22.704419,
+              48.44676
+            ],
+            [
+              22.704087,
+              48.446817
+            ],
+            [
+              22.703746,
+              48.446885
+            ],
+            [
+              22.702139,
+              48.447269
+            ],
+            [
+              22.701222,
+              48.447492
+            ],
+            [
+              22.700462,
+              48.447671
+            ],
+            [
+              22.70035,
+              48.447698
+            ],
+            [
+              22.697164,
+              48.448445
+            ],
+            [
+              22.697121,
+              48.448455
+            ],
+            [
+              22.696961,
+              48.448494
+            ],
+            [
+              22.694265,
+              48.449132
+            ],
+            [
+              22.694195,
+              48.449148
+            ],
+            [
+              22.693548,
+              48.449303
+            ],
+            [
+              22.69327,
+              48.449368
+            ],
+            [
+              22.69199,
+              48.449682
+            ],
+            [
+              22.690588,
+              48.450015
+            ],
+            [
+              22.690238,
+              48.450099
+            ],
+            [
+              22.689782,
+              48.450208
+            ],
+            [
+              22.689477,
+              48.450281
+            ],
+            [
+              22.688522,
+              48.4505
+            ],
+            [
+              22.688452,
+              48.450516
+            ],
+            [
+              22.688184,
+              48.450577
+            ],
+            [
+              22.687592,
+              48.450718
+            ],
+            [
+              22.687127,
+              48.450829
+            ],
+            [
+              22.686985,
+              48.450942
+            ],
+            [
+              22.686918,
+              48.451026
+            ],
+            [
+              22.686849,
+              48.451172
+            ],
+            [
+              22.686783,
+              48.451311
+            ],
+            [
+              22.686708,
+              48.451529
+            ],
+            [
+              22.686698,
+              48.451558
+            ],
+            [
+              22.686478,
+              48.451536
+            ],
+            [
+              22.686207,
+              48.451511
+            ],
+            [
+              22.685932,
+              48.451493
+            ],
+            [
+              22.685791,
+              48.451486
+            ],
+            [
+              22.685306,
+              48.451487
+            ],
+            [
+              22.685013,
+              48.451492
+            ],
+            [
+              22.684698,
+              48.451504
+            ],
+            [
+              22.684372,
+              48.451533
+            ],
+            [
+              22.683877,
+              48.451629
+            ],
+            [
+              22.683725,
+              48.451659
+            ],
+            [
+              22.683562,
+              48.451691
+            ],
+            [
+              22.682896,
+              48.451853
+            ],
+            [
+              22.681697,
+              48.452144
+            ],
+            [
+              22.677321,
+              48.453172
+            ],
+            [
+              22.671299,
+              48.45457
+            ],
+            [
+              22.648938,
+              48.459847
+            ],
+            [
+              22.648901,
+              48.459856
+            ],
+            [
+              22.648696,
+              48.459904
+            ],
+            [
+              22.648417,
+              48.45997
+            ],
+            [
+              22.639437,
+              48.462086
+            ],
+            [
+              22.638989,
+              48.462193
+            ],
+            [
+              22.63166,
+              48.463912
+            ],
+            [
+              22.62857,
+              48.464645
+            ],
+            [
+              22.623281,
+              48.465986
+            ],
+            [
+              22.619632,
+              48.466913
+            ],
+            [
+              22.616933,
+              48.467599
+            ],
+            [
+              22.614624,
+              48.468173
+            ],
+            [
+              22.614343,
+              48.468247
+            ],
+            [
+              22.611563,
+              48.468959
+            ],
+            [
+              22.611231,
+              48.469044
+            ],
+            [
+              22.610515,
+              48.469205
+            ],
+            [
+              22.610359,
+              48.469242
+            ],
+            [
+              22.60039,
+              48.471436
+            ],
+            [
+              22.599628,
+              48.471603
+            ],
+            [
+              22.59921,
+              48.471701
+            ],
+            [
+              22.59918,
+              48.471708
+            ],
+            [
+              22.599147,
+              48.471716
+            ],
+            [
+              22.598777,
+              48.471804
+            ],
+            [
+              22.598706,
+              48.47182
+            ],
+            [
+              22.597779,
+              48.472041
+            ],
+            [
+              22.593391,
+              48.473089
+            ],
+            [
+              22.591606,
+              48.473508
+            ],
+            [
+              22.589103,
+              48.47411
+            ],
+            [
+              22.588965,
+              48.474144
+            ],
+            [
+              22.584793,
+              48.475131
+            ],
+            [
+              22.583328,
+              48.475477
+            ],
+            [
+              22.583306,
+              48.475482
+            ],
+            [
+              22.583287,
+              48.475486
+            ],
+            [
+              22.58303,
+              48.475544
+            ],
+            [
+              22.581973,
+              48.475798
+            ],
+            [
+              22.576349,
+              48.477122
+            ],
+            [
+              22.574487,
+              48.47756
+            ],
+            [
+              22.573128,
+              48.47788
+            ],
+            [
+              22.571824,
+              48.478185
+            ],
+            [
+              22.568772,
+              48.478897
+            ],
+            [
+              22.563676,
+              48.480091
+            ],
+            [
+              22.563433,
+              48.480148
+            ],
+            [
+              22.562553,
+              48.480465
+            ],
+            [
+              22.562336,
+              48.480531
+            ],
+            [
+              22.560602,
+              48.480938
+            ],
+            [
+              22.548203,
+              48.483853
+            ],
+            [
+              22.547782,
+              48.483952
+            ],
+            [
+              22.546586,
+              48.484226
+            ],
+            [
+              22.543951,
+              48.484829
+            ],
+            [
+              22.540787,
+              48.485568
+            ],
+            [
+              22.540396,
+              48.485645
+            ],
+            [
+              22.539857,
+              48.48573
+            ],
+            [
+              22.539442,
+              48.485764
+            ],
+            [
+              22.537501,
+              48.4862
+            ],
+            [
+              22.533025,
+              48.487218
+            ],
+            [
+              22.532284,
+              48.487439
+            ],
+            [
+              22.531588,
+              48.487766
+            ],
+            [
+              22.530784,
+              48.488205
+            ],
+            [
+              22.529499,
+              48.488906
+            ],
+            [
+              22.529353,
+              48.488985
+            ],
+            [
+              22.52831,
+              48.489571
+            ],
+            [
+              22.526465,
+              48.490708
+            ],
+            [
+              22.525825,
+              48.491124
+            ],
+            [
+              22.525116,
+              48.491612
+            ],
+            [
+              22.524653,
+              48.491947
+            ],
+            [
+              22.52364,
+              48.492702
+            ],
+            [
+              22.523224,
+              48.493027
+            ],
+            [
+              22.52301,
+              48.49319
+            ],
+            [
+              22.522814,
+              48.493345
+            ],
+            [
+              22.522577,
+              48.493534
+            ],
+            [
+              22.522113,
+              48.493913
+            ],
+            [
+              22.521849,
+              48.494177
+            ],
+            [
+              22.521758,
+              48.494272
+            ],
+            [
+              22.521552,
+              48.494572
+            ],
+            [
+              22.521397,
+              48.494854
+            ],
+            [
+              22.521275,
+              48.49521
+            ],
+            [
+              22.521152,
+              48.495921
+            ],
+            [
+              22.521012,
+              48.497011
+            ],
+            [
+              22.520797,
+              48.49897
+            ],
+            [
+              22.52038,
+              48.502504
+            ],
+            [
+              22.520298,
+              48.502808
+            ],
+            [
+              22.520068,
+              48.503329
+            ],
+            [
+              22.519927,
+              48.50358
+            ],
+            [
+              22.519535,
+              48.504288
+            ],
+            [
+              22.518854,
+              48.505489
+            ],
+            [
+              22.518663,
+              48.505764
+            ],
+            [
+              22.518591,
+              48.505844
+            ],
+            [
+              22.518513,
+              48.505929
+            ],
+            [
+              22.518425,
+              48.506081
+            ],
+            [
+              22.518288,
+              48.506204
+            ],
+            [
+              22.518171,
+              48.506289
+            ],
+            [
+              22.518065,
+              48.506365
+            ],
+            [
+              22.517894,
+              48.506475
+            ],
+            [
+              22.517419,
+              48.506739
+            ],
+            [
+              22.516997,
+              48.50698
+            ],
+            [
+              22.516496,
+              48.507279
+            ],
+            [
+              22.515726,
+              48.507798
+            ],
+            [
+              22.515117,
+              48.508249
+            ],
+            [
+              22.514621,
+              48.508655
+            ],
+            [
+              22.514244,
+              48.509021
+            ],
+            [
+              22.513942,
+              48.509371
+            ],
+            [
+              22.513659,
+              48.50974
+            ],
+            [
+              22.51339,
+              48.510154
+            ],
+            [
+              22.513196,
+              48.510503
+            ],
+            [
+              22.513049,
+              48.510842
+            ],
+            [
+              22.512907,
+              48.511201
+            ],
+            [
+              22.512789,
+              48.511645
+            ],
+            [
+              22.512719,
+              48.511981
+            ],
+            [
+              22.512467,
+              48.51351
+            ],
+            [
+              22.512349,
+              48.514012
+            ],
+            [
+              22.512204,
+              48.514547
+            ],
+            [
+              22.512105,
+              48.514844
+            ],
+            [
+              22.511728,
+              48.515821
+            ],
+            [
+              22.511319,
+              48.516877
+            ],
+            [
+              22.510858,
+              48.518047
+            ],
+            [
+              22.51049,
+              48.519014
+            ],
+            [
+              22.510248,
+              48.51964
+            ],
+            [
+              22.510155,
+              48.519911
+            ],
+            [
+              22.50972,
+              48.521006
+            ],
+            [
+              22.509538,
+              48.521499
+            ],
+            [
+              22.50931,
+              48.522078
+            ],
+            [
+              22.508899,
+              48.52315
+            ],
+            [
+              22.508701,
+              48.523679
+            ],
+            [
+              22.50843,
+              48.524405
+            ],
+            [
+              22.508267,
+              48.524796
+            ],
+            [
+              22.508084,
+              48.525276
+            ],
+            [
+              22.507663,
+              48.52629
+            ],
+            [
+              22.507215,
+              48.527388
+            ],
+            [
+              22.506942,
+              48.528036
+            ],
+            [
+              22.506875,
+              48.528195
+            ],
+            [
+              22.506705,
+              48.528502
+            ],
+            [
+              22.506653,
+              48.528596
+            ],
+            [
+              22.506431,
+              48.528885
+            ],
+            [
+              22.506349,
+              48.529073
+            ],
+            [
+              22.506269,
+              48.529254
+            ],
+            [
+              22.506225,
+              48.529363
+            ],
+            [
+              22.506185,
+              48.529484
+            ],
+            [
+              22.506078,
+              48.529801
+            ],
+            [
+              22.505724,
+              48.53056
+            ],
+            [
+              22.505708,
+              48.530613
+            ],
+            [
+              22.505673,
+              48.530729
+            ],
+            [
+              22.505327,
+              48.531732
+            ],
+            [
+              22.505238,
+              48.531942
+            ],
+            [
+              22.505205,
+              48.532031
+            ],
+            [
+              22.504892,
+              48.532885
+            ],
+            [
+              22.50441,
+              48.534203
+            ],
+            [
+              22.504369,
+              48.534351
+            ],
+            [
+              22.504355,
+              48.534478
+            ],
+            [
+              22.504369,
+              48.534605
+            ],
+            [
+              22.504394,
+              48.534693
+            ],
+            [
+              22.50445,
+              48.535001
+            ],
+            [
+              22.504487,
+              48.535319
+            ],
+            [
+              22.504498,
+              48.535678
+            ],
+            [
+              22.504541,
+              48.536058
+            ],
+            [
+              22.504542,
+              48.536294
+            ],
+            [
+              22.504541,
+              48.53651
+            ],
+            [
+              22.504529,
+              48.536704
+            ],
+            [
+              22.504487,
+              48.536848
+            ],
+            [
+              22.504353,
+              48.537166
+            ],
+            [
+              22.50433,
+              48.537222
+            ],
+            [
+              22.504321,
+              48.537254
+            ],
+            [
+              22.50431,
+              48.537287
+            ],
+            [
+              22.504295,
+              48.537337
+            ],
+            [
+              22.504275,
+              48.537396
+            ],
+            [
+              22.504238,
+              48.537552
+            ],
+            [
+              22.504179,
+              48.537865
+            ],
+            [
+              22.50414,
+              48.538434
+            ],
+            [
+              22.504134,
+              48.538832
+            ],
+            [
+              22.504131,
+              48.539026
+            ],
+            [
+              22.504118,
+              48.539285
+            ],
+            [
+              22.504119,
+              48.539347
+            ],
+            [
+              22.504109,
+              48.539425
+            ],
+            [
+              22.504105,
+              48.539529
+            ],
+            [
+              22.504094,
+              48.539609
+            ],
+            [
+              22.504075,
+              48.539651
+            ],
+            [
+              22.504091,
+              48.539814
+            ],
+            [
+              22.503978,
+              48.539975
+            ],
+            [
+              22.503881,
+              48.540054
+            ],
+            [
+              22.503768,
+              48.54021
+            ],
+            [
+              22.503742,
+              48.540243
+            ],
+            [
+              22.503637,
+              48.540351
+            ],
+            [
+              22.503562,
+              48.54043
+            ],
+            [
+              22.503435,
+              48.540542
+            ],
+            [
+              22.503385,
+              48.540581
+            ],
+            [
+              22.50334,
+              48.540619
+            ],
+            [
+              22.503284,
+              48.540649
+            ],
+            [
+              22.503345,
+              48.540682
+            ],
+            [
+              22.503444,
+              48.540713
+            ],
+            [
+              22.503598,
+              48.540735
+            ],
+            [
+              22.503859,
+              48.540748
+            ],
+            [
+              22.504315,
+              48.540769
+            ],
+            [
+              22.504461,
+              48.540793
+            ],
+            [
+              22.504315,
+              48.540769
+            ],
+            [
+              22.503859,
+              48.540748
+            ],
+            [
+              22.503598,
+              48.540735
+            ],
+            [
+              22.503444,
+              48.540713
+            ],
+            [
+              22.503345,
+              48.540682
+            ],
+            [
+              22.503284,
+              48.540649
+            ],
+            [
+              22.50334,
+              48.540619
+            ],
+            [
+              22.503385,
+              48.540581
+            ],
+            [
+              22.503435,
+              48.540542
+            ],
+            [
+              22.503562,
+              48.54043
+            ],
+            [
+              22.503637,
+              48.540351
+            ],
+            [
+              22.503742,
+              48.540243
+            ],
+            [
+              22.503768,
+              48.54021
+            ],
+            [
+              22.503894,
+              48.540076
+            ],
+            [
+              22.503948,
+              48.540048
+            ],
+            [
+              22.504005,
+              48.540039
+            ],
+            [
+              22.50406,
+              48.540036
+            ],
+            [
+              22.504186,
+              48.540063
+            ],
+            [
+              22.504823,
+              48.540535
+            ],
+            [
+              22.504989,
+              48.540626
+            ],
+            [
+              22.505198,
+              48.54069
+            ],
+            [
+              22.506207,
+              48.540872
+            ],
+            [
+              22.506579,
+              48.540968
+            ],
+            [
+              22.506862,
+              48.541055
+            ],
+            [
+              22.507451,
+              48.541236
+            ],
+            [
+              22.50816,
+              48.541418
+            ],
+            [
+              22.508469,
+              48.541493
+            ],
+            [
+              22.508554,
+              48.54149
+            ],
+            [
+              22.508797,
+              48.541429
+            ],
+            [
+              22.509116,
+              48.541326
+            ],
+            [
+              22.509195,
+              48.541305
+            ],
+            [
+              22.509312,
+              48.541288
+            ],
+            [
+              22.510401,
+              48.541262
+            ],
+            [
+              22.510583,
+              48.541258
+            ],
+            [
+              22.511484,
+              48.540745
+            ],
+            [
+              22.511845,
+              48.540584
+            ],
+            [
+              22.512248,
+              48.540451
+            ],
+            [
+              22.512478,
+              48.540412
+            ],
+            [
+              22.512727,
+              48.540393
+            ],
+            [
+              22.512995,
+              48.540407
+            ],
+            [
+              22.513231,
+              48.54043
+            ],
+            [
+              22.514315,
+              48.540765
+            ],
+            [
+              22.514483,
+              48.540835
+            ],
+            [
+              22.515079,
+              48.541256
+            ],
+            [
+              22.515698,
+              48.541447
+            ],
+            [
+              22.516602,
+              48.541645
+            ],
+            [
+              22.517257,
+              48.541685
+            ],
+            [
+              22.518079,
+              48.541684
+            ],
+            [
+              22.518417,
+              48.54175
+            ],
+            [
+              22.519181,
+              48.541989
+            ],
+            [
+              22.51949,
+              48.542089
+            ],
+            [
+              22.519643,
+              48.542213
+            ],
+            [
+              22.520483,
+              48.543244
+            ],
+            [
+              22.52056,
+              48.543339
+            ],
+            [
+              22.521273,
+              48.544047
+            ],
+            [
+              22.521898,
+              48.544899
+            ],
+            [
+              22.52241,
+              48.54574
+            ],
+            [
+              22.522818,
+              48.546551
+            ],
+            [
+              22.523355,
+              48.54766
+            ],
+            [
+              22.523875,
+              48.548717
+            ],
+            [
+              22.524203,
+              48.549172
+            ],
+            [
+              22.524522,
+              48.549518
+            ],
+            [
+              22.525027,
+              48.549936
+            ],
+            [
+              22.525478,
+              48.550228
+            ],
+            [
+              22.525873,
+              48.550436
+            ],
+            [
+              22.526348,
+              48.550625
+            ],
+            [
+              22.527263,
+              48.550878
+            ],
+            [
+              22.527695,
+              48.551036
+            ],
+            [
+              22.527917,
+              48.551215
+            ],
+            [
+              22.528249,
+              48.551686
+            ],
+            [
+              22.528421,
+              48.551856
+            ],
+            [
+              22.528625,
+              48.55201
+            ],
+            [
+              22.52916,
+              48.552303
+            ],
+            [
+              22.529501,
+              48.552627
+            ],
+            [
+              22.529749,
+              48.553264
+            ],
+            [
+              22.530211,
+              48.553761
+            ],
+            [
+              22.53091,
+              48.554292
+            ],
+            [
+              22.531191,
+              48.554426
+            ],
+            [
+              22.531586,
+              48.554512
+            ],
+            [
+              22.532013,
+              48.554572
+            ],
+            [
+              22.532498,
+              48.554619
+            ],
+            [
+              22.532919,
+              48.554642
+            ],
+            [
+              22.533463,
+              48.554633
+            ],
+            [
+              22.534064,
+              48.554573
+            ],
+            [
+              22.534671,
+              48.554435
+            ],
+            [
+              22.534832,
+              48.55436
+            ],
+            [
+              22.535083,
+              48.554253
+            ],
+            [
+              22.535432,
+              48.554023
+            ],
+            [
+              22.536006,
+              48.553719
+            ],
+            [
+              22.536276,
+              48.553625
+            ],
+            [
+              22.536425,
+              48.553618
+            ],
+            [
+              22.536537,
+              48.553624
+            ],
+            [
+              22.536587,
+              48.553627
+            ],
+            [
+              22.536983,
+              48.553801
+            ],
+            [
+              22.538325,
+              48.554513
+            ],
+            [
+              22.539103,
+              48.555263
+            ],
+            [
+              22.539999,
+              48.555957
+            ],
+            [
+              22.540774,
+              48.556608
+            ],
+            [
+              22.541302,
+              48.557166
+            ],
+            [
+              22.541413,
+              48.557402
+            ],
+            [
+              22.541519,
+              48.557628
+            ],
+            [
+              22.541788,
+              48.55811
+            ],
+            [
+              22.541991,
+              48.558382
+            ],
+            [
+              22.542269,
+              48.558665
+            ],
+            [
+              22.542923,
+              48.559132
+            ],
+            [
+              22.542974,
+              48.55918
+            ],
+            [
+              22.543246,
+              48.559442
+            ],
+            [
+              22.543359,
+              48.55955
+            ],
+            [
+              22.544401,
+              48.56055
+            ],
+            [
+              22.544714,
+              48.56083
+            ],
+            [
+              22.544841,
+              48.56099
+            ],
+            [
+              22.544927,
+              48.56116
+            ],
+            [
+              22.544994,
+              48.561405
+            ],
+            [
+              22.545294,
+              48.5625
+            ],
+            [
+              22.545377,
+              48.563232
+            ],
+            [
+              22.545155,
+              48.564411
+            ],
+            [
+              22.545032,
+              48.565351
+            ],
+            [
+              22.545062,
+              48.565546
+            ],
+            [
+              22.545148,
+              48.565692
+            ],
+            [
+              22.545361,
+              48.565869
+            ],
+            [
+              22.545726,
+              48.56608
+            ],
+            [
+              22.545919,
+              48.566177
+            ],
+            [
+              22.547111,
+              48.566798
+            ],
+            [
+              22.547419,
+              48.566966
+            ],
+            [
+              22.54762,
+              48.5671
+            ],
+            [
+              22.547755,
+              48.567274
+            ],
+            [
+              22.54786,
+              48.567521
+            ],
+            [
+              22.548458,
+              48.56966
+            ],
+            [
+              22.548679,
+              48.570686
+            ],
+            [
+              22.548615,
+              48.571083
+            ],
+            [
+              22.548704,
+              48.571917
+            ],
+            [
+              22.54879,
+              48.572566
+            ],
+            [
+              22.548851,
+              48.572957
+            ],
+            [
+              22.548948,
+              48.573347
+            ],
+            [
+              22.54914,
+              48.574098
+            ],
+            [
+              22.549294,
+              48.57449
+            ],
+            [
+              22.54938,
+              48.574647
+            ],
+            [
+              22.549657,
+              48.574983
+            ],
+            [
+              22.549923,
+              48.575426
+            ],
+            [
+              22.55001,
+              48.575525
+            ],
+            [
+              22.550183,
+              48.575662
+            ],
+            [
+              22.550364,
+              48.575837
+            ],
+            [
+              22.550484,
+              48.575918
+            ],
+            [
+              22.550749,
+              48.576035
+            ],
+            [
+              22.551055,
+              48.576174
+            ],
+            [
+              22.551107,
+              48.576217
+            ],
+            [
+              22.551196,
+              48.576333
+            ],
+            [
+              22.551594,
+              48.576919
+            ],
+            [
+              22.551768,
+              48.577185
+            ],
+            [
+              22.551874,
+              48.577395
+            ],
+            [
+              22.551945,
+              48.577619
+            ],
+            [
+              22.551981,
+              48.57799
+            ],
+            [
+              22.552014,
+              48.578328
+            ],
+            [
+              22.552022,
+              48.578412
+            ],
+            [
+              22.552314,
+              48.579212
+            ],
+            [
+              22.552636,
+              48.580156
+            ],
+            [
+              22.552795,
+              48.580429
+            ],
+            [
+              22.552931,
+              48.580579
+            ],
+            [
+              22.553247,
+              48.580877
+            ],
+            [
+              22.553535,
+              48.581057
+            ],
+            [
+              22.553674,
+              48.581354
+            ],
+            [
+              22.553955,
+              48.581909
+            ],
+            [
+              22.554169,
+              48.582353
+            ],
+            [
+              22.554293,
+              48.582694
+            ],
+            [
+              22.554415,
+              48.58322
+            ],
+            [
+              22.554548,
+              48.583859
+            ],
+            [
+              22.554634,
+              48.584108
+            ],
+            [
+              22.554736,
+              48.584304
+            ],
+            [
+              22.555756,
+              48.585363
+            ],
+            [
+              22.555708,
+              48.585543
+            ],
+            [
+              22.555587,
+              48.585989
+            ],
+            [
+              22.55527,
+              48.587396
+            ],
+            [
+              22.55524,
+              48.587518
+            ],
+            [
+              22.555021,
+              48.587742
+            ],
+            [
+              22.555004,
+              48.587816
+            ],
+            [
+              22.554994,
+              48.587939
+            ],
+            [
+              22.554934,
+              48.588633
+            ],
+            [
+              22.554857,
+              48.58952
+            ],
+            [
+              22.554768,
+              48.590002
+            ],
+            [
+              22.554597,
+              48.590965
+            ],
+            [
+              22.55452,
+              48.59171
+            ],
+            [
+              22.554436,
+              48.59281
+            ],
+            [
+              22.554279,
+              48.593601
+            ],
+            [
+              22.554045,
+              48.593994
+            ],
+            [
+              22.553924,
+              48.594391
+            ],
+            [
+              22.553807,
+              48.594927
+            ],
+            [
+              22.553791,
+              48.59549
+            ],
+            [
+              22.553735,
+              48.59572
+            ],
+            [
+              22.553687,
+              48.596
+            ],
+            [
+              22.553687,
+              48.596333
+            ],
+            [
+              22.553709,
+              48.596624
+            ],
+            [
+              22.553693,
+              48.596936
+            ],
+            [
+              22.553589,
+              48.597294
+            ],
+            [
+              22.553459,
+              48.597603
+            ],
+            [
+              22.553403,
+              48.59769
+            ],
+            [
+              22.553329,
+              48.597744
+            ],
+            [
+              22.553129,
+              48.59783
+            ],
+            [
+              22.552685,
+              48.59797
+            ],
+            [
+              22.552439,
+              48.598043
+            ],
+            [
+              22.552367,
+              48.598104
+            ],
+            [
+              22.552303,
+              48.598181
+            ],
+            [
+              22.552115,
+              48.598607
+            ],
+            [
+              22.551898,
+              48.599028
+            ],
+            [
+              22.551885,
+              48.599147
+            ],
+            [
+              22.551942,
+              48.599319
+            ],
+            [
+              22.552005,
+              48.599493
+            ],
+            [
+              22.552052,
+              48.599689
+            ],
+            [
+              22.552026,
+              48.599928
+            ],
+            [
+              22.551966,
+              48.600043
+            ],
+            [
+              22.551817,
+              48.600181
+            ],
+            [
+              22.551719,
+              48.600299
+            ],
+            [
+              22.551658,
+              48.600417
+            ],
+            [
+              22.551559,
+              48.600981
+            ],
+            [
+              22.551516,
+              48.60101
+            ],
+            [
+              22.551421,
+              48.601049
+            ],
+            [
+              22.551344,
+              48.60108
+            ],
+            [
+              22.55131,
+              48.601106
+            ],
+            [
+              22.55131,
+              48.601129
+            ],
+            [
+              22.551335,
+              48.601278
+            ],
+            [
+              22.55137,
+              48.601465
+            ],
+            [
+              22.551391,
+              48.60173
+            ],
+            [
+              22.551358,
+              48.601989
+            ],
+            [
+              22.551321,
+              48.602212
+            ],
+            [
+              22.5513,
+              48.602316
+            ],
+            [
+              22.551303,
+              48.602428
+            ],
+            [
+              22.551316,
+              48.602503
+            ],
+            [
+              22.551354,
+              48.602582
+            ],
+            [
+              22.55141,
+              48.602701
+            ],
+            [
+              22.551638,
+              48.603182
+            ],
+            [
+              22.5518,
+              48.603544
+            ],
+            [
+              22.551929,
+              48.603774
+            ],
+            [
+              22.552203,
+              48.60417
+            ],
+            [
+              22.552288,
+              48.604223
+            ],
+            [
+              22.552366,
+              48.604271
+            ],
+            [
+              22.55292,
+              48.604617
+            ],
+            [
+              22.553061,
+              48.604746
+            ],
+            [
+              22.553152,
+              48.604862
+            ],
+            [
+              22.553331,
+              48.605097
+            ],
+            [
+              22.553368,
+              48.605152
+            ],
+            [
+              22.553459,
+              48.605294
+            ],
+            [
+              22.553607,
+              48.605548
+            ],
+            [
+              22.553719,
+              48.605708
+            ],
+            [
+              22.553845,
+              48.605901
+            ],
+            [
+              22.554105,
+              48.606256
+            ],
+            [
+              22.554379,
+              48.606562
+            ],
+            [
+              22.554494,
+              48.606746
+            ],
+            [
+              22.554514,
+              48.606794
+            ]
+          ],
+          "type": "LineString"
+        },
+        "weight": 2395.7,
+        "duration": 2386.5,
+        "distance": 31554
+      }
+    ],
+    "waypoints": [
+      {
+        "distance": 25.04768854,
+        "name": "",
+        "location": [
+          22.718525,
+          48.442337
+        ]
+      },
+      {
+        "distance": 66.19959889,
+        "name": "Лінський провулок",
+        "location": [
+          22.504461,
+          48.540793
+        ]
+      },
+      {
+        "distance": 25.1547382,
+        "name": "",
+        "location": [
+          22.554514,
+          48.606794
+        ]
+      }
+    ]
+  }
+}

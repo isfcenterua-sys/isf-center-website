@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "htmlPages": 42,
+  "internalReferences": 5601,
+  "approvedPhotos": 48,
+  "files": 328,
+  "metadataChecks": {
+    "pages": 40,
+    "uniqueTitles": 40,
+    "uniqueDescriptions": 40,
+    "sitemapURLs": 40
+  },
+  "featureChecks": {
+    "ownerSpiritualBlocks": 7,
+    "teamPeople": 3,
+    "maps": 40,
+    "originalMapPin": "0x47390f0003d6df63:0x66c98597db21c08e"
+  },
+  "copyChecks": {
+    "successCase": "PASS",
+    "failureFallback": "PASS"
+  }
+}

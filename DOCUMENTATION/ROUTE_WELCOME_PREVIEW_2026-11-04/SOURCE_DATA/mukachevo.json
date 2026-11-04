@@ -1,0 +1,35 @@
+{
+  "url": "https://nominatim.openstreetmap.org/search?q=%D0%9C%D1%83%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%D0%BE%2C+%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&countrycodes=ua&limit=3&addressdetails=1",
+  "results": [
+    {
+      "place_id": 190389461,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 2283083,
+      "lat": "48.4421119",
+      "lon": "22.7185408",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.5592335181406416,
+      "addresstype": "town",
+      "name": "Мукачево",
+      "display_name": "Мукачево, Мукачівська міська громада, Мукачівський район, Закарпатська область, Україна",
+      "address": {
+        "town": "Мукачево",
+        "municipality": "Мукачівська міська громада",
+        "district": "Мукачівський район",
+        "state": "Закарпатська область",
+        "ISO3166-2-lvl4": "UA-21",
+        "country": "Україна",
+        "country_code": "ua"
+      },
+      "boundingbox": [
+        "48.4100894",
+        "48.4697331",
+        "22.6572896",
+        "22.7642642"
+      ]
+    }
+  ]
+}

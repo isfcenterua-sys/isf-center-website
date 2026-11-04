@@ -1,0 +1,36 @@
+{
+  "result": "PASS",
+  "kind": "Documentary photo exhibition, not a building reconstruction",
+  "sourceCoordinates": [
+    22.5548433,
+    48.606734
+  ],
+  "stages": 5,
+  "objectViews": 4,
+  "files": [
+    {
+      "file": "journey-cinematic.js",
+      "bytes": 2129,
+      "gzipBytes": 1072,
+      "sha256": "dc3cd1d8c92f8031e42eb14f241ec1fb4261a6ea5fc4d35c57fa462ec922a120"
+    },
+    {
+      "file": "cinematic-scene.js",
+      "bytes": 27928,
+      "gzipBytes": 9731,
+      "sha256": "2c6216d86a4f225357e286a45948ad88b3f85ace1de1cd88b4909f4d2a83be34"
+    },
+    {
+      "file": "maps/cinematic-engine.js",
+      "bytes": 542910,
+      "gzipBytes": 145331,
+      "sha256": "919b283f4c32c34a316b2570c2ad3a6b0d7c08adcdb3b5043f6bf37239ef2085"
+    },
+    {
+      "file": "maps/journey-geometry.json",
+      "bytes": 118551,
+      "gzipBytes": 45359,
+      "sha256": "9b7392bd50764bb6fe751c218569232b68c604eb28bcabb9d8ab95300745d033"
+    }
+  ]
+}

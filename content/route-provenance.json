@@ -1,0 +1,68 @@
+{
+  "routeAsset": "assets/maps/zakarpattia-route.json",
+  "sha256": "ca22fea3bf3295cf2e8c0cbb87c83b9e106e0e2c6dd28ba2426526c0ee9dad0a",
+  "bytes": 122278,
+  "gzipBytes": 36690,
+  "roadWays": 1771,
+  "roadPoints": 4144,
+  "routePoints": 538,
+  "routeDistanceMeters": 31554,
+  "stops": [
+    {
+      "id": "mukachevo",
+      "uk": "Мукачево",
+      "en": "Mukachevo",
+      "coordinate": [
+        22.718525,
+        48.442337
+      ],
+      "progress": 0
+    },
+    {
+      "id": "serednie",
+      "uk": "Середнє",
+      "en": "Serednie",
+      "coordinate": [
+        22.504461,
+        48.540793
+      ],
+      "progress": 0.6809829395609881
+    },
+    {
+      "id": "kybliary",
+      "uk": "Кибляри",
+      "en": "Kybliary",
+      "coordinate": [
+        22.5548433,
+        48.606734
+      ],
+      "progress": 1
+    }
+  ],
+  "destinationSnapDistanceMeters": 25.1547382,
+  "welcomePhoto": {
+    "file": "assets/photos/welcome-gate-1600.webp",
+    "originalFile": "C:\\Users\\igor\\Desktop\\welcome-gate-1600.webp",
+    "bytes": 245566,
+    "sha256": "9b55db46a57f293227c18253f16acba082ce0231726f83700ddbb1af7c413852",
+    "unmodified": true
+  },
+  "sourceFiles": [
+    {
+      "file": "mukachevo.json",
+      "sha256": "8274c1df797069e7d53788a1dbb268bd5e9ad022853628428ddc95d3442ccedb"
+    },
+    {
+      "file": "roads-osm-overpass.json",
+      "sha256": "c4f08077c6beea0686760c3ec31fd4ae3b048b8d3de799ff7c4989d3894288db"
+    },
+    {
+      "file": "route-osrm.json",
+      "sha256": "61f502e10718b699ba9f522759e931b38cf65da7df5b7c68df6d0ad859cf0a6c"
+    },
+    {
+      "file": "serednie.json",
+      "sha256": "6f517526c4623f5a57cd53a1664dcd7b7efe8a947287d20808d6338691e7255c"
+    }
+  ]
+}

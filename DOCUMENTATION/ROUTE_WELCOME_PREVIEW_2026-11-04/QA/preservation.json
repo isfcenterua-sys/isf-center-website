@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "items": [
+    {
+      "file": "assets/photos/community-table-1600.webp",
+      "unchanged": true,
+      "sha256NormalizedTextOnly": "de2118cbe66dc6d3beed862951c122b3869b8f0115d57cb391082c264173bfcf"
+    },
+    {
+      "file": "assets/approved-header.css",
+      "unchanged": true,
+      "sha256NormalizedTextOnly": "8d743ac431e2c80a0de5d9b203d2308ef7f194236feb56cf6770dab8f5e5e50d"
+    },
+    {
+      "file": "content/location.json",
+      "unchanged": true,
+      "sha256NormalizedTextOnly": "a6b8be2ad6ca3ee3069d11c311b62dedbb84d992b376004fab5ca746a6d65db8"
+    }
+  ],
+  "photosApproved": 48,
+  "showcase": 45
+}

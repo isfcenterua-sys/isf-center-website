@@ -1,0 +1,36 @@
+{
+  "url": "https://nominatim.openstreetmap.org/search?q=%D0%A1%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%94%2C+%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&countrycodes=ua&limit=3&addressdetails=1",
+  "results": [
+    {
+      "place_id": 189106918,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 5738567,
+      "lat": "48.5413858",
+      "lon": "22.5043823",
+      "category": "boundary",
+      "type": "administrative",
+      "place_rank": 20,
+      "importance": 0.43398728502681116,
+      "addresstype": "town",
+      "name": "Середнє",
+      "display_name": "Середнє, Середнянська селищна громада, Ужгородський район, Закарпатська область, 89452, Україна",
+      "address": {
+        "town": "Середнє",
+        "municipality": "Середнянська селищна громада",
+        "county": "Ужгородський район",
+        "state": "Закарпатська область",
+        "ISO3166-2-lvl4": "UA-21",
+        "postcode": "89452",
+        "country": "Україна",
+        "country_code": "ua"
+      },
+      "boundingbox": [
+        "48.5289020",
+        "48.5522563",
+        "22.4872357",
+        "22.5398352"
+      ]
+    }
+  ]
+}
