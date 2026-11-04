@@ -1,0 +1,33 @@
+{
+  "result": "PASS",
+  "sourceCoordinates": [
+    22.5548433,
+    48.606734
+  ],
+  "pointInsideUkraine": true,
+  "pointInsideZakarpattia": true,
+  "crimeaInsideUkraine": true,
+  "localMapInstances": 2,
+  "files": [
+    {
+      "file": "journey-map.js",
+      "bytes": 9870,
+      "gzipBytes": 3945
+    },
+    {
+      "file": "maps/geo-engine.js",
+      "bytes": 26052,
+      "gzipBytes": 10071
+    },
+    {
+      "file": "maps/journey-geometry.json",
+      "bytes": 118551,
+      "gzipBytes": 45359
+    },
+    {
+      "file": "maps/journey-globe.svg",
+      "bytes": 33374,
+      "gzipBytes": 12891
+    }
+  ]
+}

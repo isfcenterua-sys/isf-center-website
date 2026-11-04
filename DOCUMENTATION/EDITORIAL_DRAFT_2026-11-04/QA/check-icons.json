@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "pages": 42,
+  "pngSizes": [
+    16,
+    32,
+    180,
+    192,
+    512
+  ],
+  "icoSizes": [
+    16,
+    32,
+    48,
+    64,
+    128,
+    256
+  ],
+  "manifests": 3,
+  "legacySVGSelected": false
+}

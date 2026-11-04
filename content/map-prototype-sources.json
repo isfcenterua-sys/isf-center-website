@@ -1,0 +1,123 @@
+{
+  "created": "2026-11-04",
+  "land": {
+    "source": "https://github.com/topojson/world-atlas",
+    "version": "2.0.2",
+    "license": "Public domain"
+  },
+  "ukraine": {
+    "boundaryID": "UKR-ADM0-60985579",
+    "boundaryName": "Ukraine",
+    "boundaryISO": "UKR",
+    "boundaryYearRepresented": "2017",
+    "boundaryType": "ADM0",
+    "boundaryCanonical": "Unknown",
+    "boundarySource": "OpenStreetMap, Wambacher",
+    "boundaryLicense": "Open Data Commons Open Database License 1.0",
+    "licenseDetail": "Open Data Commons Open Database License 1.0",
+    "licenseSource": "www.openstreetmap.org/copyright",
+    "boundarySourceURL": "wambachers-osm.website/boundaries/",
+    "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+    "buildDate": "Dec 12, 2023",
+    "Continent": "Europe",
+    "UNSDG-region": "Europe and Northern America",
+    "UNSDG-subregion": "Eastern Europe",
+    "worldBankIncomeGroup": "Lower-middle-income Countries",
+    "admUnitCount": "1",
+    "meanVertices": "28742.0",
+    "minVertices": "28742",
+    "maxVertices": "28742",
+    "meanPerimeterLengthKM": "9315.486397013734",
+    "minPerimeterLengthKM": "9315.486397013734",
+    "maxPerimeterLengthKM": "9315.486397013734",
+    "meanAreaSqKM": "640065.4183887119",
+    "minAreaSqKM": "640065.4183887119",
+    "maxAreaSqKM": "640065.4183887119",
+    "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0-all.zip",
+    "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0.geojson",
+    "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0.topojson",
+    "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0-PREVIEW.png",
+    "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0_simplified.geojson"
+  },
+  "region": {
+    "boundaryID": "UKR-ADM1-14850775",
+    "boundaryName": "Ukraine",
+    "boundaryISO": "UKR",
+    "boundaryYearRepresented": "2017",
+    "boundaryType": "ADM1",
+    "boundaryCanonical": "Unknown",
+    "boundarySource": "OpenStreetMap, Wambacher",
+    "boundaryLicense": "Open Data Commons Open Database License 1.0",
+    "licenseDetail": "Open Data Commons Open Database License 1.0",
+    "licenseSource": "www.openstreetmap.org/copyright",
+    "boundarySourceURL": "wambachers-osm.website/boundaries/",
+    "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+    "buildDate": "Dec 12, 2023",
+    "Continent": "Europe",
+    "UNSDG-region": "Europe and Northern America",
+    "UNSDG-subregion": "Eastern Europe",
+    "worldBankIncomeGroup": "Lower-middle-income Countries",
+    "admUnitCount": "27",
+    "meanVertices": "5045.0",
+    "minVertices": "916",
+    "maxVertices": "9793",
+    "meanPerimeterLengthKM": "1444.019456713975",
+    "minPerimeterLengthKM": "310.8046923845417",
+    "maxPerimeterLengthKM": "2345.8248573200485",
+    "meanAreaSqKM": "23706.12660698949",
+    "minAreaSqKM": "825.4741195749012",
+    "maxAreaSqKM": "41699.51425669727",
+    "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1-all.zip",
+    "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1.geojson",
+    "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1.topojson",
+    "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1-PREVIEW.png",
+    "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1_simplified.geojson"
+  },
+  "adaptations": {
+    "ukraineToleranceDegrees": 0.012,
+    "regionToleranceDegrees": 0.002,
+    "roundingDecimals": 5,
+    "projectionWinding": "D3 spherical polygon convention",
+    "landRoundingDecimals": 3
+  },
+  "target": {
+    "source": "https://maps.app.goo.gl/tkxzgF4XDRbVpCXZ9",
+    "placeName": "Monastyr",
+    "placeDataId": "0x47390f0003d6df63:0x66c98597db21c08e",
+    "latitude": 48.606734,
+    "longitude": 22.5548433,
+    "plusCode": "JH43+MW",
+    "embed": {
+      "uk": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1319.084616554237!2d22.5542948!3d48.6066038!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47390f0003d6df63%3A0x66c98597db21c08e!2z0JzQvtC90LDRgdGC0LjRgA!5e0!3m2!1suk!2sua!4v1793243944198!5m2!1suk!2sua",
+      "en": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1319.084616554237!2d22.5542948!3d48.6066038!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47390f0003d6df63%3A0x66c98597db21c08e!2sMonastyr!5e0!3m2!1sen!2sua!4v1793243961535!5m2!1sen!2sua"
+    },
+    "caption": {
+      "uk": "Киблярська обитель, село Кибляри, Ужгородський район, Закарпатська область, Україна.",
+      "en": "Kybliary Monastic Community, Kybliary village, Uzhhorod district, Zakarpattia region, Ukraine."
+    },
+    "coordinateSource": "Existing content/location.json, unchanged"
+  },
+  "verification": {
+    "pointWithinUkraine": true,
+    "pointWithinZakarpattia": true,
+    "crimeaWithinUkraine": true
+  },
+  "assets": {
+    "geo-engine.js": {
+      "bytes": 26052,
+      "sha256": "96f703ec6077148990d8fee5181d9400e8e7058dd32b598981f10a91ecde797d"
+    },
+    "journey-geometry.json": {
+      "bytes": 118551,
+      "sha256": "9b7392bd50764bb6fe751c218569232b68c604eb28bcabb9d8ab95300745d033"
+    },
+    "journey-globe.svg": {
+      "bytes": 33374,
+      "sha256": "5257cd3c04257398efa1236f97fe58a05e05280d2812825cdbfb6303bd0ac217"
+    },
+    "NOTICE.txt": {
+      "bytes": 4610,
+      "sha256": "ad69ec655f313b2a190d49b13411ed98bd1fbd3c4ff580ac18e1cff500974cbf"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "samples": 872,
+  "medianMs": 3.5,
+  "p95Ms": 21.40000009536743,
+  "maxMs": 35.299999952316284,
+  "device": "headless Chrome on this Windows computer; no physical mobile test"
+}
