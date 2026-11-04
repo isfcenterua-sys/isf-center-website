@@ -42,10 +42,10 @@ The generator does not require Python or image libraries to rebuild the site. Ch
 The owner requested removal of the “Spiritual fellowship and shared service” card from both the gallery and the spiritual collection. `clergy-encounter` therefore has `showcase: false`; all 48 source photos and originals remain, while 45 cards appear in the gallery. The spiritual-guidance illustration remains available where it has its own different purpose. Collections filter hidden cards before choosing the two-column modifier; phones use one column.
 
 
-## Local editorial / map proposal — not published
+## Approved editorial homepage and map journey
 
 The local `draft/editorial-map-2026-11-04` branch explores an editorial directory, larger documentary features, an asymmetrical photo chronicle and a native archive of existing history/materials. All source photographs and brand assets remain unchanged. `scripts/editorial-draft.mjs` and `assets/editorial-draft.css` own this proposal, scoped to `.editorial-draft`. The approved Header and team Coverflow stay in place.
 
 `assets/journey-map.js` manages a finite, user-triggered orthographic globe journey. Its local `d3-geo` engine and geometry load on demand. Coordinates come only from `content/location.json`; provenance, licenses and hashes are in `content/map-prototype-sources.json` and `assets/maps/NOTICE.txt`. No street/terrain dataset or third-party runtime map service is added. Reduced motion uses static steps; pause, offscreen stopping and load-error/no-JS alternatives are included. Run `node scripts/check-map-prototype.mjs` in addition to the established checks.
 
-The proposal is local-only. Do not push even this branch or deploy without the owner's separate “Подтверждаю, публикуй” confirmation. Review materials are in `DOCUMENTATION/EDITORIAL_DRAFT_2026-11-04/REVIEW.html` and `REPORT.md`.
+The owner approved publication on 4 November 2026 with “публикуй”. The draft review remains as a historical record of the approval stage. Review materials are in `DOCUMENTATION/EDITORIAL_DRAFT_2026-11-04/REVIEW.html` and `REPORT.md`.
