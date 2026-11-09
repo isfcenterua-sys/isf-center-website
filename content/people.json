@@ -2,16 +2,16 @@
   {
     "photo": "bishop-vitalii",
     "name": {
-      "uk": "Єпископ Віталій Ананченко",
-      "en": "Bishop Vitalii Ananchenko"
+      "uk": "Архиєпископ Віталій",
+      "en": "Archbishop Vitalii"
     },
     "role": {
-      "uk": "Єпископ",
-      "en": "Bishop"
+      "uk": "Архиєпископ",
+      "en": "Archbishop"
     },
     "description": {
-      "uk": "Єпископ громади, з яким можна обговорити питання віри та духовного життя. Про можливість особистої бесіди домовляйтеся через офіційні контакти обителі.",
-      "en": "The community’s bishop, with whom visitors may discuss questions of faith and spiritual life. Please use the official contacts to enquire about arranging a conversation."
+      "uk": "Архиєпископ громади, з яким можна обговорити питання віри та духовного життя. Про можливість особистої бесіди домовляйтеся через офіційні контакти обителі.",
+      "en": "The community’s archbishop, with whom visitors may discuss questions of faith and spiritual life. Please use the official contacts to enquire about arranging a conversation."
     },
     "portrait": {
       "src": "/assets/team/bishop-vitalii-640.webp",
@@ -24,16 +24,16 @@
   {
     "photo": "archimandrite-mykola",
     "name": {
-      "uk": "Архімандрит о. Микола Ананченко",
-      "en": "Archimandrite Fr Mykola Ananchenko"
+      "uk": "Ієромонах Микола",
+      "en": "Hieromonk Mykola"
     },
     "role": {
-      "uk": "Архімандрит",
-      "en": "Archimandrite"
+      "uk": "Ієромонах",
+      "en": "Hieromonk"
     },
     "description": {
-      "uk": "Архімандрит і священнослужитель громади. Щодо участі у церковному житті та можливості розмови звертайтеся до обителі.",
-      "en": "An archimandrite and clergy member of the community. Please contact the community about participation in church life or the possibility of a conversation."
+      "uk": "Ієромонах і священнослужитель громади. Щодо участі у церковному житті та можливості розмови звертайтеся до обителі.",
+      "en": "A hieromonk and clergy member of the community. Please contact the community about participation in church life or the possibility of a conversation."
     },
     "portrait": {
       "src": "/assets/team/archimandrite-mykola-640.webp",
